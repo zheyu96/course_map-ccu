@@ -1,0 +1,199 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+#map {
+    width: 100%;
+    height: 100%;
+}
+.searchBar{
+    position: fixed;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+}
+#searchBtn{
+    position: relative;
+    margin-right: 30px;
+    padding: 6px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 3px solid blue;
+    color: blue;
+    background-color: rgba(255, 255, 255, 0.5);
+    transition-duration: 0.5s;
+}
+#searchBtn:hover{
+    color: white;
+    background-color: blue;
+    transition-duration: 0.5s;
+}
+.popupBox .leaflet-popup-content-wrapper{
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+}
+#allname{
+    font-size:2px;
+    color:#6a6353;
+    align-items: center;
+}
+#data{
+    font-size:10px;
+}
+#popupBtn{
+    border: none;
+    width: 100%;
+    background-color: transparent;
+    font-size: 15px;
+    cursor: pointer;
+}
+#popupBtn:hover{
+    border: none;
+    background-color: rgb(225, 215, 147);
+    transition-duration: 0.5s;
+}
+.hintMessageRow{
+    position: fixed;
+    width: 100%;
+    bottom: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+#menuBtn{
+    width: 60px;
+    font-size: 20px;
+    padding: 6px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 3px solid black;
+    background-color: transparent;
+    margin-right: 20px;
+    transition-duration: 0.5s;
+}
+#menuBtn:hover{
+    background-color: black;
+    color: white;
+    transition-duration: 0.3s;
+}
+#menu{
+    display: none;
+    transition: 1s;
+    list-style: none;
+    margin-right: 20px;
+    justify-content: flex-end;
+    top: 50px;
+    right: 0px;
+    position: fixed;
+    z-index: 1000;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 0px;
+    transition-duration: 0.8s;
+    overflow: hidden;
+}
+.submenuBtn{
+    width: 100%;
+    font-size: 20px;
+    border: none;
+    padding: 5px 20px;
+    transition-duration: 0.3s;
+}
+.submenuBtn:hover{
+    background-color: black;
+    color: white;
+    transition-duration: 0.3s;
+}
+#classTable{
+    font-size: 25px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    /*margin: 10px 25px;*/
+}
+#classTable tr, #classTable td{
+    padding: 5px 5px;
+    white-space:nowrap;
+}
+#classTableWrapper{
+    margin-top: 10px;
+    margin-left: 10px;
+    max-height: 90%;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+#timeTableWrapper{
+    display: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    max-height: 90%;
+    overflow-y: scroll;
+}
+#tableBox{
+    display: none;
+    background-color: antiquewhite;
+    position: fixed;
+    left: 70px;
+    top: 90px;
+    height: 590px;
+    width: 700px;
+    border: 2px solid black;
+    border-radius: 10px;
+    z-index: 999;
+    overflow: hidden;
+    cursor: move;
+}
+#classTableBtn{
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+    color: white;
+    opacity: 0.6;
+}
+#classTableBtn:hover{
+    opacity: 1.0;
+}
+.classTableIdxBtn{
+    font-size: 18px;
+}
+.routeStartBtn{
+    font-size: 18px;
+    background-color: green;
+}
+.routeEndBtn{
+    font-size: 18px;
+    background-color: red;
+}
+#classTableTop{
+    height: 40px;
+    background-color: #6a6353;
+    display: flex;
+    justify-content: space-between;
+}
+div.leaflet-top.leaflet-right{
+    z-index: 20000;
+    top: 210px;
+}
+#switchClassBtn{
+    font-size: 16px;
+    border: none;
+    background-color: antiquewhite;
+}
+#switchClassBtn:hover{
+    background-color: antiquewhite;
+}
+#switchTimeBtn{
+    font-size: 16px;
+    border: none;
+}
+#switchTimeBtn:hover{
+    background-color: antiquewhite;
+}
+.trConflict{
+    background-color: rgb(255, 157, 58);
+}
