@@ -17,6 +17,7 @@ import building from './buildingPosition.json.js';
 import course from './csv/course_table.json.js';
 
 var addedCourse = [];
+var addedCourseIdx = [];
 let allMarkerArr = []; //暫時沒用
 let markerCluster = L.markerClusterGroup(); //用來匯集同一經緯度的點
 let routing = null;
@@ -41,6 +42,33 @@ let iconGreen = L.icon({
     iconAnchor: [25, 50],
     popupAnchor: [0, -55]
 });
+
+
+var credit = 0;
+var isSpare = new Array(5); //三維陣列 天-小時-15分鐘
+var addedTimeClass = [];
+for(let i = 0; i < 5; i++){
+    isSpare[i] = new Array(15);
+    for(let j = 0; j < 15; j++){
+        isSpare[i][j] = new Array(4).fill(1);
+    }
+}
+var dayOfWeekCh = {'一': 0, '二': 1, '三': 2, '四': 3, '五': 4, '六': 5, '日': 6};
+var dayOfWeekEn = ['Mon', 'Tue', 'Wen', 'Thu', 'Fri'];
+var numtoday="一二三四五六日";
+
+//check cookie
+console.log(document.cookie);
+if(document.cookie != "" && document.cookie != "course=[]"){
+    let cookieSplit = document.cookie.split("course=");
+    let cookieIdx = JSON.parse(cookieSplit[1]);
+    console.log(cookieIdx);
+    cookieIdx.forEach(e => addcourse(parseInt(e), {"value":""}));
+}
+function updateCookie(newData){
+    document.cookie = "course="+JSON.stringify(newData);
+    console.log(document.cookie);
+}
 
 function setRoutingMachine(){
     if(routing != null){
@@ -186,6 +214,8 @@ function deleteMarkerRow(obj, marker, LatLng, row){
     }for(let i = 0; i < addedCourse.length; i++){
         if(obj.index == addedCourse[i].index){
             addedCourse.splice(i, 1);
+            addedCourseIdx.splice(i, 1);
+            updateCookie(addedCourseIdx);
         }
     }for(let i = 0; i < allMarkerArr.length; i++){
         if(obj.index == allMarkerArr[i].index){
@@ -355,7 +385,9 @@ function addcourse(courseID, input){
                 }
             }if(flag){
                 addedCourse.push(course[courseID]);
+                addedCourseIdx.push(courseID);
                 createMarker(course[courseID],building[i].latitude,building[i].longitude);
+                updateCookie(addedCourseIdx);
             }
             used=1;
         }
@@ -405,19 +437,7 @@ function filterFunction(){
     }
 }
 
-var credit = 0;
-var isSpare = new Array(5); //三維陣列 天-小時-15分鐘
-var addedTimeClass = [];
-for(let i = 0; i < 5; i++){
-    isSpare[i] = new Array(15);
-    for(let j = 0; j < 15; j++){
-        isSpare[i][j] = new Array(4).fill(1);
-    }
-}
 
-var dayOfWeekCh = {'一': 0, '二': 1, '三': 2, '四': 3, '五': 4, '六': 5, '日': 6};
-var dayOfWeekEn = ['Mon', 'Tue', 'Wen', 'Thu', 'Fri'];
-var numtoday="一二三四五六日";
 
 function timeFromCharToInt(c){
     if(!isNaN(c)){
