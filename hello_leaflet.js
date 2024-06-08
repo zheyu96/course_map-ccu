@@ -54,7 +54,7 @@ for(let i = 0; i < 5; i++){
     }
 }
 var dayOfWeekCh = {'一': 0, '二': 1, '三': 2, '四': 3, '五': 4, '六': 5, '日': 6};
-var dayOfWeekEn = ['Mon', 'Tue', 'Wen', 'Thu', 'Fri'];
+var dayOfWeekEn = ['Mon', 'Tue', 'Wen', 'Thu', 'Fri', 'Sat'];
 var numtoday="一二三四五六日";
 
 //check cookie
@@ -63,10 +63,17 @@ if(document.cookie != "" && document.cookie != "course=[]"){
     let cookieSplit = document.cookie.split("course=");
     let cookieIdx = JSON.parse(cookieSplit[1]);
     console.log(cookieIdx);
-    cookieIdx.forEach(e => addcourse(parseInt(e), {"value":""}));
+    for(let i = 0; i < cookieIdx.length; i++){
+        if(cookieIdx[i][1]){
+            addcourse(parseInt(cookieIdx[i][0]), {"value":""}, "normal");
+        }if(!cookieIdx[i][1]){
+            addcourse(parseInt(cookieIdx[i][0]), {"value":""}, "cookie");
+            //document.getElementById("classTable").getElementsByTagName("tr")[i].lastChild.firstChild.click();
+        }
+    }
 }
-function updateCookie(newData){
-    document.cookie = "course="+JSON.stringify(newData);
+function updateCookie(){
+    document.cookie = "course="+JSON.stringify(addedCourseIdx);
     console.log(document.cookie);
 }
 
@@ -159,6 +166,7 @@ function createClassRow(obj, marker){
     name+="<span style='font-size: 18px;'>"+' '+obj['任課教授']+' '+obj['上課時間']+"</span>";
     let table = document.getElementById("classTable");
     let row = table.insertRow(-1);
+    //row.setAttribute("style", "align='center'");
     let cell1 = row.insertCell(-1); //課程名稱
     let cell2 = row.insertCell(-1); //刪除課程按鈕
     //let cell3 = row.insertCell(-1); //路線起點
@@ -167,12 +175,13 @@ function createClassRow(obj, marker){
     let cell6 = row.insertCell(-1); //移除時間表
     //1
     cell1.innerHTML = name;
+    cell1.setAttribute('style', 'min-width:450px')
     //2
     let delBtn = document.createElement('button');
     delBtn.innerText = "刪除";
     delBtn.setAttribute('class', 'classTableIdxBtn');
-    let LatLng = marker.getLatLng();
-    delBtn.onclick = function(){deleteMarkerRow(obj, marker, LatLng, row)};
+    //let LatLng = marker.getLatLng();
+    delBtn.onclick = function(){deleteMarkerRow(obj, marker, row)};
     cell2.appendChild(delBtn);
     /*
     //3
@@ -200,12 +209,12 @@ function createClassRow(obj, marker){
     delTimeBtn.innerText = "移出時間表";
     delTimeBtn.setAttribute('class', 'classTableIdxBtn');
     cell6.appendChild(delTimeBtn);
-    delTimeBtn.onclick = function(){restoreSpare(obj, row)};
+    delTimeBtn.onclick = function(){restoreSpare(obj, row, "time")};
     return row; //將一整個row回傳，以讓刪除function判斷當下是第幾個row
 }
 
 //刪除marker
-function deleteMarkerRow(obj, marker, LatLng, row){
+function deleteMarkerRow(obj, marker, row){
     console.log(obj.index);
     console.log(routeStart.index);
     console.log(routeEnd.index);
@@ -215,7 +224,7 @@ function deleteMarkerRow(obj, marker, LatLng, row){
         if(obj.index == addedCourse[i].index){
             addedCourse.splice(i, 1);
             addedCourseIdx.splice(i, 1);
-            updateCookie(addedCourseIdx);
+            updateCookie();
         }
     }for(let i = 0; i < allMarkerArr.length; i++){
         if(obj.index == allMarkerArr[i].index){
@@ -224,16 +233,23 @@ function deleteMarkerRow(obj, marker, LatLng, row){
     }
     markerCluster.removeLayer(marker);
     document.getElementById("classTable").deleteRow(row.rowIndex);
-    restoreSpare(obj, row);
+    restoreSpare(obj, row, "delete");
 }
 
 
 //增加marker
-function createMarker(obj, latitude, longitude){
+function createMarker(obj, latitude, longitude, mode){// normal, cookie
     let name = obj['科目名稱'].split(/['\n'' ']/)[0];
     let marker = L.marker([latitude,longitude], {icon: iconBlue});
     let row = createClassRow(obj, marker);
-    appendTimeTable(obj, row);
+    if(mode == "normal"){
+        appendTimeTable(obj, row);
+    }else{
+        updateCookieArr(obj.index, 0);
+        row.setAttribute('class', 'trConflict');
+        row.getElementsByTagName('td')[2].style = 'display: block';
+        row.getElementsByTagName('td')[3].style = 'display: none';
+    }
     let parentDiv = document.createElement('div');
     let courseName = document.createElement('div');
     courseName.innerText = name;
@@ -257,7 +273,7 @@ function createMarker(obj, latitude, longitude){
     let LatLng = marker.getLatLng();
     let popupDelBtn = document.createElement('button');
     popupDelBtn.innerText = '刪除';
-    popupDelBtn.onclick = function(){deleteMarkerRow(obj, marker, LatLng, row)};
+    popupDelBtn.onclick = function(){deleteMarkerRow(obj, marker, row)};
     popupDelBtn.id = 'popupBtn';
     let popupStartBtn = document.createElement('button');
     popupStartBtn.innerText = '設為路線起點';
@@ -279,29 +295,6 @@ function createMarker(obj, latitude, longitude){
     allMarkerArr.push({'index': obj.index,'marker':marker});
     markerCluster.addLayer(marker);
 }
-
-/*
-let inputBuilding; //存取輸入建築
-
-//點集搜尋按鈕後的function
-function clickSearchBtnFunc(){
-    inputBuilding = document.getElementById("input").value;
-    if(inputBuilding != ''){
-        for(let i = 0; i < buildingPositionArr.length; i++){
-            if(buildingPositionArr[i].name == inputBuilding){
-                let x, y, z;
-                ({name:x, latitude:y, longitude:z} = buildingPositionArr[i]);
-                createMarker(x, y, z);
-                break;
-            }else if(i == buildingPositionArr.length-1){
-                alert("無對應建築");
-            }
-        }
-    }else{
-        alert("請勿輸入空值");
-    }
-}
-*/
 
 //右上角選單 關或開
 let menuStatus = 0; //0 = close; 1 = open
@@ -371,7 +364,7 @@ function closeRouting(){
     routeStart.index = routeEnd.index = routeStart.btnStatus = routeStart.LatLng = routeEnd.btnStatus = routeEnd.LatLng = routeStart.marker = routeEnd.marker = null;
 }
 
-function addcourse(courseID, input){
+function addcourse(courseID, input, mode){
     let txtValue=course[courseID]['上課地點'];
     let flag = 1;
     //alert(txtValue);
@@ -385,9 +378,7 @@ function addcourse(courseID, input){
                 }
             }if(flag){
                 addedCourse.push(course[courseID]);
-                addedCourseIdx.push(courseID);
-                createMarker(course[courseID],building[i].latitude,building[i].longitude);
-                updateCookie(addedCourseIdx);
+                createMarker(course[courseID],building[i].latitude,building[i].longitude, mode);
             }
             used=1;
         }
@@ -418,7 +409,7 @@ function filterFunction(){
             btn.id = course[i].index;
             btn.innerText = course[i]['科目名稱'] +'\n' + course[i]['任課教授'] + ' ' + course[i]['上課時間'];
             //console.log(btn.id)
-            btn.onclick = function(){addcourse(btn.id, input)};
+            btn.onclick = function(){addcourse(btn.id, input, "normal")};
             insertpos.appendChild(btn);
             //insertpos.innerHTML+="<button id="+course[i].index+">"+course[i].SubjectName+"</button>";
             //insertpos.onclick = function(){addcourse(course[i].index)}
@@ -485,6 +476,11 @@ function getTimeRoutePos(preTxtValue, nowTxtValue){
 }
 
 function sortShowTimeTable(){
+    for(let i = 0; i < 5; i++){
+        while (document.getElementById(dayOfWeekEn[i]).children[1]) {
+            document.getElementById(dayOfWeekEn[i]).removeChild(document.getElementById(dayOfWeekEn[i]).children[1]);
+        }
+    }
     let nowDayIdx = -1;
     let prevE;
     credit = 0;
@@ -583,7 +579,10 @@ function updateSpare(obj){
     return returnArr;
 }
 
-function restoreSpare(obj, row){
+function restoreSpare(obj, row, mode){ //delete, time
+    if(mode == "time"){
+        updateCookieArr(obj.index, 0);
+    }
     row.setAttribute('class', 'trConflict');
     row.getElementsByTagName('td')[2].style = 'display: block';
     row.getElementsByTagName('td')[3].style = 'display: none';
@@ -607,22 +606,33 @@ function restoreSpare(obj, row){
             i--;
         }
     }
-    for(let i = 0; i < 5; i++){
-        while (document.getElementById(dayOfWeekEn[i]).children[1]) {
-            document.getElementById(dayOfWeekEn[i]).removeChild(document.getElementById(dayOfWeekEn[i]).children[1]);
-        }
-    }
     sortShowTimeTable();
+}
+
+function updateCookieArr(idx, inTime){
+    let inArr = 0;
+    for(let i = 0; i < addedCourseIdx.length; i++){
+        if(idx == addedCourseIdx[i][0]){
+            addedCourseIdx[i][1] = inTime;
+            inArr = 1;
+            break;
+        }
+    }if(!inArr){
+        addedCourseIdx.push([idx,inTime]);
+    }
+    updateCookie();
 }
 
 function appendTimeTable(obj, row){
     let flag = updateSpare(obj);
     if(flag == 0){
+        updateCookieArr(obj.index, 0);
         alert(obj['科目名稱'].split(/['\n'' ']/)[0]+"加至時間表失敗 (衝堂)");
         row.setAttribute('class', 'trConflict');
         row.getElementsByTagName('td')[2].style = 'display: block';
         row.getElementsByTagName('td')[3].style = 'display: none';
     }else{
+        updateCookieArr(obj.index, 1);
         row.removeAttribute('class');
         row.getElementsByTagName('td')[2].style = 'display: none';
         row.getElementsByTagName('td')[3].style = 'display: block';
@@ -631,11 +641,6 @@ function appendTimeTable(obj, row){
             newObj.cmp = e;
             addedTimeClass.push(newObj);
         });
-        for(let i = 0; i < 5; i++){
-            while (document.getElementById(dayOfWeekEn[i]).children[1]) {
-                document.getElementById(dayOfWeekEn[i]).removeChild(document.getElementById(dayOfWeekEn[i]).children[1]);
-            }
-        }
         sortShowTimeTable();
     }
 }
