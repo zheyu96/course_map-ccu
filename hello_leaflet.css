@@ -114,6 +114,7 @@ html,body{
     font-size: 25px;
     border-collapse: collapse;
     border-spacing: 0;
+    min-width: 100%;
     /*margin: 10px 25px;*/
 }
 #classTable tr, #classTable td{
