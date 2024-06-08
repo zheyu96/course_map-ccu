@@ -13,8 +13,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 
 //導入經緯度座標
-import building from './buildingPosition.json.js';
-import course from './csv/course_table.json.js';
+import building from './data/cleaned_locations.json.js';
+import course from './data/all_course.json.js';
 
 var addedCourse = [];
 var addedCourseIdx = [];

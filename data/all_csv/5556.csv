@@ -1,0 +1,39 @@
+﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,5555001,01,醫療資訊系統Medical Information System,黃維民,"3
+            3/0/0",3,必修,"三12,13,14",管理學院119,0,碩士班課程,link,
+1,5555002,01,研究方法Reserch Method,洪新原,"3
+            3/0/0",3,必修,"四7,8,9",管理學院616A,0,碩士班課程,link,
+1,5555003,01,資料通訊與網路Data Communications & Networks (全英語授課/English-taught),吳帆,"3
+            3/0/0",3,選修,"二10,11,12",管理學院415,0,碩士班課程,link,",列入資通安全學程(1091起停辦)科目"
+1,5555025,01,醫務品質管理Medical Quality Management,廖學志,"3
+            3/0/0",3,選修,"一3,4,5",管理學院616B,0,碩士班課程,link,
+1,5555027,01,醫療資訊管理專題Seminar in Medical Information Management,林勝為 陳汶均,"1
+            1/0/0",1,必修,二12,管理學院119,0,碩士班課程,link,
+1,5555040,01,網路行銷策略Internet Marketing Strategy (全英語授課/English-taught),羅美玲,"3
+            3/0/0",3,選修,"三7,8,9",管理學院616A,0,碩士班課程,link,
+1,5555052,01,醫療機構組織與管理Healthcare Organizational Management,教師未定,"3
+            3/0/0",3,選修,"三3,4,5",管理學院616B,0,碩士班課程,link,
+1,5555055,01,物件導向系統分析與設計Object-Oriented Systems Analysis and Design,吳帆,"3
+            3/0/0",3,選修,"三10,11,12",管理學院415,0,碩士班課程,link,",列入軟體工程學程科目"
+1,5555057,01,醫療決策支援系統Healthcare Decision Support Systems,陳汶均,"3
+            3/0/0",3,必修,"一7,8,9",管理學院119,0,碩士班課程,link,
+1,5555058,01,管理資訊系統研究Management Information Systems Research (全英語授課/English-taught),羅美玲,"3
+            3/0/0",3,選修,"二8,9,10",管理學院616A,0,碩士班課程,link,
+1,5555059,01,遠距健康照護Telehealthcare,教師未定,"3
+            3/0/0",3,選修,"二3,4,5",管理學院119,0,碩士班課程,link,
+1,5555066,01,影像處理與應用Image Processing and Applications,許巍嚴,"3
+            3/0/0",3,選修,"二3,4,5",管理學院616A,0,碩士班課程,link,
+1,5555078,01,醫療大數據分析與應用Analysis and Application of Healthcare Data (全英語授課/English-taught),林育秀,"3
+            3/0/0",3,選修,"二3,4,5",管理學院349,0,碩博合開,link,
+1,5555128,01,高等研究方法Advanced Research Method,洪新原,"3
+            3/0/0",3,必修,"二7,8,9",管理學院608,0,博士班課程,link,
+1,5555129,01,高等企業資料通訊與網路Advanced Data Communications & Networks (全英語授課/English-taught),許經國,"3
+            3/0/0",3,必修,"三12,13,14",管理學院608,0,博士班課程,link,
+1,5555130,01,高等管理資訊系統Advanced Management Information Systems (全英語授課/English-taught),李有仁,"3
+            3/0/0",3,必修,"二12,13,14",管理學院608,0,博士班課程,link,
+1,5555131,01,高等健康資訊學Advanced Health Informatics,黃維民,"3
+            3/0/0",3,必修,"一12,13,14",管理學院608,0,博士班課程,link,
+1,5555132,01,高等資管專題研討(一)Seminar in Advanced Information Management(I),李有仁,"2
+            0/0/2",1,必修,"三8,9",管理學院608,0,博士班課程,link,
+1,5555133,01,資訊管理實習(一)Practice of Information Management(I),吳帆,"6
+            0/6/0",3,選修,"五1,2,3,4,5,6",管理學院608,0,碩士班課程,link,

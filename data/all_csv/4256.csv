@@ -1,0 +1,53 @@
+﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,4255011,01,專題討論（一）Graduate Seminar (I),黃光策,"2
+            0/0/2",1,必修,"三8,9",工學院B館119,0,碩士班課程,link,碩士班一年級必修
+1,4255031,01,專題討論（三）Graduate Seminar (III),郭勇志,"2
+            0/0/2",1,必修,"三8,9",工學院B館218,0,碩士班課程,link,碩士班二年級必修
+1,4255062,01,碩士論文（二）Master Thesis (II),傅友君,"2
+            2/0/0",2,必修,三6 五6,工學院B館219,0,碩士班課程,link,碩士班二年級必修
+1,4255245,01,超臨界流體操作概論Introduction of Supercritical Fluid Operation,林昭任,"3
+            3/0/0",3,選修,"五E,F",工學院B館220,0,碩博合開,link,
+1,4255400,01,高等化工熱力學Advanced Chemical Thermodynamics (全英語授課/English-taught),華繼中,"3
+            3/0/0",3,選修,"二B,C",工學院B館201,0,碩博合開,link,
+1,4255541,01,高分子流變學Polymer Rheology,華繼中,"3
+            3/0/0",3,選修,"五B,C",工學院B館203,0,碩博合開,link,
+1,4255560,01,反應工程與反應器設計Reaction Engineering and Reactor Design (全英語授課/English-taught),傅友君,"3
+            3/0/0",3,選修,一C 三C,工學院B館201,0,碩博合開,link,
+1,4255572,01,精密材料合成Precision Polymers and Preparations (全英語授課/English-taught),蔡敬誠,"3
+            3/0/0",3,選修,"二G,H",工學院B館318,60,碩博合開,link,
+1,4255580,01,生化工程Biochemical Engineering (全英語授課/English-taught),黃光策,"3
+            3/0/0",3,選修,"四B,C",工學院B館201,0,碩博合開,link,",列入自然科學與材料生物科技全英文學分學程科目"
+1,4255721,01,發酵程序控制Control of Fermentation Processes,王逢盛,"3
+            3/0/0",3,選修,"二E,F",工學院B館303,0,碩博合開,link,
+1,4255742,01,生物工程特論Special Toics on Bioengineering,郭勇志,"3
+            3/0/0",3,選修,"二B,C",工學院B館203,0,碩博合開,link,
+1,4255802,01,材料鑑識Forensic Material Identification,李承龍,"3
+            3/0/0",3,選修,"五I,J",工學院B館201,0,碩博合開,link,開放大四學生選修
+1,4255803,01,材料相平衡Phase Equilibria of Materials,王朝弘,"3
+            3/0/0",3,選修,"三G,H",工學院B館201,0,碩博合開,link,
+1,4255930,01,精密陶瓷製造Fine Ceramic Processing,陳建忠,"3
+            3/0/0",3,選修,"二E,F",工學院B館218,0,碩博合開,link,
+1,4255940,01,電化學能源技術Electrochemical Energy Technology (全英語授課/English-taught),傅友君,"3
+            3/0/0",3,選修,二E 四E,工學院B館219,0,碩博合開,link,
+1,4255955,01,仿生與雙離子材料Bioinspired and Zwitterionic Materials,周盈年,"3
+            3/0/0",3,選修,"四E,F",工學院B館203,0,碩博合開,link,
+1,4255957,01,人工智慧在化工上的應用Artificial Intelligent Applications on Chemical Engineering,教師未定,"3
+            3/0/0",3,選修,"二E,F",工學院B館203,0,碩博合開,link,
+1,4256011,01,博士論文（一）Doctoral Thesis (I),李元堯,"2
+            0/0/2",1,必修,"一13,14",工學院B館203,0,博士班課程,link,博士班1年級必修
+1,4256012,01,博士專討（一）Graduate Seminar (I),李元堯,"2
+            0/0/2",1,必修,二1 四1,工學院B館219,0,博士班課程,link,博士班1年級必修
+1,4256031,01,博士論文（三）Doctoral Thesis (III),李元堯,"2
+            0/0/2",1,必修,"三13,14",工學院B館201,0,博士班課程,link,博士班二年級必修
+1,4256032,01,博士專討（三）Graduate Seminar (III),李元堯,"2
+            0/0/2",1,必修,一1 三1,工學院B館203,0,博士班課程,link,博士班二年級必修
+1,4256051,01,博士論文（五）Doctoral Thesis (V),李元堯,"2
+            0/0/2",1,必修,"二13,14",工學院B館203,0,博士班課程,link,博士班3年級必修
+1,4256052,01,博士專討（五）Graduate Seminar (V),李元堯,"2
+            0/0/2",1,必修,三6 五6,工學院B館220,0,博士班課程,link,博士班3年級必修
+1,4256082,01,博士專討（七）Graduate Seminar (VII),李元堯,"2
+            0/0/2",1,必修,"四13,14",工學院B館203,0,博士班課程,link,博士班4年級必修
+1,4257730,01,軟質材料Soft Materials,陳靜誼,"3
+            3/0/0",3,選修,"二E,F",工學院B館318,0,碩博合開,link,
+1,4257750,01,化工單元操作應用實務Chemical engineering unit operation application,陳錦坤,"3
+            3/0/0",3,選修,"一E,F",工學院B館201,40,碩博合開,link,開放大四選修，限曾經修習單元操作與輸送現象之化工系學生選修

@@ -1,0 +1,43 @@
+﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
+1,2351001,01,地球與環境科學概論（一）Introduction to Earth and Environmental Sciences ( I ),王維豪 温怡瑛 陳嘉俞,"3
+            3/0/0",3,必修,一F 三F,地震館302,85,link,"保留新生55人 ,列入循環科技與永續發展學分學程科目"
+1,2351003,01,地球與環境科學概論實習（一）Introduction to Earth and Environmental Sciences Laboratory ( I ),葉玉蓮,"3
+            0/3/0",1,必修,"二E,F",數學館106,25,link,保留新生25人限本系生修.限本系大一學號單號學生修課，於加退選期間開放外系學生選修。
+1,2351003,02,地球與環境科學概論實習（一）Introduction to Earth and Environmental Sciences Laboratory ( I ),葉玉蓮,"3
+            0/3/0",1,必修,"五C,D",數學館106,25,link,保留新生25人限本系生修.限本系大一學號雙號學生修課，於加退選期間開放外系學生選修。
+2,2352001,01,工程數學（一）Engineering Mathematics,鄭凱謙,"3
+            3/0/0",3,必修,二C 四C,地震館302,85,link,
+2,2352003,01,地球物理學Geophysics,張永孚,"3
+            3/0/0",3,必修,"五C,D",地震館302,85,link,
+2,2352006,01,環境生態學Environmental Ecology,范誠偉,"3
+            3/0/0",3,選修,一C 三C,地震館302,85,link,",列入環境生物技術學程科目 ,列入循環科技與永續發展學分學程科目"
+2,2352017,01,分析化學Analytical Chemistry,趙鴻椿,"3
+            3/0/0",3,選修,"二E,F",地震館304,28,link,
+2,2352023,01,礦物與岩石學Mineralogy and Petrology,呂學諭,"3
+            3/0/0",3,必修,一G 三G,地震館302,85,link,
+2,2352025,01,環境微生物Environmental Microbiology,許昺慕,"3
+            3/0/0",3,選修,"二E,F",地震館302,85,link,",列入環境生物技術學程科目 ,列入循環科技與永續發展學分學程科目"
+3,2353017,01,儀器學與實習Instrumentation : Theory and Practice,温士忠,"3
+            3/0/0",3,選修,"四7,8,9",地震館302,85,link,共同專業領域
+3,2353019,01,流體力學Fluid Mechanics(遠距教學/Distant learning),劉台生,"3
+            3/0/0",3,選修,"二13,14,15",地震館102,55,link,
+2,2353023,01,地震教育Seismology Education,温士忠 葉玉蓮,"3
+            3/0/0",3,選修,一E 三E,地震館102,40,link,
+3,2353027,01,水化學Aqueous Chemistry,呂學諭,"3
+            3/0/0",3,選修,"三E,F",地震館107,60,link,",列入環境生物技術學程科目"
+3,2353031,01,地形學Geomorphology,謝孟龍,"3
+            3/0/0",3,選修,一B 三B,地震館107,60,link,
+3,2353033,01,專題研究（一）Special Topics （I）,劉台生,"2
+            2/0/0",2,選修,"五10,11",地震館305,32,link,限本系生修.
+3,2353035,01,有限差分法及其應用Finite difference method and its applications,王維豪 呂學諭,"3
+            3/0/0",3,選修,一C 三C,地震館305,32,link,
+3,2353037,01,震源與破裂過程Earthquake source and rupture process,温怡瑛,"3
+            3/0/0",3,選修,"五C,D",地震館305,32,link,
+3,2353039,01,統計分析與應用Statistical analysis and applications,劉台生,"3
+            3/0/0",3,必修,二B 四B,地震館302,85,link,",列入環境生物技術學程科目"
+3,2353041,01,環境工程（二）Environmental Engineering (II),范誠偉,"3
+            3/0/0",3,選修,"二E,F",地震館102,55,link,
+4,2354007,01,環境規畫與管理Environmental Planning and Management,謝孟龍,"3
+            3/0/0",3,選修,"五7,8,9",地震館301,38,link,",列入循環科技與永續發展學分學程科目"
+4,2354019,01,野外地球物理Field Geophysics,温士忠,"3
+            3/0/0",3,選修,"五13,14,15",地震館302,85,link,先修科目(2353011)地球物理探勘(曾經修習) (2352003)地球物理學(曾經修習) (只要符合任一先修條件)

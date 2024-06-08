@@ -1,0 +1,47 @@
+﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,4416001,01,專題研討(一)Seminar I (全英語授課/English-taught),郭秉寰,"2
+            0/0/2",1,必修,"五7,8",工學院B館214右,0,碩士班課程,link,與前瞻學程合開
+1,4416002,01,光學特論二Special topic on optics(II) (全英語授課/English-taught),張國恩,"3
+            3/0/0",3,選修,"二8,9,10",工學院B館214右,0,碩士班課程,link,與機械所、前瞻學程合開
+1,4416003,01,大氣電漿技術應用與檢測Applications and Characterization of Atmospheric-Pressure Plasma Technology (全英語授課/English-taught),林昆模,"3
+            3/0/0",3,選修,"三3,4,5",工學院B館214左,0,碩士班課程,link,與機械所、前瞻學程合開，開放大三大四修課
+1,4416004,01,二相流與沸騰熱傳Two-phase flow and boiling heat transfer (全英語授課/English-taught),林昱辰,"3
+            3/0/0",3,選修,"二3,4,5",工學院B館215右,0,碩士班課程,link,與機械所、前瞻學程合開，開放大三大四修課
+1,4416005,01,中等流體力學Intermediate Fluid Dynamics (全英語授課/English-taught),林昱辰,"3
+            3/0/0",3,選修,"一8,9,10",工學院B館215右,0,碩士班課程,link,與機械所、前瞻學程合開，開放大三大四修課
+1,4416006,01,電腦輔助機械製造Computer-Aided Manufacturing (全英語授課/English-taught),林榮信,"3
+            3/0/0",3,選修,二F 四F,工學院B館214左,0,碩士班課程,link,與機械所、前瞻學程合開
+1,4416007,01,計算機幾何輔助之分析與製造應用特論Special Topic on Computational Geometry Supported Analysis and Manufacturing Application (全英語授課/English-taught),高永洲,"3
+            3/0/0",3,選修,"一7,8,9",創新大樓222,0,碩士班課程,link,與機械所、前瞻學程合開
+1,4416008,01,結構動力學Structural Dynamics (全英語授課/English-taught),鄭志鈞,"3
+            3/0/0",3,選修,"二4,5,6",工學院B館214右,0,碩士班課程,link,與機械所、前瞻學程合開
+1,4416009,01,有限元素分析Finite Element Analysis (全英語授課/English-taught),劉德騏,"3
+            3/0/0",3,選修,"五6,7,8",創新大樓202,0,碩士班課程,link,與機械所、前瞻學程合開
+1,4416010,01,彈性力學Elasticity (全英語授課/English-taught),林派臣,"3
+            3/0/0",3,選修,"一13,14,15",工學院B館215右,0,碩士班課程,link,與機械所、前瞻學程合開，開放大三大四修課
+1,4416011,01,高等控制技術專論Special Topics on Advanced Control Technologies (全英語授課/English-taught),陳世樂,"3
+            3/0/0",3,選修,"四7,8,9",創新大樓222,0,碩士班課程,link,與機械所、前瞻學程合開，開放大四修課
+1,4416012,01,線性系統Linear Systems (全英語授課/English-taught),洪博雄,"3
+            3/0/0",3,選修,"四10,11,12",工學院B館214左,1,碩士班課程,link,限修1人，與機械所、前瞻學程合開，開放大四修課
+1,4416013,01,光機電整合工程學Optomechatronics (全英語授課/English-taught),王祥辰,"3
+            3/0/0",3,選修,"五8,9,10",創新大樓105,0,碩士班課程,link,與光機電所、前瞻學程合開
+1,4416014,01,電業自由化概論An Introduction to Electric Utility Deregulation (全英語授課/English-taught),吳元康,"3
+            3/0/0",3,選修,"四G,H",工學院A館226,0,碩士班課程,link,與電機所、前瞻學程合開
+1,4416015,01,視訊處理Video Processing (全英語授課/English-taught),江瑞秋,"3
+            3/0/0",3,選修,"三8,9,10",工學院A館226,0,碩士班課程,link,與電機所、前瞻學程合開
+1,4416016,01,太陽能發電系統Solar Power Generation System (全英語授課/English-taught),劉祐任,"3
+            3/0/0",3,選修,"四E,F",工學院A館125,0,碩士班課程,link,與電機所、前瞻學程合開
+1,4416017,01,毫米波積體電路Millimeter Wave Integrated Circuit (全英語授課/English-taught),吳建華,"3
+            3/0/0",3,選修,"三3,4,5",工學院A館125,0,碩士班課程,link,與電機所、前瞻學程合開
+1,4416018,01,電力系統分析Power System Analysis (全英語授課/English-taught),張文恭,"3
+            3/0/0",3,選修,"三F,G",工學院A館126,0,碩士班課程,link,與電機所、前瞻學程合開
+1,4416019,01,作業系統Operating System (全英語授課/English-taught),柯仁松,"3
+            3/0/0",3,選修,"二B,C",創新大樓324,0,碩士班課程,link,與資工所、前瞻學程合開
+1,4416020,01,電腦視覺Computer Vision (全英語授課/English-taught),江振國,"3
+            3/0/0",3,選修,"三E,F",創新大樓324,0,碩士班課程,link,與資工所、前瞻學程合開，開放大三大四修課
+1,4416021,01,電腦網路Computer Networks (全英語授課/English-taught),阮文齡,"3
+            3/0/0",3,選修,"四E,F",創新大樓326,0,碩士班課程,link,與資工所、前瞻學程合開
+1,4416022,01,系統和軟體安全System and Software security (全英語授課/English-taught),阮文齡,"3
+            3/0/0",3,選修,"二E,F",創新大樓339,0,碩士班課程,link,與資工所、前瞻學程合開，開放大三大四修課
+1,4416023,01,多媒體資訊壓縮與檢索Multimedia Information Compression and Retrieval (全英語授課/English-taught),邱志義,"3
+            3/0/0",3,選修,"二C,D",工學院A館104,0,碩士班課程,link,與資工所、前瞻學程合開

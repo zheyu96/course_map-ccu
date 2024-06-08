@@ -20,7 +20,7 @@
   background-repeat: no-repeat;
   font-size: 16px;
   padding: 14px 20px 12px 45px;
-  width: 250px;
+  width: 550px;
   border: 1px solid #ddd;
 }
 
@@ -41,7 +41,7 @@
   display:grid;
   position: absolute;
   background-color: #f6f6f6;
-  min-width: 230px;
+  min-width: 400px;
   border: 1px solid #ddd;
   z-index: 20000;
 }
@@ -62,7 +62,7 @@
   display:none;
   position: absolute;
   height: 200px;
-  min-width: 250px;
+  min-width: 550px;
   width: auto;
   z-index: 20000;
   overflow:scroll;

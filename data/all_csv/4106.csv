@@ -1,0 +1,73 @@
+﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,4105023,01,深度學習於電腦視覺之應用Applications of Deep Learning in Computer Vision,盧沛怡,"3
+            3/0/0",3,選修,"四B,C",創新大樓322,40,碩博合開,link,"開放資工大三、大四選修, 限修40人"
+1,4105100,01,影像處理Image Processing,柳金章,"3
+            3/0/0",3,選修,一G 三G,工學院A館101,90,碩博合開,link,開放資工大三、大四選修
+1,4105105,01,圖形識別Pattern Recognition,林維暘,"3
+            3/0/0",3,選修,"二E,F",工學院A館104,85,碩博合開,link,開放資工大三、大四選修，限修85人
+1,4105106,01,遙測影像分析概論Introduction to remote sensing image analysis,劉偉名,"3
+            3/0/0",3,選修,"三E,F",工學院A館205,65,碩博合開,link,開放資工大三、大四選修
+1,4105107,01,生醫影像處理系統Biomedical Image Processing Systems,劉偉名,"3
+            3/0/0",3,選修,"二E,F",工學院A館204,40,碩博合開,link,",列入前瞻高齡跨域創新學分學程科目開放資工大三、大四選修"
+1,4105109,01,電腦視覺Computer Vision (全英語授課/English-taught),江振國,"3
+            3/0/0",3,選修,"三E,F",創新大樓324,70,碩博合開,link,"限本系生修.開放資工大三、大四選修全英語授課"
+1,4105111,01,計算攝影學：應用圖學與影像技術Computational Photography: Applied Graphics and Imaging,劉興民,"3
+            3/0/0",3,選修,"二3,4,5",工學院A館205,65,碩博合開,link,開放資工大三、大四選修
+1,4105210,01,類神經網路Neural Networks,游寶達,"3
+            3/0/0",3,選修,二B 四B,工學院A館001,120,碩博合開,link,",列入人工智慧與電腦審計學程科目開放資工大三、大四選修"
+1,4105254,01,作業系統設計與實作Operating System: Design and Implementation,羅習五,"3
+            3/0/0",3,選修,"三E,F",創新大樓341,8,碩博合開,link,限本系生修.限修8人
+1,4105256,01,系統和軟體安全System and Software security (全英語授課/English-taught),阮文齡,"3
+            3/0/0",3,選修,"二E,F",創新大樓339,60,碩博合開,link,博碩士班合開，開放資工大三、大四選修，全英語授課
+1,4105258,01,數位鑑識概論Introduction to data forensic,梁郁珮,"3
+            3/0/0",3,選修,"三E,F",創新大樓322,65,碩博合開,link,限本系生修.不開放學士班選修
+1,4105259,01,智慧運算與數據分析Intelligent Computing and Data Analysis,蘇育生,"3
+            3/0/0",3,選修,"三E,F",工學院A館307A,8,碩博合開,link,不開放學士班選修，限本系碩博班8人修
+1,4105310,01,計算方法Computer Algorithms,黃耀廷,"3
+            3/0/0",3,必修,"五C,D",工學院A館101,90,碩博合開,link,
+1,4105316,01,圖論演算法Algorithmic Graph Theory,陳立軒,"3
+            3/0/0",3,選修,"五C,D",工學院A館104,65,碩博合開,link,
+1,4105329,01,近似演算法與網路應用Approximation Algorithms  and Applications to Networks,郭建志,"3
+            3/0/0",3,選修,"三E,F",工學院A館104,65,碩博合開,link,
+1,4105338,01,進階演算法設計Advanced Algorithm Design,李新林,"3
+            3/0/0",3,選修,一G 三G,工學院A館104,65,碩博合開,link,
+1,4105349,01,特殊應用積體電路Application-Specific Integrated Circuits,林泰吉,"3
+            3/0/0",3,選修,"二E,F",工學院A館206,8,碩博合開,link,限資工系研究所選修，限修8人
+1,4105400,01,電腦網路Computer Networks (全英語授課/English-taught),阮文齡,"3
+            3/0/0",3,必修,"四E,F",創新大樓326,75,碩博合開,link,"限本系生修. ,列入資通安全學程(1091起停辦)科目不開放學士班選修，全英語授課"
+1,4105401,01,無線區域網路Wireless Local Area Networks,黃啟富,"3
+            3/0/0",3,選修,"二E,F",創新大樓322,65,碩博合開,link,開放資工大四選修
+1,4105402,01,網路安全攻防技術Techniques of Network Attacks and Defenses,林柏青,"3
+            3/0/0",3,選修,"二E,F",創新大樓324,65,碩博合開,link,",列入資通安全學程(1091起停辦)科目限修65人"
+1,4105417,01,行動通訊網路Mobile Communication Networks,江為國,"3
+            3/0/0",3,選修,"四B,C",工學院A館205,65,碩博合開,link,開放資工大三、大四選修
+1,4105456,01,多媒體資訊壓縮與檢索Multimedia Information Compression and Retrieval (全英語授課/English-taught),邱志義,"3
+            3/0/0",3,選修,"二C,D",工學院A館104,65,碩博合開,link,全英語授課
+1,4105466,01,射頻辨識系統與應用RFID System and Applications(遠距教學/Distant learning),熊博安,"3
+            3/0/0",3,選修,"四E,F",工學院A館001,120,碩博合開,link,開放資工大三、大四選修，遠距教學
+1,4105509,01,雲端學習科技Cloud E-Learning Technology(遠距教學/Distant learning),游寶達,"3
+            3/0/0",3,選修,二C 四C,工學院A館001,120,碩博合開,link,遠距教學
+1,4105513,01,適地性服務之實證方法Empirical Methods for Location-based Services,薛幼苓,"3
+            3/0/0",3,選修,"三C,D",創新大樓313,20,碩博合開,link,限本系生修.限資工系研究生選修，限修20人
+1,4105567,01,高等數位積體電路設計Advanced Digital Integrated Circuits Design(遠距教學/Distant learning),鍾菁哲,"3
+            3/0/0",3,選修,"二E,F",創新大樓341,60,碩博合開,link,開放資工大四選修、擋修電機學士班、遠距教學，限修60人。
+1,4105602,01,開源軟體開發Open Source Software Development,劉偉名 江振國 熊博安,"3
+            3/0/0",3,選修,"二C,D",工學院A館101,90,碩博合開,link,開放資工大三、大四選修
+1,4105605,02,編譯器Compilers,林迺衛,"3
+            3/0/0",3,選修,"四8,9,10",工學院A館204,40,碩博合開,link,限本系生修.
+1,4105730,01,作業系統Operating System (全英語授課/English-taught),柯仁松,"3
+            3/0/0",3,必修,"二B,C",創新大樓324,70,碩博合開,link,限本系生修.全英語授課
+1,4105803,01,嵌入式開發軟體工具組Toolchain for Embedded System,張榮貴,"3
+            3/0/0",3,選修,"二E,F",創新大樓315,24,碩博合開,link,
+1,4105812,01,軟體測試Software Testing,林迺衛,"3
+            3/0/0",3,選修,"二B,C",工學院A館204,40,碩博合開,link,",列入軟體工程學程科目開放資工大三、大四選修"
+1,4105813,01,軟體分析與最佳化Software Analysis and Optimization(遠距教學/Distant learning),陳鵬升,"3
+            3/0/0",3,選修,"二C,D",創新大樓322,65,碩博合開,link,開放資工大四選修，遠距教學
+1,4105911,01,生物資訊演算法Algorithms in Bioinformatics,黃耀廷,"3
+            3/0/0",3,選修,"四E,F",工學院A館104,65,碩博合開,link,",列入功能性基因體學程科目開放資工大三、大四選修"
+1,4106000,01,科技英文寫作與溝通技巧Technical Writing and Communication in English,劉興民,"3
+            3/0/0",3,選修,一G 三G,工學院A館001,120,碩博合開,link,開放資工大三、大四選修
+1,4106001,01,計算機專題（一）Special Topics on Computer Science (I),程芙茵,"2
+            0/0/2",1,必修,"一8,9",創新大樓110大型會議室(銘珠講堂),0,碩博合開,link,
+1,4106003,01,計算機專題（三）Special Topics on Computer Science (III),程芙茵,"2
+            0/0/2",1,必修,"一8,9",創新大樓110大型會議室(銘珠講堂),0,碩博合開,link,

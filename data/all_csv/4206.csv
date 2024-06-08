@@ -1,0 +1,45 @@
+﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,4205004,01,有限元素分析Finite Element Analysis (全英語授課/English-taught),劉德騏,"3
+            3/0/0",3,選修,"五6,7,8",創新大樓202,0,碩士班課程,link,與前瞻合開
+1,4205005,01,線性系統Linear Systems (全英語授課/English-taught),洪博雄,"3
+            3/0/0",3,選修,"四10,11,12",工學院B館214左,40,碩士班課程,link,與前瞻合開
+1,4205007,01,彈性力學Elasticity (全英語授課/English-taught),林派臣,"3
+            3/0/0",3,選修,"一13,14,15",工學院B館215右,0,碩士班課程,link,與前瞻合開，大三大四可修
+1,4205016,01,輕量化結構設計Design of Lightweight Structure Using Computer Aided Engineering,莊鎮瑋,"3
+            3/0/0",3,選修,"二7,8,9",創新大樓202,0,博士班課程,link,與前瞻合開，大三、大四可修
+1,4205017,01,太陽能發電系統Solar Power Generation System (全英語授課/English-taught),劉祐任,"3
+            3/0/0",3,選修,"四E,F",工學院A館125,0,碩士班課程,link,與前瞻及電機所共同合開；大三大四可修
+1,4205018,01,齒輪閉迴路系統高效製造實務Gear Close-Loop Manufacturing System for Efficient Manufacturing Practices,陳冠宏,"3
+            3/0/0",3,選修,"二4,5,6",創新大樓105,5,博士班課程,link,與前瞻合開；大三大四可修
+1,4205106,01,齒輪原理Theory of Gearing,馮展華,"3
+            3/0/0",3,選修,"四3,4,5",工學院B館433,0,碩士班課程,link,
+1,4205115,01,計算機幾何輔助暨分析之製造應用特論Special Topic on Computational Geometry Supported Analysis in Manufacturing Application (全英語授課/English-taught),高永洲,"3
+            3/0/0",3,選修,"一7,8,9",創新大樓202,0,碩士班課程,link,與前瞻合開
+1,4205201,01,電腦輔助機械製造Computer-Aided Manufacturing (CAM) (全英語授課/English-taught),林榮信,"3
+            3/0/0",3,選修,二F 四F,工學院B館214左,0,碩士班課程,link,與前瞻合開
+1,4205302,01,聲學Acoustics,鄭志鈞,"3
+            3/0/0",3,選修,"四13,14,15",工學院B館214右,0,博士班課程,link,大四可修
+1,4205306,01,高等材料力學Advanced Mechanics of Materials,吳亦莊,"3
+            3/0/0",3,選修,"四4,5,6",工學院B館214右,0,碩士班課程,link,大三大四可修
+1,4205512,01,奈微米流體工程Engineering of Nanofluidics and Microfluidics,任春平,"3
+            3/0/0",3,選修,"一4,5,6",工學院B館215右,0,碩士班課程,link,
+1,4205518,01,二相流與沸騰熱傳Two-phase flow and boiling heat transfer (全英語授課/English-taught),林昱辰,"3
+            3/0/0",3,選修,"二3,4,5",工學院B館215右,0,碩士班課程,link,大三大四可修；與前瞻合開
+1,4205562,01,奈微米流體科技特論-微操控技術Special Topics on Nano/Micro Fluidic Technologies- Micromanipulation Technologies,任春平,"3
+            3/0/0",3,選修,"四4,5,6",工學院B館215右,0,博士班課程,link,先修科目(4205512)奈微米流體工程(及格)
+1,4205564,01,大氣電漿技術應用與檢測 Applications and Characterization of Atmospheric-Pressure Plasma Technology (全英語授課/English-taught),林昆模,"3
+            3/0/0",3,選修,"三3,4,5",工學院B館214左,0,碩士班課程,link,大三大四可修;與前瞻合開
+1,4205601,01,中等流體力學Intermediate Fluid Dynamics (全英語授課/English-taught),林昱辰,"3
+            3/0/0",3,選修,"一8,9,10",工學院B館215右,0,博士班課程,link,與前瞻合開
+1,4205718,01,高等控制技術專論Special Topics on Advanced Control Technologies (全英語授課/English-taught),陳世樂,"3
+            3/0/0",3,選修,"四7,8,9",創新大樓222,0,碩士班課程,link,大四可修;與前瞻合開
+1,4205777,01,人工智慧Artificial Intelligence,郭秉寰,"3
+            3/0/0",3,選修,"二7,8,9",創新大樓201,0,碩士班課程,link,大三可修
+1,4205803,01,機器人學Robotics,楊智媖,"3
+            3/0/0",3,選修,"一7,8,9",工學院B館214左,0,博士班課程,link,大四可修
+1,4205904,01,專題研討Seminar,林派臣,"2
+            0/0/2",1,必修,"三8,9",創新大樓110大型會議室(銘珠講堂),0,碩博合開,link,
+1,4206301,01,結構動力學Structural Dynamics (全英語授課/English-taught),鄭志鈞,"3
+            3/0/0",3,選修,"二4,5,6",工學院B館214右,0,碩士班課程,link,與前瞻合開
+1,4208302,01,光學特論(二)Special topic on optics(II) (全英語授課/English-taught),張國恩,"3
+            3/0/0",3,選修,"二8,9,10",工學院B館214右,0,博士班課程,link,與前瞻合開

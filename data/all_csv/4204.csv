@@ -1,0 +1,81 @@
+﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
+1,4201002,01,應用力學（一）Applied Mechanics (I),劉德騏,"2
+            2/0/0",2,必修,"三2,3",工學院B館214右,48,link,保留新生48人機械工程組AB班及光機電整合工程組A班
+1,4201002,02,應用力學（一）Applied Mechanics (I) (全英語授課/English-taught),張國恩,"2
+            2/0/0",2,必修,"三2,3",工學院B館213,60,link,保留新生50人機械工程組AB班及光機電整合工程組A班
+1,4201003,01,工場實習（一）Machine Shop Practice (I),巫翔裘,"3
+            1/2/0",1,必修,"五4,5,6",工學院C館實習工廠102,50,link,保留新生50人機械工程組AB班及光機電整合工程組A班
+1,4201003,02,工場實習（一）Machine Shop Practice (I) (全英語授課/English-taught),巫翔裘,"3
+            1/2/0",1,必修,"五7,8,9",工學院C館實習工廠102,50,link,保留新生50人機械工程組AB班及光機電整合工程組A班
+1,4201101,01,工程圖學（一）Engineering Graphics (I),黃以文,"3
+            1/2/0",1,必修,"一7,8,9",工學院B館433,66,link,"保留新生50人限本系生修. ,列入前瞻高齡跨域創新學分學程科目機械工程組AB班及光機電整合工程組A班"
+1,4201101,02,工程圖學（一）Engineering Graphics (I),黃以文,"3
+            1/2/0",1,必修,"二4,5,6",工學院B館433,66,link,"保留新生50人限本系生修. ,列入前瞻高齡跨域創新學分學程科目機械工程組AB班及光機電整合工程組A班"
+2,4202001,01,工程數學（一）Engineering Mathematics (I),劉德騏,"3
+            3/0/0",3,必修,三C 五C,工學院B館117,120,link,機械工程組AB二班及光機電整合工程組A班
+2,4202101,01,機動學Mechanisms,楊智媖,"3
+            3/0/0",3,必修,"五7,8,9",工學院B館116,120,link,",列入前瞻高齡跨域創新學分學程科目機械工程組AB二班及光機電整合工程組A班"
+2,4202301,01,材料力學（一）Strength of Materials (I) (全英語授課/English-taught),林派臣,"3
+            3/0/0",3,必修,"一10,11,12",工學院B館214右,48,link,機械工程組AB二班及光機電整合工程組A班
+2,4202301,02,材料力學（一）Strength of Materials (I) (全英語授課/English-taught),吳亦莊,"3
+            3/0/0",3,必修,"一10,11,12",工學院B館214左,54,link,機械工程組AB二班及光機電整合工程組A班
+2,4202402,01,工程材料Engineering Materials (全英語授課/English-taught),敖仲寧,"3
+            3/0/0",3,必修,"一3,4,5",工學院B館116,120,link,",列入循環科技與永續發展學分學程科目機械工程組(必修)；光機電整合工程組(專選)"
+2,4202501,01,熱力學（一）Thermodynamics (I) (全英語授課/English-taught),陳永松,"3
+            3/0/0",3,必修,二B 四B,工學院B館213,60,link,機械工程組(必修)；光機電整合工程組(專選)
+2,4202501,02,熱力學（一）Thermodynamics (I),林昆模,"3
+            3/0/0",3,必修,二E 四E,工學院B館213,60,link,機械工程組(必修)；光機電整合工程組(專選)
+2,4202502,01,無人飛行載具設計與實務Design and manufacture of unmanned aerial vehicles,楊翰勳,"3
+            3/0/0",3,選修,"三10,11,12",工學院B館213,60,link,
+3,4203002,01,材料與力學實驗Materialstesting and experimental stress analysis,吳亦莊,"3
+            0/3/0",1,必修,"一7,8,9",工學院B館112,50,link,機械工程組(必修)；光機電整合工程組(專選)
+3,4203002,02,材料與力學實驗Materialstesting and experimental stress analysis,林派臣,"3
+            0/3/0",1,必修,"五4,5,6",工學院B館112,50,link,機械工程組(必修)；光機電整合工程組(專選)
+3,4203003,01,專題研究A（一）Special Topics on Mechanical Engineering A(I),劉德騏,"2
+            2/0/0",2,選修,"五13,14",工學院B館213,60,link,
+3,4203004,01,專題研究B（一）Special Topics on Mechanical Engineering B(I),馮展華,"2
+            2/0/0",2,選修,"五13,14",工學院B館214右,48,link,
+3,4203005,01,專題研究C（一）Special Topics on Mechanical Engineering C(I),陳世樂,"2
+            2/0/0",2,選修,"五13,14",工學院B館214左,54,link,
+3,4203006,01,專題研究D（一）Special Topics on Mechanical Engineering D(I),謝文馨,"2
+            2/0/0",2,選修,"五13,14",工學院B館215右,32,link,
+3,4203007,01,專題研究E (一)Special Topics on Mechanical Engineering E(I),賴臆升,"2
+            2/0/0",2,選修,"五13,14",創新大樓222,58,link,
+3,4203104,01,機械設計Machine Design,蔡忠佑,"3
+            3/0/0",3,必修,二F 四F,工學院B館117,120,link,機械工程組AB班及光機電整合工程組A班
+3,4203107,01,電腦輔助製造暨實務運用Computer-Aided Manufacturing and Application,高永洲,"3
+            3/0/0",3,選修,"二4,5,6",工學院B館115,20,link,
+3,4203503,01,熱機學Heat engines,楊翰勳,"3
+            3/0/0",3,選修,"四4,5,6",工學院B館213,60,link,
+3,4203601,01,流體力學（二）Fluid Mechanics (II),謝文馨,"3
+            3/0/0",3,選修,一G 三G,工學院B館116,120,link,先修科目(4203602)流體力學（一）(及格)
+3,4203702,01,電子電路學（二）Circuits and Electronics (II),鄭榮偉,"3
+            3/0/0",3,選修,"三4,5,6",工學院B館214右,48,link,先修科目(4202751)電子電路學（一）(及格)
+3,4203703,01,光機電專題實作(一)Opto-Mechatronic Design Practice (I),姚賀騰,"3
+            3/0/0",3,必修,"二10,11,12",創新大樓201,42,link,機械工程組AB班及光機電整合工程組A班
+3,4203703,02,光機電專題實作(一)Opto-Mechatronic Design Practice (I),姚賀騰,"3
+            3/0/0",3,必修,"四10,11,12",創新大樓201,42,link,機械工程組AB班及光機電整合工程組A班
+3,4203751,01,自動控制（一）Automatic Control (I),郭秉寰,"3
+            3/0/0",3,必修,"五10,11,12",工學院B館117,120,link,機械工程組AB班及光機電整合工程組A班
+3,4203901,01,工程色彩學Color science and engineering,王祥辰,"3
+            3/0/0",3,必修,"一4,5,6",創新大樓105,55,link,光機電整合工程組(必修)；機械工程組(專選)
+3,4203902,01,平面顯示器原理與應用Flat Panel Display- Principle and Application,王欽戊,"3
+            3/0/0",3,選修,"五7,8,9",創新大樓222,58,link,
+2,4203952,01,工程光學Engineering Optics,賴臆升,"3
+            3/0/0",3,必修,"二4,5 四4",工學院B館117,120,link,光機電整合工程組(必修)；機械工程組(專選)
+4,4204112,01,綠色製造與生產Green Manufacturing and Productions,林榮信,"3
+            3/0/0",3,選修,二B 四B,工學院B館214左,54,link,大三大四可修
+4,4204113,01,強力刮齒技術概論與實務Introduction and Practice of Gear Power-skiving Technology,蔡忠佑,"3
+            3/0/0",3,選修,"四4,5,6",創新大樓202,25,link,大三大四可修
+4,4204353,01,電腦輔助工程分析與實務運用Computer-Aided Engineering and its Application,劉德騏,"3
+            3/0/0",3,選修,"三10,11,12",創新大樓202,25,link,大三大四可修
+4,4204503,01,能源工程概論Sustainable Energy Engineering,郭春寶,"3
+            3/0/0",3,選修,"三7,8,9",工學院B館214左,54,link,大三大四可修
+4,4204504,01,"綠色能源系統設計與產品設計應用Green energy system design, product design and applications",陳永松,"3
+            3/0/0",3,選修,二F 四F,工學院B館213,60,link,大三大四可修
+4,4204705,01,綠色工具機直流變頻馬達應用實務DC Motors with Application to Machine Tools,洪博雄,"3
+            3/0/0",3,選修,"二10,11,12",工學院B館213,60,link,大三大四可修
+4,4204706,01,能源管理監控系統Energy management and monitoring,姚賀騰,"3
+            3/0/0",3,選修,"三4,5,6",工學院B館213,60,link,大三大四可修
+4,4204707,01,綠色產線人機協作機器人實務Practical Application of Human-Machine Collaboration Robots in Green Manufacturing Lines,郭秉寰,"3
+            3/0/0",3,選修,"二4,5,6",創新大樓201,42,link,大三大四可修
