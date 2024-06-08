@@ -1,83 +1,167 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,3505103,01,教育哲學研究Researches on Educational Philosophy,李奉儒,"2
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,3505103,01,"教育哲學研究
+Researches on Educational Philosophy",李奉儒,"2
+
             2/0/0",2,選修,"三10,11",教育館404,0,碩士班課程,link,
-1,3505105,01,教育社會學研究Sociology of Education,王雅玄,"2
+1,3505105,01,"教育社會學研究
+Sociology of Education",王雅玄,"2
+
             2/0/0",2,選修,"四4,5",教育館404,0,碩士班課程,link,
-1,3505110,01,比較教育研究Comparative Studies in Education,李奉儒,"2
+1,3505110,01,"比較教育研究
+Comparative Studies in Education",李奉儒,"2
+
             2/0/0",2,選修,"四4,5",教育館407,0,碩士班課程,link,
-1,3505114,01,獨立研究：教育管理（二）Independent Studies: Educational Management (II),詹盛如,"1
+1,3505114,01,"獨立研究：教育管理（二）
+Independent Studies: Educational Management (II)",詹盛如,"1
+
             1/0/0",1,選修,三7,教授研究室,0,碩士班課程,link,
-1,3505115,01,獨立研究：學校行政（二）Independent Studies: School Administration (II),林明地,"1
+1,3505115,01,"獨立研究：學校行政（二）
+Independent Studies: School Administration (II)",林明地,"1
+
             1/0/0",1,選修,三7,教授研究室,0,碩士班課程,link,
-1,3505122,01,教育領導研究Research on Educational Leadership,林明地,"2
+1,3505122,01,"教育領導研究
+Research on Educational Leadership",林明地,"2
+
             2/0/0",2,選修,"三2,3",教育館404,0,碩士班課程,link,
-1,3505151,01,獨立研究：教育哲史（二）Independent Studies: Philosophy and History of Education,李奉儒,"1
+1,3505151,01,"獨立研究：教育哲史（二）
+Independent Studies: Philosophy and History of Education",李奉儒,"1
+
             1/0/0",1,選修,三7,教授研究室,0,碩士班課程,link,
-1,3505164,01,教育研究法Research Methods of Education,王雅玄 詹盛如,"2
+1,3505164,01,"教育研究法
+Research Methods of Education",王雅玄 詹盛如,"2
+
             2/0/0",2,選修,"四2,3",教育館404,0,碩士班課程,link,
-1,3505192,01,獨立研究：教育社會學（二）Independent Studies: Sociology of Education (II),王雅玄,"1
+1,3505192,01,"獨立研究：教育社會學（二）
+Independent Studies: Sociology of Education (II)",王雅玄,"1
+
             1/0/0",1,選修,三7,教授研究室,0,碩士班課程,link,
-1,3505204,01,獨立研究：改革教育學（二）Independent Studies: Reformative Pedagogy (II),朱啓華,"1
+1,3505204,01,"獨立研究：改革教育學（二）
+Independent Studies: Reformative Pedagogy (II)",朱啓華,"1
+
             1/0/0",1,選修,三7,教授研究室,0,碩士班課程,link,
-1,3505212,01,高等教育研究Research on High Education,詹盛如,"2
+1,3505212,01,"高等教育研究
+Research on High Education",詹盛如,"2
+
             2/0/0",2,選修,"二2,3",教育館405,0,碩士班課程,link,
-1,3505218,01,獨立研究：學校組織行為（二）Independent Studies: Organizational Behaviour in School (II),陳幸仁,"1
+1,3505218,01,"獨立研究：學校組織行為（二）
+Independent Studies: Organizational Behaviour in School (II)",陳幸仁,"1
+
             1/0/0",1,選修,三7,教授研究室,0,碩士班課程,link,
-1,3505239,01,教育統計學及電子計算機應用Education Statistics and Computer Application,連啟舜,"3
+1,3505239,01,"教育統計學及電子計算機應用
+Education Statistics and Computer Application",連啟舜,"3
+
             3/0/0",3,選修,"三4,5,6",教育二館433,0,碩士班課程,link,
-1,3505245,01,童年與教育研究Research on childhood and Education,顧曉雲,"2
+1,3505245,01,"童年與教育研究
+Research on childhood and Education",顧曉雲,"2
+
             2/0/0",2,選修,"四8,9",教育館405,0,碩士班課程,link,
-1,3505250,01,教育學導論Introducation of Pedagogy,鄭勝耀,"2
+1,3505250,01,"教育學導論
+Introducation of Pedagogy",鄭勝耀,"2
+
             2/0/0",2,選修,"三8,9",教育館403,0,碩士班課程,link,
-1,3505263,01,獨立研究：弱勢學生與教育（二）Independent Studies:Disadvantaged Students and Education(II),鄭勝耀,"1
+1,3505263,01,"獨立研究：弱勢學生與教育（二）
+Independent Studies:Disadvantaged Students and Education(II)",鄭勝耀,"1
+
             1/0/0",1,選修,三7,教授研究室,0,碩士班課程,link,
-1,3505282,01,獨立研究：教育史(二)Independent Studies:History of Education(II),顧曉雲,"1
+1,3505282,01,"獨立研究：教育史(二)
+Independent Studies:History of Education(II)",顧曉雲,"1
+
             1/0/0",1,選修,三7,教授研究室,0,碩士班課程,link,
-1,3505285,01,西洋女子教育思想史研究Research on History of Western Female Educational Thought,顧曉雲,"2
+1,3505285,01,"西洋女子教育思想史研究
+Research on History of Western Female Educational Thought",顧曉雲,"2
+
             2/0/0",2,選修,"四10,11",教育館405,0,碩士班課程,link,
-1,3505287,01,教學理論史研究Research on History of Teaching Theory,朱啓華,"2
+1,3505287,01,"教學理論史研究
+Research on History of Teaching Theory",朱啓華,"2
+
             2/0/0",2,選修,"二4,5",教育館404,0,碩士班課程,link,
-1,3505291,01,學校諮商實習School counseling and internship,陳慧女,"4
+1,3505291,01,"學校諮商實習
+School counseling and internship",陳慧女,"4
+
             4/0/0",4,選修,"五7,8,9,10",教育二館436,0,碩士班課程,link,
-1,3505293,01,教育實踐實習Interns of Educational Practice (全英語授課/English-taught),鄭勝耀,"3
+1,3505293,01,"教育實踐實習
+Interns of Educational Practice
+ (全英語授課/English-taught)",鄭勝耀,"3
+
             3/0/0",3,選修,"五3,4,5",教育館405,0,碩士班課程,link,
-1,3505300,01,獨立研究：課程改革（二）Independent Studies:Curriculum Reform(II),林永豐,"1
+1,3505300,01,"獨立研究：課程改革（二）
+Independent Studies:Curriculum Reform(II)",林永豐,"1
+
             1/0/0",1,選修,三7,教授研究室,0,碩士班課程,link,
-1,3507002,01,教育學方法論專題研究Seminar on Methodology in Education,李奉儒,"2
+1,3507002,01,"教育學方法論專題研究
+Seminar on Methodology in Education",李奉儒,"2
+
             2/0/0",2,選修,"二10,11",教育館407,0,博士班課程,link,
-1,3507021,01,獨立研究：學校組織行為（一）Independent Studies:Organizational Behaviour in School(I),陳幸仁,"1
+1,3507021,01,"獨立研究：學校組織行為（一）
+Independent Studies:Organizational Behaviour in School(I)",陳幸仁,"1
+
             1/0/0",1,選修,二7,教授研究室,0,博士班課程,link,
-1,3507051,01,獨立研究：課程設計（一）Independent Studies: Curriculum Design (I),林永豐,"1
+1,3507051,01,"獨立研究：課程設計（一）
+Independent Studies: Curriculum Design (I)",林永豐,"1
+
             1/0/0",1,選修,二7,教授研究室,0,博士班課程,link,
-1,3507055,01,獨立研究：教育行政（一）Independent Studies: Educational Administration (I),詹盛如,"1
+1,3507055,01,"獨立研究：教育行政（一）
+Independent Studies: Educational Administration (I)",詹盛如,"1
+
             1/0/0",1,選修,二7,教授研究室,0,博士班課程,link,
-1,3507057,01,獨立研究：教育哲學（一）Independent Studies: Educational Philosophy (I),李奉儒,"1
+1,3507057,01,"獨立研究：教育哲學（一）
+Independent Studies: Educational Philosophy (I)",李奉儒,"1
+
             1/0/0",1,選修,二7,教授研究室,0,博士班課程,link,
-1,3507059,01,獨立研究：教育社會學（一）Independent Studies: Sociology of Education (I),王雅玄,"1
+1,3507059,01,"獨立研究：教育社會學（一）
+Independent Studies: Sociology of Education (I)",王雅玄,"1
+
             1/0/0",1,選修,二7,教授研究室,0,博士班課程,link,
-1,3507063,01,獨立研究：學校行政（一）Independent Studies: School Administration (I),林明地,"1
+1,3507063,01,"獨立研究：學校行政（一）
+Independent Studies: School Administration (I)",林明地,"1
+
             1/0/0",1,選修,二7,教授研究室,0,博士班課程,link,
-1,3507093,01,學校領導專題研究Seminar on School Leadership,林明地,"2
+1,3507093,01,"學校領導專題研究
+Seminar on School Leadership",林明地,"2
+
             2/0/0",2,選修,"二4,5",教育館407,0,博士班課程,link,
-1,3507109,01,學校微觀政治學專題研究 Seminar on School Micropolitics,陳幸仁,"2
+1,3507109,01,"學校微觀政治學專題研究
+ Seminar on School Micropolitics",陳幸仁,"2
+
             2/0/0",2,選修,"二4,5",教育二館436,0,博士班課程,link,
-1,3507110,01,教育社會學專題研究Seminar on Sociology of Education,王雅玄,"2
+1,3507110,01,"教育社會學專題研究
+Seminar on Sociology of Education",王雅玄,"2
+
             2/0/0",2,選修,"二8,9",教育館405,0,博士班課程,link,
-1,3507131,01,教育學德文（一）Pedagogy in German(Ⅰ),朱啓華,"2
+1,3507131,01,"教育學德文（一）
+Pedagogy in German(Ⅰ)",朱啓華,"2
+
             2/0/0",2,選修,"四4,5",教育館405,0,碩博合開,link,
-1,3507149,01,獨立研究：弱勢教育（一）Independent Studies:Disadvantaged Education(I),鄭勝耀,"1
+1,3507149,01,"獨立研究：弱勢教育（一）
+Independent Studies:Disadvantaged Education(I)",鄭勝耀,"1
+
             1/0/0",1,選修,二7,教授研究室,0,博士班課程,link,
-1,3507153,01,弱勢教育政策比較專題研究Seminar on Comparison of Disadvantaged Educational Policies,鄭勝耀,"2
+1,3507153,01,"弱勢教育政策比較專題研究
+Seminar on Comparison of Disadvantaged Educational Policies",鄭勝耀,"2
+
             2/0/0",2,選修,"二8,9",教育館407,0,博士班課程,link,
-1,3507170,01,西洋女子教育思想史專題研究Seminar on Western History of Educational Thoughts on Woman's Education,顧曉雲,"2
+1,3507170,01,"西洋女子教育思想史專題研究
+Seminar on Western History of Educational Thoughts on Woman's Education",顧曉雲,"2
+
             2/0/0",2,選修,"二4,5",教育館405,0,博士班課程,link,
-1,3507178,01,運動健康科學教育專題研究Seminar in education of exercise and health sciences,何承訓,"2
+1,3507178,01,"運動健康科學教育專題研究
+Seminar in education of exercise and health sciences",何承訓,"2
+
             2/0/0",2,選修,"三4,5",運動生化實驗室,0,博士班課程,link,
-1,3507179,01,學校體育行政管理專題研究Seminar in school physical education administration,廖俊儒,"2
+1,3507179,01,"學校體育行政管理專題研究
+Seminar in school physical education administration",廖俊儒,"2
+
             2/0/0",2,選修,"三8,9",運技系110室,0,博士班課程,link,
-1,3507189,01,獨立研究：改革教育學（一）Independent Studies: Reformative Pedagogy (I),朱啓華,"1
+1,3507189,01,"獨立研究：改革教育學（一）
+Independent Studies: Reformative Pedagogy (I)",朱啓華,"1
+
             1/0/0",1,選修,二7,教授研究室,0,博士班課程,link,
-1,3507192,01,獨立研究:運動科學(一)Independent Research: Sports Science (I),何承訓,"1
+1,3507192,01,"獨立研究:運動科學(一)
+Independent Research: Sports Science (I)",何承訓,"1
+
             1/0/0",1,選修,二7,運技系110室,0,博士班課程,link,
-1,3507193,01,教育與政治專題研究Seminar an Education and Politics,朱啓華 魏楚陽,"2
+1,3507193,01,"教育與政治專題研究
+Seminar an Education and Politics",朱啓華 魏楚陽,"2
+
             2/0/0",2,選修,"二2,3",教育館404,0,博士班課程,link,

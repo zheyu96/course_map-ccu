@@ -1,23 +1,50 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,2155011,01,地震學Seismology,温士忠,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,2155011,01,"地震學
+Seismology",温士忠,"3
+
             3/0/0",3,必修,"五3,4,5",地震館301,0,碩博合開,link,碩士班必修
-1,2155051,01,地球物理數學（一）Geophysical Mathematics (I),陳映年,"3
+1,2155051,01,"地球物理數學（一）
+Geophysical Mathematics (I)",陳映年,"3
+
             3/0/0",3,選修,"二4,5,6",地震館304,0,碩士班課程,link,開放大三四選修
-1,2155053,01,逆推理論Inverse Theory,陳映年,"3
+1,2155053,01,"逆推理論
+Inverse Theory",陳映年,"3
+
             3/0/0",3,選修,"五10,11,12",地震館304,0,碩博合開,link,
-1,2155061,01,地體動力學Geodynamics (全英語授課/English-taught),王維豪,"3
+1,2155061,01,"地體動力學
+Geodynamics
+ (全英語授課/English-taught)",王維豪,"3
+
             3/0/0",3,選修,"二E,F",地震館305,0,碩博合開,link,
-1,2155091,01,書報討論（一）Seminar (I),王維豪,"2
+1,2155091,01,"書報討論（一）
+Seminar (I)",王維豪,"2
+
             0/0/2",1,必修,"三10,11",地震館301,0,碩士班課程,link,"碩士班必修/M.S Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
-1,2155093,01,書報討論（三）Seminar (III),王維豪,"2
+1,2155093,01,"書報討論（三）
+Seminar (III)",王維豪,"2
+
             0/0/2",1,必修,"三12,13",地震館301,0,碩士班課程,link,"碩士班必修/M.S Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
-1,2155096,01,地震地質The Geology of Earthquake,郭昱廷,"3
+1,2155096,01,"地震地質
+The Geology of Earthquake",郭昱廷,"3
+
             3/0/0",3,選修,"三3,4,5",地震館304,0,碩博合開,link,
-1,2155103,01,電腦製圖與應用Computer charting and application,郭昱廷,"3
+1,2155103,01,"電腦製圖與應用
+Computer charting and application",郭昱廷,"3
+
             3/0/0",3,選修,"二E,F",地震館303,0,碩士班課程,link,開放大三四選修
-1,2158000,01,書報討論（一）Seminar (I)：Advanced (全英語授課/English-taught),劉台生,"2
+1,2158000,01,"書報討論（一）
+Seminar (I)：Advanced
+ (全英語授課/English-taught)",劉台生,"2
+
             0/0/2",1,必修,"三7,8",地震館305,0,博士班課程,link,"博士班必修/Ph.D. Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
-1,2158002,01,書報討論（三）Seminar (III)：Advanced (全英語授課/English-taught),趙鴻椿,"2
+1,2158002,01,"書報討論（三）
+Seminar (III)：Advanced
+ (全英語授課/English-taught)",趙鴻椿,"2
+
             0/0/2",1,必修,"三9,10",地震館305,0,博士班課程,link,"博士班必修/Ph.D. Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
-1,2159996,01,噪訊地震學原理Ambient Noise Seismology (全英語授課/English-taught),陳映年,"3
+1,2159996,01,"噪訊地震學原理
+Ambient Noise Seismology
+ (全英語授課/English-taught)",陳映年,"3
+
             3/0/0",3,選修,"一4,5,6",地震館304,0,碩博合開,link,

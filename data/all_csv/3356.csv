@@ -1,27 +1,54 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,3355007,01,傳播研究方法Communication Research Methods,張時健 陳怡璇,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,3355007,01,"傳播研究方法
+Communication Research Methods",張時健 陳怡璇,"3
+
             3/0/0",3,必修,"一7,8,9",社科院227,0,碩士班課程,link,
-1,3355015,01,草根行銷Grassroots Communication,管中祥,"3
+1,3355015,01,"草根行銷
+Grassroots Communication",管中祥,"3
+
             3/0/0",3,選修,"一10,11,12",社科院227,0,碩士班課程,link,",列入本土語言與文化實踐學分學程科目 ,列入民意調查與行銷學分學程科目"
-1,3355016,01,紀錄片歷史與美學Documentary History and Aesthetics,蔡崇隆,"3
+1,3355016,01,"紀錄片歷史與美學
+Documentary History and Aesthetics",蔡崇隆,"3
+
             3/0/0",3,選修,"二10,11,12",社科院225,0,碩士班課程,link,",列入「戲劇‧創意‧想像」學分學程科目 ,列入「科技、傳播與社會」碩士學分學程科目"
-1,3355025,01,人工智慧與傳播Artificial Intelligence and Communication,劉榮樺,"3
+1,3355025,01,"人工智慧與傳播
+Artificial Intelligence and Communication",劉榮樺,"3
+
             3/0/0",3,選修,"三10,11,12",社科院225,0,碩士班課程,link,
-1,3355026,01,數位創新設計Digital Innovation & Design,林怡玫,"3
+1,3355026,01,"數位創新設計
+Digital Innovation & Design",林怡玫,"3
+
             3/0/0",3,選修,"四7,8,9",社科院102,0,碩士班課程,link,
-1,3355143,01,傳播創新與創業Innovation & Entrepreneurship in Communication,教師未定,"3
+1,3355143,01,"傳播創新與創業
+Innovation & Entrepreneurship in Communication",教師未定,"3
+
             3/0/0",3,必修,"二7,8,9",社科院227,0,碩士班課程,link,",列入創意創新創造創業學分學程科目"
-1,3356004,01,傳播經營與管理Communication Management,李政忠,"3
+1,3356004,01,"傳播經營與管理
+Communication Management",李政忠,"3
+
             3/0/0",3,選修,"三4,5,6",社科院225,0,碩士班課程,link,
-1,3356009,01,比較電訊政策Comparative Telecommunication Policy,羅世宏,"3
+1,3356009,01,"比較電訊政策
+Comparative Telecommunication Policy",羅世宏,"3
+
             3/0/0",3,選修,"一10,11,12",社科院225,0,碩士班課程,link,
-1,3356021,01,傳播研究專題討論（一）Research Seminar on Communication Studies(I),管中祥,"2
+1,3356021,01,"傳播研究專題討論（一）
+Research Seminar on Communication Studies(I)",管中祥,"2
+
             0/0/2",1,必修,"三8,9",社科院227,0,碩士班課程,link,先修科目(3355001)傳播理論(曾經修習) (3355007)傳播研究方法(曾經修習) (所有先修條件都必須符合)
-1,3356028,01,創新行銷Innovation Marketing,戴皖文,"3
+1,3356028,01,"創新行銷
+Innovation Marketing",戴皖文,"3
+
             3/0/0",3,選修,"二4,5,6",社科院227,0,碩士班課程,link,",列入民意調查與行銷學分學程科目"
-1,3356029,01,媒介生態Media Ecology,唐士哲,"3
+1,3356029,01,"媒介生態
+Media Ecology",唐士哲,"3
+
             3/0/0",3,選修,"二4,5,6",社科院225,0,碩士班課程,link,
-1,3356031,01,健康傳播與行銷Health Communication and Marketing,盧鴻毅,"3
+1,3356031,01,"健康傳播與行銷
+Health Communication and Marketing",盧鴻毅,"3
+
             3/0/0",3,選修,"四4,5,6",社科院225,0,碩士班課程,link,
-1,3357012,01,閱聽人研究Audience Research,簡妙如,"3
+1,3357012,01,"閱聽人研究
+Audience Research",簡妙如,"3
+
             3/0/0",3,選修,"一7,8,9",社科院225,0,碩士班課程,link,

@@ -1,57 +1,114 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
-1,1101211,01,詩選及習作（一）Selected Readings in Chinese Poems and Writing Practice (I),蔡榮婷,"2
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
+1,1101211,01,"詩選及習作（一）
+Selected Readings in Chinese Poems and Writing Practice (I)",蔡榮婷,"2
+
             2/0/0",2,必修,"四10,11",文學院104,55,link,保留新生47人限本系生修.外系限輔系、雙主修中文系學生修習
-1,1101411,01,國學導讀（一）Introduction to Sinology (I),張書豪,"2
+1,1101411,01,"國學導讀（一）
+Introduction to Sinology (I)",張書豪,"2
+
             2/0/0",2,必修,"四4,5",文學院104,55,link,保留新生47人限本系生修.外系限輔系、雙主修中文系學生修習
-1,1101546,01,西遊記Journey to the West,謝明勳,"3
+1,1101546,01,"西遊記
+Journey to the West",謝明勳,"3
+
             3/0/0",3,選修,"三4,5,6",文學院102,40,link,保留新生35人
-1,1101811,01,文學概論（一）Introduction to Literature (I),黃錦珠,"2
+1,1101811,01,"文學概論（一）
+Introduction to Literature (I)",黃錦珠,"2
+
             2/0/0",2,必修,"一8,9",文學院104,55,link,保留新生47人限本系生修.外系限輔系、雙主修中文系學生修習
-1,1101846,01,戲劇概論Introduction to Drama,游富凱,"2
+1,1101846,01,"戲劇概論
+Introduction to Drama",游富凱,"2
+
             2/0/0",2,選修,"三8,9",文學院101,40,link,"保留新生30人 ,列入「戲劇‧創意‧想像」學分學程科目"
-1,1101934,01,書法基礎入門Introduction to Calligraphy,劉庭彰,"3
+1,1101934,01,"書法基礎入門
+Introduction to Calligraphy",劉庭彰,"3
+
             3/0/0",3,選修,"四7,8,9",文學院103,40,link,"保留新生35人限本系生修. ,列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目"
-2,1102011,01,文字學（一）The Study of Chinese Characters (I),黃靜吟,"2
+2,1102011,01,"文字學（一）
+The Study of Chinese Characters (I)",黃靜吟,"2
+
             2/0/0",2,必修,"一4,5",文學院104,55,link,"限本系生修. ,列入華語文教學學程科目外系限輔系、雙主修中文系學生修習"
-2,1102052,01,水墨創作：山水Studies in Chinese Painting: Landscape,馬玉紅,"3
+2,1102052,01,"水墨創作：山水
+Studies in Chinese Painting: Landscape",馬玉紅,"3
+
             3/0/0",3,選修,"三7,8,9",文學院103,40,link,"限本系生修. ,列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目外系限輔系、雙主修中文系學生修習"
-2,1102134,01,民雄學．學民雄Minxiong Studies,楊玉君 管中祥,"3
+2,1102134,01,"民雄學．學民雄
+Minxiong Studies",楊玉君 管中祥,"3
+
             3/0/0",3,選修,"六7,8,9",社科院227,15,link,",列入本土語言與文化實踐學分學程科目本課程採密集授課，課程時間集中於週六、日進行，預定上課地點包含校外（詳見課綱）。請欲修習本課程者務必出席9/13（五）下午1點之課程說明會；與傳播系合開，不得重複修習；文學院「地方人文」主題課程。"
-2,1102161,01,"論語：孔子全傳Analects, Confucius' Biography",張書豪,"3
+2,1102161,01,"論語：孔子全傳
+Analects, Confucius' Biography",張書豪,"3
+
             3/0/0",3,選修,"四7,8,9",文學院102,40,link,
-2,1102514,01,詩經Shih Ching,張書豪,"3
+2,1102514,01,"詩經
+Shih Ching",張書豪,"3
+
             3/0/0",3,選修,"一7,8,9",文學院102,40,link,
-2,1102519,01,專家詩：李商隱詩Study of Special Writers on Poetry: Li Shang-yin,蔡榮婷,"3
+2,1102519,01,"專家詩：李商隱詩
+Study of Special Writers on Poetry: Li Shang-yin",蔡榮婷,"3
+
             3/0/0",3,選修,"三10,11,12",文學院102,40,link,
-2,1102633,01,現代詩Modern Poetry,張日郡,"3
+2,1102633,01,"現代詩
+Modern Poetry",張日郡,"3
+
             3/0/0",3,選修,"五4,5,6",文學院101,40,link,",列入本土語言與文化實踐學分學程科目 ,列入原住民族文化資產與創意應用學分學程科目"
-2,1102711,01,歷代文選及習作（一）Selected Readings in Chinese Literature and Writing Practice (I),教師未定,"3
+2,1102711,01,"歷代文選及習作（一）
+Selected Readings in Chinese Literature and Writing Practice (I)",教師未定,"3
+
             3/0/0",3,必修,"三4,5,6",文學院104,55,link,限本系生修.外系限輔系、雙主修中文系學生修習
-2,1102720,01,詞選及習作Selected Readings in Chinese Ts'u and Writing Practice,蔡榮婷,"3
+2,1102720,01,"詞選及習作
+Selected Readings in Chinese Ts'u and Writing Practice",蔡榮婷,"3
+
             3/0/0",3,必修,"一10,11,12",文學院104,55,link,限本系生修.外系限輔系、雙主修中文系學生修習
-2,1102919,01,編劇基礎Basic Playwrighting,鍾欣志,"3
+2,1102919,01,"編劇基礎
+Basic Playwrighting",鍾欣志,"3
+
             3/0/0",3,選修,"二10,11,12",文學院101,25,link,",列入「戲劇‧創意‧想像」學分學程科目"
-2,1102920,01,戲曲文物概論The introduction of chinesse traditional opera cultural relics,盧柏勳,"2
+2,1102920,01,"戲曲文物概論
+The introduction of chinesse traditional opera cultural relics",盧柏勳,"2
+
             2/0/0",2,選修,"四10,11",文學院101,40,link,",列入「戲劇‧創意‧想像」學分學程科目"
-3,1103021,01,中國文學史（一）A History of Chinese Literature (I),盧柏勳,"3
+3,1103021,01,"中國文學史（一）
+A History of Chinese Literature (I)",盧柏勳,"3
+
             3/0/0",3,必修,"二7,8,9",文學院104,55,link,限本系生修.外系限輔系、雙主修中文系學生修習
-3,1103111,01,中國思想史（一）A History of Chinese Thoughts (I),陳佳銘,"3
+3,1103111,01,"中國思想史（一）
+A History of Chinese Thoughts (I)",陳佳銘,"3
+
             3/0/0",3,必修,"五4,5,6",文學院104,55,link,限本系生修.外系限輔系、雙主修中文系學生修習
-3,1103311,01,聲韻學（一）Phonology (I),曾若涵,"2
+3,1103311,01,"聲韻學（一）
+Phonology (I)",曾若涵,"2
+
             2/0/0",2,必修,"四8,9",文學院104,55,link,限本系生修.外系限輔系、雙主修中文系學生修習
-3,1103524,01,話本小說選讀Selected Readings of the Colloquial Short Story,教師未定,"3
+3,1103524,01,"話本小說選讀
+Selected Readings of the Colloquial Short Story",教師未定,"3
+
             3/0/0",3,選修,"一10,11,12",文學院102,40,link,
-3,1103630,01,歌仔戲名作欣賞與舞台實務Appreciation of masterpieces of Taiwanese Opera and stage practice,盧柏勳,"3
+3,1103630,01,"歌仔戲名作欣賞與舞台實務
+Appreciation of masterpieces of Taiwanese Opera and stage practice",盧柏勳,"3
+
             3/0/0",3,選修,"一7,8,9",文學院101,25,link,",列入「戲劇‧創意‧想像」學分學程科目文學院「地方人文」主題課程；列入「戲劇‧創意‧想像」學分學程科目"
-3,1103818,01,臺灣文學Taiwanese Literature,江寶釵 李知灝,"3
+3,1103818,01,"臺灣文學
+Taiwanese Literature",江寶釵 李知灝,"3
+
             3/0/0",3,選修,"四4,5,6",文學院102,40,link,",列入本土語言與文化實踐學分學程科目 ,列入原住民族文化資產與創意應用學分學程科目"
-3,1103819,01,大眾文學與產業Popular literature and industry,張日郡,"2
+3,1103819,01,"大眾文學與產業
+Popular literature and industry",張日郡,"2
+
             2/0/0",2,選修,"二4,5",文學院101,40,link,",列入「戲劇‧創意‧想像」學分學程科目列入「戲劇‧創意‧想像」學分學程科目"
-4,1104160,01,話劇選讀Readings in Drama,游富凱,"3
+4,1104160,01,"話劇選讀
+Readings in Drama",游富凱,"3
+
             3/0/0",3,選修,"三4,5,6",文學院101,40,link,",列入「戲劇‧創意‧想像」學分學程科目"
-4,1104224,01,楚辭Ch'u-tz'u,陳逸根,"3
+4,1104224,01,"楚辭
+Ch'u-tz'u",陳逸根,"3
+
             3/0/0",3,選修,"二7,8,9",文學院101,40,link,
-4,1104313,01,訓詁學Scholium,黃靜吟,"3
+4,1104313,01,"訓詁學
+Scholium",黃靜吟,"3
+
             3/0/0",3,選修,"二10,11,12",文學院102,40,link,
-4,1104346,01,語言與文化Language and Culture,曾若涵,"2
+4,1104346,01,"語言與文化
+Language and Culture",曾若涵,"2
+
             2/0/0",2,選修,"五4,5",文學院102,40,link,

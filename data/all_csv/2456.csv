@@ -1,25 +1,51 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,2455002,01,分子生物學書報討論（一）Seminar on Molecular Biology (I),陳浩仁,"2
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,2455002,01,"分子生物學書報討論（一）
+Seminar on Molecular Biology (I)",陳浩仁,"2
+
             0/0/2",1,必修,"五2,3",生醫系228,0,碩士班課程,link,分生碩一必修
-1,2455009,01,分子生物書報討論（三）Seminar on Molecular Biology (III),吳淑芬,"2
+1,2455009,01,"分子生物書報討論（三）
+Seminar on Molecular Biology (III)",吳淑芬,"2
+
             0/0/2",1,必修,"五2,3",生醫系236,0,碩士班課程,link,分生碩二必修
-1,2455017,01,高等分子生物學Advanced Molecular Biology,江明格 陳浩仁,"3
+1,2455017,01,"高等分子生物學
+Advanced Molecular Biology",江明格 陳浩仁,"3
+
             3/0/0",3,必修,"四C,D",生醫系236,0,碩士班課程,link,限大四以上學生選修
-1,2455018,01,高等生化Advanced Biochemistry,翁靖傑,"3
+1,2455018,01,"高等生化
+Advanced Biochemistry",翁靖傑,"3
+
             3/0/0",3,必修,"三C,D",生醫系236,0,碩士班課程,link,限大四以上學生選修
-1,2455706,01,生物化學專題研究（一）Special topics on Biochemistry (I),李政怡 余俊頴,"4
+1,2455706,01,"生物化學專題研究（一）
+Special topics on Biochemistry (I)",李政怡 余俊頴,"4
+
             0/0/4",2,選修,"一2,3 三2,3",生醫系534,0,碩博合開,link,
-1,2455707,01,分子運輸學專題研究（一）Special topics on Molecular Transportation (I),黃憲斌 李沁,"4
+1,2455707,01,"分子運輸學專題研究（一）
+Special topics on Molecular Transportation (I)",黃憲斌 李沁,"4
+
             0/0/4",2,選修,"一13,14 三13,14",生醫系230,0,碩博合開,link,
-1,2455708,01,細胞與發育生物學專題研究（一）Special topics on Cell and Developmental Biology (I),江明格 陳浩仁,"4
+1,2455708,01,"細胞與發育生物學專題研究（一）
+Special topics on Cell and Developmental Biology (I)",江明格 陳浩仁,"4
+
             0/0/4",2,選修,"二2,3 四2,3",生醫系534,0,碩博合開,link,
-1,2455723,01,遺傳學專題研究（一）Special topics on Genetics(I),呂昱瑋 黃敏郎,"4
+1,2455723,01,"遺傳學專題研究（一）
+Special topics on Genetics(I)",呂昱瑋 黃敏郎,"4
+
             0/0/4",2,選修,"一13,14 三13,14",生醫系228,0,碩博合開,link,
-1,2458001,01,分子生物學書報討論（五）Seminar on Molecular Biology (V),呂昱瑋,"2
+1,2458001,01,"分子生物學書報討論（五）
+Seminar on Molecular Biology (V)",呂昱瑋,"2
+
             0/0/2",1,必修,"五2,3",生醫系230,0,博士班課程,link,",列入自然科學與材料生物科技全英文學分學程科目分生博一必修"
-1,2458003,01,分子生物學書報討論（七）Seminar on Molecular Biology (VII),呂昱瑋,"2
+1,2458003,01,"分子生物學書報討論（七）
+Seminar on Molecular Biology (VII)",呂昱瑋,"2
+
             0/0/2",1,必修,"五4,5",生醫系230,0,博士班課程,link,",列入自然科學與材料生物科技全英文學分學程科目分生博二必修"
-1,2458008,01,高等細胞分子生物學（一）Advanced Cell  and  Molecular Biology(I),江明格 陳浩仁,"3
+1,2458008,01,"高等細胞分子生物學（一）
+Advanced Cell  and  Molecular Biology(I)",江明格 陳浩仁,"3
+
             3/0/0",3,必修,"三2,3,4",生醫系228,0,博士班課程,link,",列入自然科學與材料生物科技全英文學分學程科目[本國生修]"
-1,2458008,02,高等細胞分子生物學（一）Advanced Cell  and  Molecular Biology(I) (全英語授課/English-taught),江明格 陳浩仁,"3
+1,2458008,02,"高等細胞分子生物學（一）
+Advanced Cell  and  Molecular Biology(I)
+ (全英語授課/English-taught)",江明格 陳浩仁,"3
+
             3/0/0",3,必修,"三8,9,10",生醫系228,0,碩博合開,link,",列入自然科學與材料生物科技全英文學分學程科目"

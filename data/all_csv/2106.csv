@@ -1,15 +1,31 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,2105010,01,研究方法（二）Research Methods (II),王琪仁 陳孟豁,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,2105010,01,"研究方法（二）
+Research Methods (II)",王琪仁 陳孟豁,"3
+
             3/0/0",3,必修,一E 三E,數學館312,0,碩士班課程,link,
-1,2105201,01,常微分方程（一）Ordinary Differential Equations (I),黃博峙,"3
+1,2105201,01,"常微分方程（一）
+Ordinary Differential Equations (I)",黃博峙,"3
+
             3/0/0",3,選修,二B 四B,數學館307B,0,碩士班課程,link,
-1,2105203,01,偏微分方程（一）Partial Differential Equations (I),黃志強,"3
+1,2105203,01,"偏微分方程（一）
+Partial Differential Equations (I)",黃志強,"3
+
             3/0/0",3,選修,"二10,11,12",數學館307B,0,碩士班課程,link,
-1,2105501,01,應用數學導論（一）Introduction to Applied Mathematics (I),尤玲凰,"3
+1,2105501,01,"應用數學導論（一）
+Introduction to Applied Mathematics (I)",尤玲凰,"3
+
             3/0/0",3,選修,一B 三B,數學館307B,0,碩士班課程,link,
-1,2105734,01,生物數學建模Mathematical modeling in biology (全英語授課/English-taught),張覺心,"3
+1,2105734,01,"生物數學建模
+Mathematical modeling in biology
+ (全英語授課/English-taught)",張覺心,"3
+
             3/0/0",3,必修,二F 四F,數學館307B,0,碩士班課程,link,
-1,2105736,01,機器學習Machine Learning,賴振耀 陳孟豁,"3
+1,2105736,01,"機器學習
+Machine Learning",賴振耀 陳孟豁,"3
+
             3/0/0",3,選修,二B 四B,電算中心216教室,0,碩士班課程,link,
-1,2105737,01,統計學習Statistical Learning,王价輝,"3
+1,2105737,01,"統計學習
+Statistical Learning",王价輝,"3
+
             3/0/0",3,選修,二E 四E,數學館312,0,碩士班課程,link,

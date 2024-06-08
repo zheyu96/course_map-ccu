@@ -1,61 +1,122 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
-1,1201115,01,中國通史(一)General History of China (I),林韻柔,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
+1,1201115,01,"中國通史(一)
+General History of China (I)",林韻柔,"3
+
             3/0/0",3,必修,"四7,8,9",文學院106,55,link,保留新生52人
-1,1201123,01,世界通史(一)World History (I),杜子信,"3
+1,1201123,01,"世界通史(一)
+World History (I)",杜子信,"3
+
             3/0/0",3,必修,"三4,5,6",文學院135,75,link,保留新生52人
-1,1201161,01,史學入門（一）Gateway to History (I),蔡偉傑,"2
+1,1201161,01,"史學入門（一）
+Gateway to History (I)",蔡偉傑,"2
+
             2/0/0",2,必修,"四10,11",文學院106,55,link,保留新生52人
-2,1202231,01,台灣史（一）History of Taiwan (I),張建俅,"3
+2,1202231,01,"台灣史（一）
+History of Taiwan (I)",張建俅,"3
+
             3/0/0",3,必修,"一10,11,12",文學院106,55,link,"先修科目(1201161)史學入門（一）(曾經修習)  ,列入本土語言與文化實踐學分學程科目"
-2,1202342,01,宋史（二）History of the Sung Dynasty (II),楊宇勛,"3
+2,1202342,01,"宋史（二）
+History of the Sung Dynasty (II)",楊宇勛,"3
+
             3/0/0",3,選修,"四7,8,9",文學院118,40,link,中國斷代史
-2,1202411,01,世界中古史（一）History of the Medieval World (I),杜子信,"3
+2,1202411,01,"世界中古史（一）
+History of the Medieval World (I)",杜子信,"3
+
             3/0/0",3,選修,"五4,5,6",文學院106,55,link,世界斷代史
-2,1202441,01,美國史(一)History of the United States of America (I),蔡偉傑,"3
+2,1202441,01,"美國史(一)
+History of the United States of America (I)",蔡偉傑,"3
+
             3/0/0",3,選修,"二10,11,12",文學院117,40,link,國別暨區域史
-2,1202461,01,日本史 (一)History of Japan (I),教師未定,"3
+2,1202461,01,"日本史 (一)
+History of Japan (I)",教師未定,"3
+
             3/0/0",3,選修,"二7,8,9",文學院106,55,link,國別暨區域史
-2,1202652,01,中國政治制度史（二）History of Chinese Political Institutions(II),李昭毅,"3
+2,1202652,01,"中國政治制度史（二）
+History of Chinese Political Institutions(II)",李昭毅,"3
+
             3/0/0",3,選修,"二4,5,6",文學院106,55,link,專史.專題.史學史.史料選讀.應用史學
-3,1203161,01,史學方法（一）Historical Methods (I),張秀蓉,"2
+3,1203161,01,"史學方法（一）
+Historical Methods (I)",張秀蓉,"2
+
             2/0/0",2,必修,"三8,9",文學院135,75,link,未修史學方法(一)不得修史學方法(二)
-3,1203233,01,早期台灣史(一)Early Taiwan History (I),楊書濠,"2
+3,1203233,01,"早期台灣史(一)
+Early Taiwan History (I)",楊書濠,"2
+
             2/0/0",2,選修,"四2,3",文學院118,40,link,",列入原住民族文化資產與創意應用學分學程科目國別暨區域史"
-3,1203371,01,秦漢史（一）History of the Ch'in and Han Periods (I),李昭毅,"3
+3,1203371,01,"秦漢史（一）
+History of the Ch'in and Han Periods (I)",李昭毅,"3
+
             3/0/0",3,選修,"一7,8,9",文學院118,40,link,中國斷代史
-3,1203441,01,古代希臘史（一）History of Ancient Greece(I),黃俊龍,"3
+3,1203441,01,"古代希臘史（一）
+History of Ancient Greece(I)",黃俊龍,"3
+
             3/0/0",3,選修,"一7,8,9",文學院117,40,link,世界斷代史
-3,1203445,01,古代羅馬史(一)History of Ancient Rome (I),黃俊龍,"3
+3,1203445,01,"古代羅馬史(一)
+History of Ancient Rome (I)",黃俊龍,"3
+
             3/0/0",3,選修,"二7,8,9",文學院117,40,link,世界斷代史
-2,1203513,01,臺灣近代史（一）Modern History of Taiwan(I),蘇全正,"2
+2,1203513,01,"臺灣近代史（一）
+Modern History of Taiwan(I)",蘇全正,"2
+
             2/0/0",2,選修,"一4,5",文學院106,55,link,"1.國別暨區域史2.文學院「地方人文」主題課程"
-3,1203529,01,世界史上的內亞Inner Asia in World History,蔡偉傑,"3
+3,1203529,01,"世界史上的內亞
+Inner Asia in World History",蔡偉傑,"3
+
             3/0/0",3,選修,"三10,11,12",文學院118,40,link,國別暨區域史
-4,1203563,01,德國文化史（一）Cultural History of Germany (I),郭秀鈴,"3
+4,1203563,01,"德國文化史（一）
+Cultural History of Germany (I)",郭秀鈴,"3
+
             3/0/0",3,選修,"三4,5,6",文學院118,40,link,國別暨區域史
-3,1203583,01,巴爾幹地區史（一）History of the Balkan Region(I),杜子信,"3
+3,1203583,01,"巴爾幹地區史（一）
+History of the Balkan Region(I)",杜子信,"3
+
             3/0/0",3,選修,"四7,8,9",文學院135,75,link,國別暨區域史
-3,1203711,01,中國史學史（一）Chinese Historiography (I),朱振宏,"2
+3,1203711,01,"中國史學史（一）
+Chinese Historiography (I)",朱振宏,"2
+
             2/0/0",2,選修,"三2,3",文學院118,40,link,專史.專題.史學史.史料選讀.應用史學
-3,1203721,01,西洋史學史（一）Western Historiography (I),方志強,"2
+3,1203721,01,"西洋史學史（一）
+Western Historiography (I)",方志強,"2
+
             2/0/0",2,選修,"四10,11",文學院118,40,link,專史.專題.史學史.史料選讀.應用史學
-3,1203741,01,臺日關係史(一)History of  Taiwan-Japan Relations (I),教師未定,"3
+3,1203741,01,"臺日關係史(一)
+History of  Taiwan-Japan Relations (I)",教師未定,"3
+
             3/0/0",3,選修,"三4,5,6",文學院117,40,link,專史.專題.史學史.史料選讀.應用史學
-3,1203759,01,唐代石刻文獻The Stone Inscription of Tang Dynasty,林韻柔,"3
+3,1203759,01,"唐代石刻文獻
+The Stone Inscription of Tang Dynasty",林韻柔,"3
+
             3/0/0",3,選修,"五4,5,6",文學院118,40,link,專史.專題.史學史.史料選讀.應用史學
-2,1203829,01,鄉土史研究法Field Study Methods,蘇全正,"2
+2,1203829,01,"鄉土史研究法
+Field Study Methods",蘇全正,"2
+
             2/0/0",2,選修,"一7,8",文學院106,55,link,"1.專史.專題.史學史.史料選讀.應用史學2.文學院「地方人文」主題課程"
-4,1204613,01,德意志神聖羅馬帝國史專題（一）Seminar on History of Holy Roman Empire of the German Nation (I),杜子信,"3
+4,1204613,01,"德意志神聖羅馬帝國史專題（一）
+Seminar on History of Holy Roman Empire of the German Nation (I)",杜子信,"3
+
             3/0/0",3,選修,"三10,11 五10",文學院135,75,link,專史.專題.史學史.史料選讀.應用史學
-4,1204629,01,修昔底德與伯羅奔尼撒戰爭史Thucydides'History of the Peloponnesian War,黃俊龍,"2
+4,1204629,01,"修昔底德與伯羅奔尼撒戰爭史
+Thucydides'History of the Peloponnesian War",黃俊龍,"2
+
             2/0/0",2,選修,"三7,8",文學院117,40,link,專史.專題.史學史.史料選讀.應用史學
-2,1204681,01,台灣藝術史（一）History of Art in Taiwan (I),李淑卿,"2
+2,1204681,01,"台灣藝術史（一）
+History of Art in Taiwan (I)",李淑卿,"2
+
             2/0/0",2,選修,"二4,5",文學院135,75,link,",列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目1.專史.專題.史學史.史料選讀.應用史學2.藝術文物學分學程必修課程"
-4,1204759,01,世界現代建築史與文化理論History and Theory of Modern Architecture,郭秀鈴,"3
+4,1204759,01,"世界現代建築史與文化理論
+History and Theory of Modern Architecture",郭秀鈴,"3
+
             3/0/0",3,選修,"二4,5,6",文學院118,40,link,",列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目1.專史.專題.史學史.史料選讀.應用史學2.藝術文物學分學程選修課程"
-4,1204839,01,社會領域探究與實作專題Social Studies: Explorations and Practices,郭秀鈴,"2
+4,1204839,01,"社會領域探究與實作專題
+Social Studies: Explorations and Practices",郭秀鈴,"2
+
             2/0/0",2,選修,"二10,11",文學院118,40,link,中等師資歷史專長必修課程
-2,1204889,01,社會學習領域概論Survey on Social Studies,張秀蓉,"2
+2,1204889,01,"社會學習領域概論
+Survey on Social Studies",張秀蓉,"2
+
             2/0/0",2,選修,"四2,3",文學院117,40,link,中等師資歷史專長必修課程
-4,1204929,01,近代中國城市文化的變遷The Development of Urban Culture in Late Imperial China,張秀蓉,"3
+4,1204929,01,"近代中國城市文化的變遷
+The Development of Urban Culture in Late Imperial China",張秀蓉,"3
+
             3/0/0",3,選修,"二7,8,9",文學院118,40,link,專史.專題.史學史.史料選讀.應用史學

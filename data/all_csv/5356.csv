@@ -1,23 +1,57 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,5355000,01,金融市場與機構Financial Markets and Institutions (全英語授課/English-taught),何月芳,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,5355000,01,"金融市場與機構
+Financial Markets and Institutions
+ (全英語授課/English-taught)",何月芳,"3
+
             3/0/0",3,必修,"三7,8,9",管理學院102,40,碩士班課程,link,限本系生修.IMF joint course
-1,5355001,01,財務管理Financial Management (全英語授課/English-taught),雲慕書,"3
+1,5355001,01,"財務管理
+Financial Management
+ (全英語授課/English-taught)",雲慕書,"3
+
             3/0/0",3,必修,"四7,8,9",管理學院401之3,35,碩士班課程,link,限本系生修.IMF Joint Course
-1,5355202,01,投資管理學Investment Analysis (全英語授課/English-taught),陳安行,"3
+1,5355202,01,"投資管理學
+Investment Analysis
+ (全英語授課/English-taught)",陳安行,"3
+
             3/0/0",3,必修,"一7,8,9",管理學院359,60,碩士班課程,link,限本系生修.IMF joint course
-1,5355217,01,金融科技專題Seminar in Fintech (全英語授課/English-taught),陳安行,"3
+1,5355217,01,"金融科技專題
+Seminar in Fintech
+ (全英語授課/English-taught)",陳安行,"3
+
             3/0/0",3,選修,"二7,8,9",管理學院359,60,碩士班課程,link,限本系生修.IMF Joint Course
-1,5355302,01,高階財務管理Advanced Financial Management (全英語授課/English-taught),鎮明常,"3
+1,5355302,01,"高階財務管理
+Advanced Financial Management
+ (全英語授課/English-taught)",鎮明常,"3
+
             3/0/0",3,選修,"四13,14,15",管理學院427,32,碩士班課程,link,限本系生修.IMF joint course
-1,5355409,01,計量經濟學Econometrics (全英語授課/English-taught),林岳喬,"3
+1,5355409,01,"計量經濟學
+Econometrics
+ (全英語授課/English-taught)",林岳喬,"3
+
             3/0/0",3,必修,"三3,4,5",創新大樓383,35,碩士班課程,link,限本系生修.IMF joint course
-1,5355603,01,網路行銷策略Internet Marketing Strategy (全英語授課/English-taught),羅美玲,"3
+1,5355603,01,"網路行銷策略
+Internet Marketing Strategy
+ (全英語授課/English-taught)",羅美玲,"3
+
             3/0/0",3,選修,"三7,8,9",管理學院616A,65,碩士班課程,link,限本系生修.IMF joint course
-1,5355607,01,管理資訊系統研究Management Information Systems Research (全英語授課/English-taught),羅美玲,"3
+1,5355607,01,"管理資訊系統研究
+Management Information Systems Research
+ (全英語授課/English-taught)",羅美玲,"3
+
             3/0/0",3,選修,"二8,9,10",管理學院616A,65,碩士班課程,link,限本系生修.IMF joint course
-1,5356020,01,投資實務Investment Analysis: Theory and Practice (全英語授課/English-taught),林岳喬,"3
+1,5356020,01,"投資實務
+Investment Analysis: Theory and Practice
+ (全英語授課/English-taught)",林岳喬,"3
+
             3/0/0",3,選修,"四8,9,10",創新大樓383,35,碩士班課程,link,限本系生修.IMF joint course
-1,5356407,01,資料通訊與網路Data Communications & Networks (全英語授課/English-taught),吳帆,"3
+1,5356407,01,"資料通訊與網路
+Data Communications & Networks
+ (全英語授課/English-taught)",吳帆,"3
+
             3/0/0",3,選修,"二10,11,12",管理學院415,70,碩士班課程,link,限本系生修.IMF joint course
-1,5356610,01,都市經濟學Topics in Urban Economics (全英語授課/English-taught),教師未定,"3
+1,5356610,01,"都市經濟學
+Topics in Urban Economics
+ (全英語授課/English-taught)",教師未定,"3
+
             3/0/0",3,選修,"三3,4,5",管理學院336,60,碩士班課程,link,限本系生修.IMF joint course

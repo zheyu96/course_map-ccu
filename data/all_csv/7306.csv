@@ -1,45 +1,90 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
-1,3545010,01,教育心理學Psychology of Education,曾玉村,"2
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
+1,3545010,01,"教育心理學
+Psychology of Education",曾玉村,"2
+
             2/0/0",2,必修,"一8,9",教育館502,25,link,
-1,3545060,01,教育行政Educational Administration,陳幸仁,"2
+1,3545060,01,"教育行政
+Educational Administration",陳幸仁,"2
+
             2/0/0",2,選修,"三4,5",教育館501,25,link,
-1,3545510,01,特殊教育導論Introduction in Exceptional Eductation,連啟舜,"3
+1,3545510,01,"特殊教育導論
+Introduction in Exceptional Eductation",連啟舜,"3
+
             3/0/0",3,必修,"四7,8,9",教育館501,25,link,
-1,3545565,01,教育行動研究Educational Action Research,蔡清田,"2
+1,3545565,01,"教育行動研究
+Educational Action Research",蔡清田,"2
+
             2/0/0",2,選修,"三10,11",教育館501,25,link,
-1,3545845,01,青少年問題與輔導Issues on the adolescents,陳慧女,"2
+1,3545845,01,"青少年問題與輔導
+Issues on the adolescents",陳慧女,"2
+
             2/0/0",2,選修,"一4,5",教育館501,25,link,
-1,3545865,01,班級經營Classroom Management,洪志成,"2
+1,3545865,01,"班級經營
+Classroom Management",洪志成,"2
+
             2/0/0",2,必修,"四2,3",教育館501,25,link,
-1,3545930,01,教育概論Introduction to Education,陳姚真,"2
+1,3545930,01,"教育概論
+Introduction to Education",陳姚真,"2
+
             2/0/0",2,必修,"四4,5",教育館502,25,link,
-1,3545935,01,教學原理Instruction Principles,洪志成 林永豐,"2
+1,3545935,01,"教學原理
+Instruction Principles",洪志成 林永豐,"2
+
             2/0/0",2,必修,"三2,3",教育館502,25,link,
-1,3545940,01,課程發展與設計Curriculum Developement and Design,蔡清田,"2
+1,3545940,01,"課程發展與設計
+Curriculum Developement and Design",蔡清田,"2
+
             2/0/0",2,必修,"三8,9",教育館501,25,link,
-1,3546331,01,學習評量Assessment of Learning,曾玉村,"2
+1,3546331,01,"學習評量
+Assessment of Learning",曾玉村,"2
+
             2/0/0",2,必修,"二10,11",教育館502,25,link,
-1,3546341,01,教學媒體與運用Instructional Medium,陳姚真,"2
+1,3546341,01,"教學媒體與運用
+Instructional Medium",陳姚真,"2
+
             2/0/0",2,選修,"四10,11",教育館502,25,link,
-1,3546359,01,職業教育與訓練及生涯規劃Seminar on Vocational Education and Education & Career Planning,陳幸仁,"1
+1,3546359,01,"職業教育與訓練及生涯規劃
+Seminar on Vocational Education and Education & Career Planning",陳幸仁,"1
+
             1/0/0",1,必修,三3,教育館501,25,link,
-1,3546368,01,數學領域—數學專長教材教法TeachingMathematicsInTheSecondarySchool,王琪仁,"2
+1,3546368,01,"數學領域—數學專長教材教法
+TeachingMathematicsInTheSecondarySchool",王琪仁,"2
+
             2/0/0",2,必修,"三2,3",數學館308B,32,link,
-1,3546369,01,自然科學領域—化學專長教材教法Chemistry/Science and Technology,黃憲斌,"2
+1,3546369,01,"自然科學領域—化學專長教材教法
+Chemistry/Science and Technology",黃憲斌,"2
+
             2/0/0",2,必修,"二4,5",生醫系236,18,link,
-1,3546370,01,社會領域－歷史專長教材教法Instruction in History/Social,朱振宏,"2
+1,3546370,01,"社會領域－歷史專長教材教法
+Instruction in History/Social",朱振宏,"2
+
             2/0/0",2,必修,"二4,5",文學院117,40,link,
-1,3546371,01,語文領域—英語文專長教材教法Instruction in English/Language,林麗菊 楊岳龍,"2
+1,3546371,01,"語文領域—英語文專長教材教法
+Instruction in English/Language",林麗菊 楊岳龍,"2
+
             2/0/0",2,必修,"四8,9",語言中心語言教室227,30,link,
-1,3546372,01,綜合活動領域—輔導專長／輔導教師教材教法Teaching Materials and Methods of Guidance Activities,吳美枝,"2
+1,3546372,01,"綜合活動領域—輔導專長／輔導教師教材教法
+Teaching Materials and Methods of Guidance Activities",吳美枝,"2
+
             2/0/0",2,必修,"四12,13",教育館501,25,link,
-1,3546381,01,語文領域—國語文專長教材教法Instruction in Chinese/Language,廖玉枝,"2
+1,3546381,01,"語文領域—國語文專長教材教法
+Instruction in Chinese/Language",廖玉枝,"2
+
             2/0/0",2,必修,"一12,13",教育館501,25,link,
-1,3546383,01,社會領域—公民與社會專長教材教法Teaching Materials and Methods of Civic and Society,林永豐,"2
+1,3546383,01,"社會領域—公民與社會專長教材教法
+Teaching Materials and Methods of Civic and Society",林永豐,"2
+
             2/0/0",2,必修,"三4,5",教育館502,25,link,
-1,3546385,01,婚姻與家庭Marriage and Family,吳美枝,"2
+1,3546385,01,"婚姻與家庭
+Marriage and Family",吳美枝,"2
+
             2/0/0",2,必修,"二12,13",教育館501,25,link,本門為輔導領域之必修課程，僅限培育「輔導教師」或「輔導專長」之師資生修習，非培育輔導之師資生不得修習後用以採認其他培育學科課程學分。
-1,3546395,01,危機處理Crisis Intervention,陳慧女,"3
+1,3546395,01,"危機處理
+Crisis Intervention",陳慧女,"3
+
             3/0/0",3,必修,"一7,8,9",教育館501,25,link,本門為輔導領域之必修課程，僅限培育「輔導教師」或「輔導專長」之師資生修習，非培育輔導之師資生不得修習後用以採認其他培育學科課程學分。
-1,3546413,01,自然科學領域—物理專長教材教法Instruction in Physics /Science and Technology,黃憲斌,"2
+1,3546413,01,"自然科學領域—物理專長教材教法
+Instruction in Physics /Science and Technology",黃憲斌,"2
+
             2/0/0",2,必修,"二4,5",生醫系236,18,link,

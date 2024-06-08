@@ -1,39 +1,87 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,4155110,01,微波電路設計Microwave Circuits Design,湯敬文,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,4155110,01,"微波電路設計
+Microwave Circuits Design",湯敬文,"3
+
             3/0/0",3,選修,"一3,4,5",創新大樓507,0,碩博合開,link,
-1,4155112,01,射頻電路設計RF Circuit Design,林士程,"3
+1,4155112,01,"射頻電路設計
+RF Circuit Design",林士程,"3
+
             3/0/0",3,選修,"二7,8,9",工學院A館125,0,碩博合開,link,
-1,4155318,01,奈米積體電路設計 Nanometer integrated circuit design,王進賢,"3
+1,4155318,01,"奈米積體電路設計
+ Nanometer integrated circuit design",王進賢,"3
+
             3/0/0",3,選修,"三B,C",工學院A館225,0,碩博合開,link,大四不可修。
-1,4155500,01,太陽能發電系統Solar Power Generation System (全英語授課/English-taught),劉祐任,"3
+1,4155500,01,"太陽能發電系統
+Solar Power Generation System
+ (全英語授課/English-taught)",劉祐任,"3
+
             3/0/0",3,選修,"四E,F",工學院A館125,0,碩博合開,link,
-1,4155501,01,電力系統分析Power System Analysis (全英語授課/English-taught),張文恭,"3
+1,4155501,01,"電力系統分析
+Power System Analysis
+ (全英語授課/English-taught)",張文恭,"3
+
             3/0/0",3,選修,"三F,G",工學院A館126,0,碩博合開,link,先修科目(4153205)電機機械(60分以上)
-1,4155509,01,電業自由化概論An Introduction to Electric Utility Deregulation (全英語授課/English-taught),吳元康,"3
+1,4155509,01,"電業自由化概論
+An Introduction to Electric Utility Deregulation
+ (全英語授課/English-taught)",吳元康,"3
+
             3/0/0",3,選修,"四G,H",工學院A館226,0,碩博合開,link,大四不可修。
-1,4155511,01,保護電驛Protective Relaying,吳清章,"3
+1,4155511,01,"保護電驛
+Protective Relaying",吳清章,"3
+
             3/0/0",3,選修,"五3,4,5",工學院A館226,0,碩博合開,link,
-1,4155560,01,微波主動電路設計Microwave Active Circuit Design,張盛富,"3
+1,4155560,01,"微波主動電路設計
+Microwave Active Circuit Design",張盛富,"3
+
             3/0/0",3,選修,"一E,F",創新大樓439,0,碩博合開,link,"先修科目(4153207)電磁波(及格) (4303010)電磁波(及格) (只要符合任一先修條件)先備能力-熟悉 ADS (或相當功能)微波模擬軟體、佈局軟體、電路板蝕刻。大四學生需跟授課老師談過才可選修。"
-1,4156001,01,專題演講（一）Seminar (I) (全英語授課/English-taught),翁健家 賴傳淇 劉立頌,"2
+1,4156001,01,"專題演講（一）
+Seminar (I)
+ (全英語授課/English-taught)",翁健家 賴傳淇 劉立頌,"2
+
             0/0/2",1,必修,"五8,9",創新大樓110大型會議室(銘珠講堂),171,碩士班課程,link,與通訊所併班上課，第二階段加退選開放本系大學部學生加簽選修。
-1,4156028,01,數位訊號處理專論Seminar on Digital Signal Processing,陳自強,"3
+1,4156028,01,"數位訊號處理專論
+Seminar on Digital Signal Processing",陳自強,"3
+
             3/0/0",3,選修,"一I,J",工學院A館226,0,碩博合開,link,大四不可修，限信號與智慧計算組研究生修習。
-1,4156030,01,微波與毫米波技術專論Seminar on Microwave/Millimeter-Wave Technologies,林士程,"3
+1,4156030,01,"微波與毫米波技術專論
+Seminar on Microwave/Millimeter-Wave Technologies",林士程,"3
+
             3/0/0",3,選修,"四3,4,5",工學院A館126,0,碩博合開,link,大四不可修，限電磁晶片組研究生修習。
-1,4156108,01,天線理論與設計Autenna Theory and Design,張嘉展,"3
+1,4156108,01,"天線理論與設計
+Autenna Theory and Design",張嘉展,"3
+
             3/0/0",3,選修,"三7,8,9",工學院A館225,0,碩博合開,link,大四不可修。
-1,4156199,01,毫米波積體電路Millimeter Wave Integrated Circuit (全英語授課/English-taught),吳建華,"3
+1,4156199,01,"毫米波積體電路
+Millimeter Wave Integrated Circuit
+ (全英語授課/English-taught)",吳建華,"3
+
             3/0/0",3,選修,"三3,4,5",工學院A館125,0,碩博合開,link,大四不可修。
-1,4156200,01,視訊處理Video Processing (全英語授課/English-taught),江瑞秋,"3
+1,4156200,01,"視訊處理
+Video Processing
+ (全英語授課/English-taught)",江瑞秋,"3
+
             3/0/0",3,選修,"三8,9,10",工學院A館226,0,碩博合開,link,
-1,4156303,01,人工智慧Artificial Intelligence,劉立頌,"3
+1,4156303,01,"人工智慧
+Artificial Intelligence",劉立頌,"3
+
             3/0/0",3,選修,"四E,F",工學院A館225,0,碩博合開,link,
-1,4156509,01,電力系統網路分析Network Analysis Power System (全英語授課/English-taught),穆罕默德·沙班,"3
+1,4156509,01,"電力系統網路分析
+Network Analysis Power System
+ (全英語授課/English-taught)",穆罕默德·沙班,"3
+
             3/0/0",3,選修,"二E,F",工學院A館126,0,碩博合開,link,
-1,4157014,01,智慧型控制Intelligent Control (全英語授課/English-taught),余國瑞,"3
+1,4157014,01,"智慧型控制
+Intelligent Control
+ (全英語授課/English-taught)",余國瑞,"3
+
             3/0/0",3,選修,"二G,H",工學院A館127,0,碩博合開,link,
-1,4157023,01,抗變異積體電路設計Variation-Resilient Integrated Circuit Designs,王進賢,"3
+1,4157023,01,"抗變異積體電路設計
+Variation-Resilient Integrated Circuit Designs",王進賢,"3
+
             3/0/0",3,選修,"四B,C",工學院A館226,0,碩博合開,link,大四不可修。
-1,4158910,01,電力系統最佳經濟運轉Optimal Economic Operation of Electric Power Systems (全英語授課/English-taught),穆罕默德·沙班,"3
+1,4158910,01,"電力系統最佳經濟運轉
+Optimal Economic Operation of Electric Power Systems
+ (全英語授課/English-taught)",穆罕默德·沙班,"3
+
             3/0/0",3,選修,"一8,9,10",工學院A館125,0,碩博合開,link,

@@ -486,7 +486,7 @@ function sortShowTimeTable(){
     credit = 0;
     addedTimeClass.sort((a, b) => (a.cmp[0]-b.cmp[0]||a.cmp[1]-b.cmp[1]||a.cmp[2]-b.cmp[2]))
         .forEach(e => {
-            credit += e['學分'];
+            credit += parseInt(e['學分']);
             let hr = document.createElement('button');
             let count = 0;
             if(e.cmp[2] == 0){

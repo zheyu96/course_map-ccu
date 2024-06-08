@@ -1,37 +1,79 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,5405001,01,金融科技導論Introduction to Financial Technologies (全英語授課/English-taught),宋豪漳,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,5405001,01,"金融科技導論
+Introduction to Financial Technologies
+ (全英語授課/English-taught)",宋豪漳,"3
+
             3/0/0",3,必修,"三7,8,9",管理學院454,90,碩士班課程,link,限本系生修.此課程為[金融科技碩士學位學程]必修
-1,5405106,01,管理資訊系統Management Information System,黃正魁,"3
+1,5405106,01,"管理資訊系統
+Management Information System",黃正魁,"3
+
             3/0/0",3,選修,"三3,4,5",管理學院427,0,碩士班課程,link,本課程屬於為「金融科技」領域
-1,5405303,01,計量經濟學(一)Econometrics (I),賴靖宜,"3
+1,5405303,01,"計量經濟學(一)
+Econometrics (I)",賴靖宜,"3
+
             3/0/0",3,選修,"三3,4,5",管理學院359,0,碩士班課程,link,本課程屬於「研究方法」領域
-1,5406113,01,人工智慧管理與創新Management and Innovation for Artificial Intelligence,黃正魁,"3
+1,5406113,01,"人工智慧管理與創新
+Management and Innovation for Artificial Intelligence",黃正魁,"3
+
             3/0/0",3,選修,"二8,9,10",管理學院4561,10,碩博合開,link,先修科目(5205005)管理資訊系統(及格) 限本系生修.本課程屬於「金融科技」領域
-1,5406320,01,金融科技專題Fintech Topics (全英語授課/English-taught),陳安行,"3
+1,5406320,01,"金融科技專題
+Fintech Topics
+ (全英語授課/English-taught)",陳安行,"3
+
             3/0/0",3,選修,"二7,8,9",管理學院359,60,碩士班課程,link,限本系生修.本課程屬於「金融科技」領域
-1,5406321,02,投資管理學Investment Analysis (全英語授課/English-taught),陳安行,"3
+1,5406321,02,"投資管理學
+Investment Analysis
+ (全英語授課/English-taught)",陳安行,"3
+
             3/0/0",3,選修,"一7,8,9",管理學院359,60,碩士班課程,link,限本系生修.本課程屬於「財務金融」領域
-1,5406324,01,投資管理學Investment Analysis,鄭揚耀,"3
+1,5406324,01,"投資管理學
+Investment Analysis",鄭揚耀,"3
+
             3/0/0",3,選修,"一3,4,5",管理學院359,60,碩士班課程,link,限本系生修.本課程屬於「財務金融」領域
-1,5406327,01,金融科技市場與服務Fintech: Financial Market and Services,余曉靜,"3
+1,5406327,01,"金融科技市場與服務
+Fintech: Financial Market and Services",余曉靜,"3
+
             3/0/0",3,必修,"四10,11,12",管理學院401之3,35,碩士班課程,link,限本系生修.此課程為[金融科技碩士學位學程]必修。建議財管、投資、金機及格。
-1,5406328,02,金融市場與機構Financial Markets and Institutions (全英語授課/English-taught),何月芳,"3
+1,5406328,02,"金融市場與機構
+Financial Markets and Institutions
+ (全英語授課/English-taught)",何月芳,"3
+
             3/0/0",3,選修,"三7,8,9",管理學院102,40,碩士班課程,link,限本系生修.本課程屬於「財務金融」領域
-1,5406330,01,金融市場與機構Financial Markets and Institutions,林佳賢,"3
+1,5406330,01,"金融市場與機構
+Financial Markets and Institutions",林佳賢,"3
+
             3/0/0",3,選修,"三7,8,9",管理學院359,60,碩士班課程,link,限本系生修.本課程屬於「財務金融」領域
-1,5406331,01,財務管理Financial Management,郭良瑋,"3
+1,5406331,01,"財務管理
+Financial Management",郭良瑋,"3
+
             3/0/0",3,選修,"二3,4,5",管理學院401之3,35,碩士班課程,link,限本系生修.本課程屬於「財務金融」領域
-1,5406414,01,資料通訊與網路Data Communication (全英語授課/English-taught),吳帆,"3
+1,5406414,01,"資料通訊與網路
+Data Communication
+ (全英語授課/English-taught)",吳帆,"3
+
             3/0/0",3,選修,"二10,11,12",管理學院415,70,碩士班課程,link,限本系生修.本課程屬於「資管」領域
-1,5406617,01,金融科技專案Fintech Project,林文昌,"3
+1,5406617,01,"金融科技專案
+Fintech Project",林文昌,"3
+
             3/0/0",3,必修,"四7,8,9",管理學院103,29,碩士班課程,link,先修科目(5405001)金融科技導論(60分以上) 限本系生修.此課程為[金融科技碩士學位學程]必修，必須先修畢金融科技導論
-1,5406618,01,大數據資料分析Modern Big Data Analysis,簡廷軒,"3
+1,5406618,01,"大數據資料分析
+Modern Big Data Analysis",簡廷軒,"3
+
             3/0/0",3,選修,"四3,4,5",管理學院102,40,碩士班課程,link,支援國經所一年級.限本系生修.本課程屬於「金融科技」領域
-1,5406619,01,程式設計與應用Computer Programming and Applications,簡廷軒,"3
+1,5406619,01,"程式設計與應用
+Computer Programming and Applications",簡廷軒,"3
+
             3/0/0",3,選修,"三3,4,5",管理學院351,15,碩士班課程,link,限本系生修.本課程屬於「研究方法」領域
-1,5406675,01,網路行銷策略Internet Marketing Strategy,羅美玲,"3
+1,5406675,01,"網路行銷策略
+Internet Marketing Strategy",羅美玲,"3
+
             3/0/0",3,選修,"三7,8,9",管理學院616A,0,碩士班課程,link,本課程屬於「資管」領域
-1,5406676,01,金融科技職場與實務FinTech Field and Practice,林文昌,"3
+1,5406676,01,"金融科技職場與實務
+FinTech Field and Practice",林文昌,"3
+
             3/0/0",3,選修,"一8,9,10",管理學院102,0,碩士班課程,link,本課程屬於「金融科技」領域
-1,5406677,01,研究方法Research Method,洪新原,"3
+1,5406677,01,"研究方法
+Research Method",洪新原,"3
+
             3/0/0",3,選修,"四7,8,9",管理學院616A,0,碩士班課程,link,限本系生修.本課程屬於「研究方法」領域

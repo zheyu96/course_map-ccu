@@ -1,39 +1,81 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,4305017,01,隨機程序Stochastic Processes,蘇益生,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,4305017,01,"隨機程序
+Stochastic Processes",蘇益生,"3
+
             3/0/0",3,選修,二E 四E,創新大樓101,55,碩博合開,link,
-1,4305034,01,數位通訊Digital Communications,邱茂清,"3
+1,4305034,01,"數位通訊
+Digital Communications",邱茂清,"3
+
             3/0/0",3,選修,"一E,F",創新大樓101,55,碩博合開,link,
-1,4305038,01,專題演講（一）Seminar ( I ) (全英語授課/English-taught),翁健家 賴傳淇 劉立頌,"2
+1,4305038,01,"專題演講（一）
+Seminar ( I )
+ (全英語授課/English-taught)",翁健家 賴傳淇 劉立頌,"2
+
             0/0/2",1,必修,"五8,9",創新大樓110大型會議室(銘珠講堂),150,碩士班課程,link,與電機所併班上課。第二階段加退選僅開放本系大學部學生加簽選修
-1,4305066,01,偵測與估計Detection and Estimation,劉宗憲,"3
+1,4305066,01,"偵測與估計
+Detection and Estimation",劉宗憲,"3
+
             3/0/0",3,選修,二C 四C,創新大樓101,55,碩博合開,link,
-1,4305087,01,消息理論Information Theory (全英語授課/English-taught),翁健家,"3
+1,4305087,01,"消息理論
+Information Theory
+ (全英語授課/English-taught)",翁健家,"3
+
             3/0/0",3,選修,二D 四D,創新大樓101,55,碩博合開,link,大四同學可選修
-1,4305113,01,電腦網路結構Computer Network Architecture,施淵耀,"3
+1,4305113,01,"電腦網路結構
+Computer Network Architecture",施淵耀,"3
+
             3/0/0",3,選修,"一E,F",創新大樓103,60,碩博合開,link,
-1,4305122,01,個人及行動通訊Personal and Mobile Communication,蘇益生,"3
+1,4305122,01,"個人及行動通訊
+Personal and Mobile Communication",蘇益生,"3
+
             3/0/0",3,選修,二F 四F,創新大樓101,55,碩博合開,link,
-1,4305127,01,資料網路規劃與設計Design and Planning of Data Networks,李詩偉,"3
+1,4305127,01,"資料網路規劃與設計
+Design and Planning of Data Networks",李詩偉,"3
+
             3/0/0",3,選修,一C 三C,創新大樓101,55,碩博合開,link,
-1,4305129,01,高等電腦網路Advanced Computer Networks,吳承崧,"3
+1,4305129,01,"高等電腦網路
+Advanced Computer Networks",吳承崧,"3
+
             3/0/0",3,選修,"二C,D",創新大樓103,60,碩博合開,link,",列入資通安全學程(1091起停辦)科目"
-1,4305146,01,通訊訊號處理專論Special Topic on Signal Processing for Communications,胡家彰,"3
+1,4305146,01,"通訊訊號處理專論
+Special Topic on Signal Processing for Communications",胡家彰,"3
+
             3/0/0",3,選修,"五3,4,5",創新大樓507,24,碩博合開,link,『通訊訊號處理專論』課程，限通訊系統組學生修習。
-1,4305153,01,錯誤更正碼專論Special Topics on Error Correcting Codes,李昌明,"3
+1,4305153,01,"錯誤更正碼專論
+Special Topics on Error Correcting Codes",李昌明,"3
+
             3/0/0",3,選修,"三12,13,14",創新大樓504,50,碩博合開,link,『錯誤更正碼專論』課程，限通訊系統組學生修習。
-1,4305157,01,前瞻網路技術專論Special Topics on Advanced Network Technology,潘仁義,"3
+1,4305157,01,"前瞻網路技術專論
+Special Topics on Advanced Network Technology",潘仁義,"3
+
             3/0/0",3,選修,"五I,J",創新大樓430,0,碩博合開,link,『前瞻網路技術專論』限通訊網路組學生修習
-1,4305166,01,多天線信號處理專論Special Topics on Multiple-Antenna Signal Processing,邱茂清,"3
+1,4305166,01,"多天線信號處理專論
+Special Topics on Multiple-Antenna Signal Processing",邱茂清,"3
+
             3/0/0",3,選修,"五3,4,5",創新大樓103,60,碩博合開,link,『多天線信號處理專論』課程，限通訊系統組學生修習。
-1,4305175,01,微處理機系統與介面技術Microprocessor based system and interface techniques,李皇辰,"3
+1,4305175,01,"微處理機系統與介面技術
+Microprocessor based system and interface techniques",李皇辰,"3
+
             3/0/0",3,選修,"五3,4,5",創新大樓430,16,碩博合開,link,大三、大四同學可以修；研究所同學若要修課，請一律找授課老師加簽
-1,4305179,01,嵌入式作業系統Embedded Operating Systems,李皇辰,"3
+1,4305179,01,"嵌入式作業系統
+Embedded Operating Systems",李皇辰,"3
+
             3/0/0",3,選修,"四3,4,5",創新大樓507,24,碩博合開,link,
-1,4305188,01,5G系統層模擬技術5G system-level simulation technology,潘仁義,"3
+1,4305188,01,"5G系統層模擬技術
+5G system-level simulation technology",潘仁義,"3
+
             3/0/0",3,選修,二G 四G,創新大樓504,0,碩博合開,link,
-1,4305189,01,網路經濟學Network Economy,施淵耀,"3
+1,4305189,01,"網路經濟學
+Network Economy",施淵耀,"3
+
             3/0/0",3,選修,"三E,F",創新大樓101,0,碩博合開,link,
-1,4305190,01,無人機通訊UAV Communications (全英語授課/English-taught),賴傳淇,"3
+1,4305190,01,"無人機通訊
+UAV Communications
+ (全英語授課/English-taught)",賴傳淇,"3
+
             3/0/0",3,選修,"三E,F",創新大樓103,60,碩博合開,link,
-1,4305199,01,資料分析與安全應用Data Analytics & Security,鄭伯炤,"3
+1,4305199,01,"資料分析與安全應用
+Data Analytics & Security",鄭伯炤,"3
+
             3/0/0",3,選修,一F 三F,創新大樓435,24,碩博合開,link,

@@ -1,19 +1,38 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,3205005,01,研究方法Research Methods,李育憶,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,3205005,01,"研究方法
+Research Methods",李育憶,"3
+
             3/0/0",3,必修,"二3,4,5",社科院509,0,碩士班課程,link,
-1,3205065,01,勞資爭議處理個案分析Labor Dispute Resolution: Cases Approach,李玉春,"3
+1,3205065,01,"勞資爭議處理個案分析
+Labor Dispute Resolution: Cases Approach",李玉春,"3
+
             3/0/0",3,選修,"一4,5,6",社科院521,0,碩士班課程,link,
-1,3205069,01,論文統計資料處理與分析實務Data processing and statistical analysis for research,林淑慧,"3
+1,3205069,01,"論文統計資料處理與分析實務
+Data processing and statistical analysis for research",林淑慧,"3
+
             3/0/0",3,選修,"四3,4,5",社科院312,0,碩士班課程,link,
-1,3205072,01,質化研究Qualitative Research,馬財專,"3
+1,3205072,01,"質化研究
+Qualitative Research",馬財專,"3
+
             3/0/0",3,選修,"三7,8,9",社科院312,0,碩士班課程,link,",列入民意調查與行銷學分學程科目 ,列入社會正義學分學程科目"
-1,3205074,01,人力資源發展專題討論Seminar in Human Resource Development,黃文柔,"3
+1,3205074,01,"人力資源發展專題討論
+Seminar in Human Resource Development",黃文柔,"3
+
             3/0/0",3,選修,"一3,4,5",社科院509,0,碩士班課程,link,
-1,3206060,01,勞動法專題討論Seminar on Labor Law,楊通軒,"3
+1,3206060,01,"勞動法專題討論
+Seminar on Labor Law",楊通軒,"3
+
             3/0/0",3,選修,"四4,5,6",社科院509,0,碩士班課程,link,
-1,3206089,01,書報討論（二）Seminar (II),馬財專,"2
+1,3206089,01,"書報討論（二）
+Seminar (II)",馬財專,"2
+
             0/0/2",1,必修,"一7,8",社科院509,41,碩士班課程,link,研二必修
-1,3206092,01,人力資源經濟分析Personnel economics for managers,吳啓新,"3
+1,3206092,01,"人力資源經濟分析
+Personnel economics for managers",吳啓新,"3
+
             3/0/0",3,選修,"三7,8,9",社科院509,0,碩士班課程,link,",列入人力資源與組織心理學分學程科目"
-1,3206094,01,薪酬管理專題討論Seminar on Compensation Management,黃良志,"3
+1,3206094,01,"薪酬管理專題討論
+Seminar on Compensation Management",黃良志,"3
+
             3/0/0",3,選修,"二7,8,9",社科院329,0,碩士班課程,link,

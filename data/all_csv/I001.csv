@@ -1,437 +1,880 @@
-﻿領域,向度,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
-1,中國語文知識與應用,7101136,01,大學國文：現代文學College Chinese: Modern Literature,馬玉紅,"2
+﻿領域,向度,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
+1,中國語文知識與應用,7101136,01,"大學國文：現代文學
+College Chinese: Modern Literature",馬玉紅,"2
+
             2/0/0",2,通識,"二2,3",共同教室大樓201,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101136,02,大學國文：現代文學College Chinese: Modern Literature,馬玉紅,"2
+1,中國語文知識與應用,7101136,02,"大學國文：現代文學
+College Chinese: Modern Literature",馬玉紅,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓201,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101137,01,大學國文：現代小說及散文選讀College Chinese: Selected Readings of Modern classic Novels,陳伯謙,"2
+1,中國語文知識與應用,7101137,01,"大學國文：現代小說及散文選讀
+College Chinese: Selected Readings of Modern classic Novels",陳伯謙,"2
+
             2/0/0",2,通識,"一2,3",共同教室大樓203,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101137,02,大學國文：現代小說及散文選讀College Chinese: Selected Readings of Modern classic Novels,陳伯謙,"2
+1,中國語文知識與應用,7101137,02,"大學國文：現代小說及散文選讀
+College Chinese: Selected Readings of Modern classic Novels",陳伯謙,"2
+
             2/0/0",2,通識,"一10,11",共同教室大樓203,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101138,01,大學國文：先秦神話選讀College Chinese: Selected Readings in Myth of the Pre-Qin Dynasty,陳厚任,"2
+1,中國語文知識與應用,7101138,01,"大學國文：先秦神話選讀
+College Chinese: Selected Readings in Myth of the Pre-Qin Dynasty",陳厚任,"2
+
             2/0/0",2,通識,"一2,3",共同教室大樓204,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101138,02,大學國文：先秦神話選讀College Chinese: Selected Readings in Myth of the Pre-Qin Dynasty,陳厚任,"2
+1,中國語文知識與應用,7101138,02,"大學國文：先秦神話選讀
+College Chinese: Selected Readings in Myth of the Pre-Qin Dynasty",陳厚任,"2
+
             2/0/0",2,通識,"一10,11",共同教室大樓204,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101139,01,大學國文：紅樓夢College Chinese: The Story of the Stone,陳逸根,"2
+1,中國語文知識與應用,7101139,01,"大學國文：紅樓夢
+College Chinese: The Story of the Stone",陳逸根,"2
+
             2/0/0",2,通識,"二2,3",共同教室大樓205,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101140,01,大學國文：敘事文學與人生College Chinese: Narrative Literature and Life,廖浿晴,"2
+1,中國語文知識與應用,7101140,01,"大學國文：敘事文學與人生
+College Chinese: Narrative Literature and Life",廖浿晴,"2
+
             2/0/0",2,通識,"四2,3",共同教室大樓201,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101140,02,大學國文：敘事文學與人生College Chinese: Narrative Literature and Life,廖浿晴,"2
+1,中國語文知識與應用,7101140,02,"大學國文：敘事文學與人生
+College Chinese: Narrative Literature and Life",廖浿晴,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓201,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101141,01,大學國文：易經College Chinese: I Ching,蔡翔任,"2
+1,中國語文知識與應用,7101141,01,"大學國文：易經
+College Chinese: I Ching",蔡翔任,"2
+
             2/0/0",2,通識,"三2,3",共同教室大樓206,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101142,01,大學國文：左傳College Chinese: Zuo Chuan,蔡翔任,"2
+1,中國語文知識與應用,7101142,01,"大學國文：左傳
+College Chinese: Zuo Chuan",蔡翔任,"2
+
             2/0/0",2,通識,"四2,3",共同教室大樓206,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101142,02,大學國文：左傳College Chinese: Zuo Chuan,蔡翔任,"2
+1,中國語文知識與應用,7101142,02,"大學國文：左傳
+College Chinese: Zuo Chuan",蔡翔任,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓206,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101143,01,大學國文：古典戲曲之認識與欣賞College Chinese: Know and appreciate in Chinese Traditional Opera,盧柏勳,"2
+1,中國語文知識與應用,7101143,01,"大學國文：古典戲曲之認識與欣賞
+College Chinese: Know and appreciate in Chinese Traditional Opera",盧柏勳,"2
+
             2/0/0",2,通識,"三10,11",文學院103,50,link,"保留新生48人. ,列入「戲劇‧創意‧想像」學分學程科目第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。"
-1,中國語文知識與應用,7101144,01,大學國文：日治時期台灣通俗小說College Chinese: Popular novels during the Japanese occupation,梁鈞筌,"2
+1,中國語文知識與應用,7101144,01,"大學國文：日治時期台灣通俗小說
+College Chinese: Popular novels during the Japanese occupation",梁鈞筌,"2
+
             2/0/0",2,通識,"一2,3",共同教室大樓201,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101144,02,大學國文：日治時期台灣通俗小說College Chinese: Popular novels during the Japanese occupation,梁鈞筌,"2
+1,中國語文知識與應用,7101144,02,"大學國文：日治時期台灣通俗小說
+College Chinese: Popular novels during the Japanese occupation",梁鈞筌,"2
+
             2/0/0",2,通識,"一10,11",共同教室大樓201,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101146,01,大學國文：語文創作與文創行銷College Chinese: Language Creation and Cultural Creation Marketing,葉書珊,"2
+1,中國語文知識與應用,7101146,01,"大學國文：語文創作與文創行銷
+College Chinese: Language Creation and Cultural Creation Marketing",葉書珊,"2
+
             2/0/0",2,通識,"五2,3",共同教室大樓202,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101150,01,大學國文：漢字文化與上古文明College Chinese: Chinese Character Culture and Ancient Civilization,陳厚任,"2
+1,中國語文知識與應用,7101150,01,"大學國文：漢字文化與上古文明
+College Chinese: Chinese Character Culture and Ancient Civilization",陳厚任,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓204,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101151,01,大學國文：動漫倫理學College Chinese:  The Ethics of Animation,陳逸根,"2
+1,中國語文知識與應用,7101151,01,"大學國文：動漫倫理學
+College Chinese:  The Ethics of Animation",陳逸根,"2
+
             2/0/0",2,通識,"一2,3",共同教室大樓205,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101152,01,大學國文：佛教文學與生命書寫College Chinese:  Buddhist Literature and Life Writing,鍾媄媜,"2
+1,中國語文知識與應用,7101152,01,"大學國文：佛教文學與生命書寫
+College Chinese:  Buddhist Literature and Life Writing",鍾媄媜,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓208,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101152,02,大學國文：佛教文學與生命書寫College Chinese:  Buddhist Literature and Life Writing,鍾媄媜,"2
+1,中國語文知識與應用,7101152,02,"大學國文：佛教文學與生命書寫
+College Chinese:  Buddhist Literature and Life Writing",鍾媄媜,"2
+
             2/0/0",2,通識,"四2,3",共同教室大樓208,50,link,保留新生48人.第一階段限大一學生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101155,01,大學國文：嘉義書寫與文化創意College Chinese: Writing and Cultural Innovation in Chayi,江寶釵 金儒農,"2
+1,中國語文知識與應用,7101155,01,"大學國文：嘉義書寫與文化創意
+College Chinese: Writing and Cultural Innovation in Chayi",江寶釵 金儒農,"2
+
             2/0/0",2,通識,"四10,11",文學院103,50,link,"保留新生48人. ,列入原住民族文化資產與創意應用學分學程科目第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。"
-1,中國語文知識與應用,7101157,01,大學國文：臺灣日治前古典文學與歷史College Chinese: Classical Literature and History of Taiwan before the Japanese Colonial Rule,梁鈞筌,"2
+1,中國語文知識與應用,7101157,01,"大學國文：臺灣日治前古典文學與歷史
+College Chinese: Classical Literature and History of Taiwan before the Japanese Colonial Rule",梁鈞筌,"2
+
             2/0/0",2,通識,"五2,3",共同教室大樓201,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101161,01,大學國文：跨文類故事寫作College Chinese: Writing Cross-Genre Stories,蘇恆毅,"2
+1,中國語文知識與應用,7101161,01,"大學國文：跨文類故事寫作
+College Chinese: Writing Cross-Genre Stories",蘇恆毅,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓205,50,link,保留新生48人.第一階段限大一學生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101162,01,大學國文：古典小說名篇選讀College Chinese: Selected Readings in Classical Novel,李映瑾,"2
+1,中國語文知識與應用,7101162,01,"大學國文：古典小說名篇選讀
+College Chinese: Selected Readings in Classical Novel",李映瑾,"2
+
             2/0/0",2,通識,"一10,11",共同教室大樓202,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101162,02,大學國文：古典小說名篇選讀College Chinese: Selected Readings in Classical Novel,李映瑾,"2
+1,中國語文知識與應用,7101162,02,"大學國文：古典小說名篇選讀
+College Chinese: Selected Readings in Classical Novel",李映瑾,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓202,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101167,01,大學國文：讀詩、寫字College Chinese：Reading Poetry and Writing in Chinese Calligraphy,馬玉紅,"2
+1,中國語文知識與應用,7101167,01,"大學國文：讀詩、寫字
+College Chinese：Reading Poetry and Writing in Chinese Calligraphy",馬玉紅,"2
+
             2/0/0",2,通識,"三2,3",共同教室大樓201,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101171,01,大學國文：藝文與知識普及寫作College Chinese: Learning to Write Popular Articles Across Disciplines,蘇恆毅,"2
+1,中國語文知識與應用,7101171,01,"大學國文：藝文與知識普及寫作
+College Chinese: Learning to Write Popular Articles Across Disciplines",蘇恆毅,"2
+
             2/0/0",2,通識,"三2,3",共同教室大樓205,50,link,保留新生48人.第一階段限大一學生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101171,02,大學國文：藝文與知識普及寫作College Chinese: Learning to Write Popular Articles Across Disciplines,蘇恆毅,"2
+1,中國語文知識與應用,7101171,02,"大學國文：藝文與知識普及寫作
+College Chinese: Learning to Write Popular Articles Across Disciplines",蘇恆毅,"2
+
             2/0/0",2,通識,"三10,11",共同教室大樓205,50,link,保留新生48人.第一階段限大一學生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101173,01,大學國文：傳奇小說與戲劇選讀College Chinese: Selected Readings in Chuanqi (Tales) and Drama,陳伯謙,"2
+1,中國語文知識與應用,7101173,01,"大學國文：傳奇小說與戲劇選讀
+College Chinese: Selected Readings in Chuanqi (Tales) and Drama",陳伯謙,"2
+
             2/0/0",2,通識,"二2,3",共同教室大樓203,50,link,"保留新生48人. ,列入「戲劇‧創意‧想像」學分學程科目第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。"
-1,中國語文知識與應用,7101174,01,大學國文：佛教傳記文學College Chinese: Buddhist Biographical Literature,鍾媄媜,"2
+1,中國語文知識與應用,7101174,01,"大學國文：佛教傳記文學
+College Chinese: Buddhist Biographical Literature",鍾媄媜,"2
+
             2/0/0",2,通識,"五2,3",共同教室大樓208,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101175,01,大學國文：外籍生基礎中文專班College Chinese: Basic Chinese Class for Foreign Students,陳逸根,"2
+1,中國語文知識與應用,7101175,01,"大學國文：外籍生基礎中文專班
+College Chinese: Basic Chinese Class for Foreign Students",陳逸根,"2
+
             2/0/0",2,通識,"一10,11",共同教室大樓205,50,link,保留新生50人.本課程係為母語非中文之外籍生開設之僑外專班，需於開學後第二階段選課時透過加簽方式進行選課。
-1,中國語文知識與應用,7101178,01,大學國文：漢字與古代占卜College Chinese: Chinese Character and Ancient Divination,張育州,"2
+1,中國語文知識與應用,7101178,01,"大學國文：漢字與古代占卜
+College Chinese: Chinese Character and Ancient Divination",張育州,"2
+
             2/0/0",2,通識,"二2,3",共同教室大樓202,50,link,保留新生48人.第一階段限大一新生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101178,02,大學國文：漢字與古代占卜College Chinese: Chinese Character and Ancient Divination,張育州,"2
+1,中國語文知識與應用,7101178,02,"大學國文：漢字與古代占卜
+College Chinese: Chinese Character and Ancient Divination",張育州,"2
+
             2/0/0",2,通識,"三2,3",共同教室大樓202,50,link,保留新生48人.第一階段限大一學生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,中國語文知識與應用,7101179,01,大學國文：莊子College Chinese: Zhuang-zi (The Philosophy of Zhuang-zi),蘇韋菱,"2
+1,中國語文知識與應用,7101179,01,"大學國文：莊子
+College Chinese: Zhuang-zi (The Philosophy of Zhuang-zi)",蘇韋菱,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓213,50,link,保留新生48人.第一階段限大一學生選修，第二階段開放全部年級學生選修；中文系學生不得選修；大三以上之學生，若尚未修習完「中文閱讀與生命書寫」，請於開學後至選課系統選修「大學國文」課程，以補足通識國文學分。
-1,英文能力訓練,7102111,01,實用英語表達（基礎班）Practical English Usage (Pre-intermediate Level),康惠晴,"2
+1,英文能力訓練,7102111,01,"實用英語表達（基礎班）
+Practical English Usage (Pre-intermediate Level)",康惠晴,"2
+
             2/0/0",2,通識,"二2,3",語言中心語言教室224,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「基礎班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102111,02,實用英語表達（基礎班）Practical English Usage (Pre-intermediate Level),賴郁寗,"2
+1,英文能力訓練,7102111,02,"實用英語表達（基礎班）
+Practical English Usage (Pre-intermediate Level)",賴郁寗,"2
+
             2/0/0",2,通識,"二10,11",語言中心語言教室225,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「基礎班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102111,03,實用英語表達（基礎班）Practical English Usage (Pre-intermediate Level),康惠晴,"2
+1,英文能力訓練,7102111,03,"實用英語表達（基礎班）
+Practical English Usage (Pre-intermediate Level)",康惠晴,"2
+
             2/0/0",2,通識,"三2,3",語言中心語言教室224,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「基礎班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102111,04,實用英語表達（基礎班）Practical English Usage (Pre-intermediate Level),康惠晴,"2
+1,英文能力訓練,7102111,04,"實用英語表達（基礎班）
+Practical English Usage (Pre-intermediate Level)",康惠晴,"2
+
             2/0/0",2,通識,"四2,3",語言中心語言教室224,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「基礎班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,01,實用英語技巧（強化班）Practical English Usage (Intermediate Level),吳永倩,"2
+1,英文能力訓練,7102121,01,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",吳永倩,"2
+
             2/0/0",2,通識,"一8,9",語言中心語言教室224,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,02,實用英語技巧（強化班）Practical English Usage (Intermediate Level),賴郁寗,"2
+1,英文能力訓練,7102121,02,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",賴郁寗,"2
+
             2/0/0",2,通識,"一8,9",語言中心語言教室225,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,03,實用英語技巧（強化班）Practical English Usage (Intermediate Level),吳永倩,"2
+1,英文能力訓練,7102121,03,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",吳永倩,"2
+
             2/0/0",2,通識,"一10,11",語言中心語言教室224,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,04,實用英語技巧（強化班）Practical English Usage (Intermediate Level),賴郁寗,"2
+1,英文能力訓練,7102121,04,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",賴郁寗,"2
+
             2/0/0",2,通識,"一10,11",語言中心語言教室225,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,05,實用英語技巧（強化班）Practical English Usage (Intermediate Level),賴郁寗,"2
+1,英文能力訓練,7102121,05,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",賴郁寗,"2
+
             2/0/0",2,通識,"二2,3",語言中心語言教室225,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,06,實用英語技巧（強化班）Practical English Usage (Intermediate Level),康惠晴,"2
+1,英文能力訓練,7102121,06,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",康惠晴,"2
+
             2/0/0",2,通識,"二10,11",語言中心語言教室224,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,07,實用英語技巧（強化班）Practical English Usage (Intermediate Level),吳永倩,"2
+1,英文能力訓練,7102121,07,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",吳永倩,"2
+
             2/0/0",2,通識,"二10,11",語言中心語言教室226,30,link,"保留新生27人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,08,實用英語技巧（強化班）Practical English Usage (Intermediate Level),賴郁寗,"2
+1,英文能力訓練,7102121,08,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",賴郁寗,"2
+
             2/0/0",2,通識,"三2,3",語言中心語言教室225,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,09,實用英語技巧（強化班）Practical English Usage (Intermediate Level),吳永倩,"2
+1,英文能力訓練,7102121,09,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",吳永倩,"2
+
             2/0/0",2,通識,"三2,3",語言中心語言教室226,30,link,"保留新生27人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,10,實用英語技巧（強化班）Practical English Usage (Intermediate Level),康惠晴,"2
+1,英文能力訓練,7102121,10,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",康惠晴,"2
+
             2/0/0",2,通識,"三10,11",語言中心語言教室224,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,11,實用英語技巧（強化班）Practical English Usage (Intermediate Level),賴郁寗,"2
+1,英文能力訓練,7102121,11,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",賴郁寗,"2
+
             2/0/0",2,通識,"三10,11",語言中心語言教室225,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,12,實用英語技巧（強化班）Practical English Usage (Intermediate Level),吳永倩,"2
+1,英文能力訓練,7102121,12,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",吳永倩,"2
+
             2/0/0",2,通識,"三10,11",語言中心語言教室226,30,link,"保留新生27人.支援文學院碩士班四年級. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,13,實用英語技巧（強化班）Practical English Usage (Intermediate Level),吳永倩,"2
+1,英文能力訓練,7102121,13,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",吳永倩,"2
+
             2/0/0",2,通識,"四2,3",語言中心語言教室225,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,14,實用英語技巧（強化班）Practical English Usage (Intermediate Level),康惠晴,"2
+1,英文能力訓練,7102121,14,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",康惠晴,"2
+
             2/0/0",2,通識,"四10,11",語言中心語言教室224,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,15,實用英語技巧（強化班）Practical English Usage (Intermediate Level),吳永倩,"2
+1,英文能力訓練,7102121,15,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",吳永倩,"2
+
             2/0/0",2,通識,"四10,11",語言中心語言教室225,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,16,實用英語技巧（強化班）Practical English Usage (Intermediate Level),康惠晴,"2
+1,英文能力訓練,7102121,16,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",康惠晴,"2
+
             2/0/0",2,通識,"五2,3",語言中心語言教室224,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102121,17,實用英語技巧（強化班）Practical English Usage (Intermediate Level),賴郁寗,"2
+1,英文能力訓練,7102121,17,"實用英語技巧（強化班）
+Practical English Usage (Intermediate Level)",賴郁寗,"2
+
             2/0/0",2,通識,"五2,3",語言中心語言教室225,40,link,"保留新生37人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門），第一階段每班開放3個名額供大二以上選修；2)限英文程度認定為「強化班」者選修；3)第1次上課務必出席；4)新生若自行退選預載課程再選課，則由系統進行額滿篩選；5)外文系生不得選修；7)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102131,01,實用英語（整合技巧）Practical English Usage (Integrated skills),楊岳龍,"2
+1,英文能力訓練,7102131,01,"實用英語（整合技巧）
+Practical English Usage (Integrated skills)",楊岳龍,"2
+
             2/0/0",2,通識,"三10,11",語言中心語言教室227,30,link,"保留新生20人. ,列入國際菁英學分學程科目1)本課程為大一通識必修（第1學期實用、第2學期應用，各需選修1門）；2)限英文程度認定為需選修「整合技巧」者；3)第1次上課務必出席；4)外文系生不得選修；5)聯合國永續發展(SDGs)對應目標：4.4-4.7。*Attendance at the first class session is mandatory. Students must attend the first class session to complete the placement test."
-1,英文能力訓練,7102231,01,應用英語（整合技巧）English Communication Skills (Integrated skills),李佳家,"2
+1,英文能力訓練,7102231,01,"應用英語（整合技巧）
+English Communication Skills (Integrated skills)",李佳家,"2
+
             2/0/0",2,通識,"四10,11",語言中心語言教室224,40,link,.1)本課程為大一通識必修(第1學期實用、第2學期應用，各需選修1門)，為利課程改制大二以上學生銜接，本學期加開1班應用課程；2)限英文程度認定為「整合技巧」者選修；3)若該課程選修人數超過限修人數，則由選課系統進行篩選。建議先選擇尚未額滿之課程時段；4)第一次上課務必出席；5)外文系生不得選修；6)聯合國永續發展(SDGs)對應目標：4.4-4.7。(Attendance at the first class session is mandatory. Students must be present at the first class session to complete the placement test.)
-2,自然科學與技術,7201002,01,數學的過去與未來The Past and Future of Mathematics,余文卿,"2
+2,自然科學與技術,7201002,01,"數學的過去與未來
+The Past and Future of Mathematics",余文卿,"2
+
             2/0/0",2,通識,"二4,5",共同教室大樓212,90,link,保留新生25人; 擋修數學系生醫系電機系化工系通訊系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,自然科學與技術,7204004,01,機率與人生Probability in Life,陳仁義,"2
+2,自然科學與技術,7204004,01,"機率與人生
+Probability in Life",陳仁義,"2
+
             2/0/0",2,通識,"五4,5",電算中心217教室,40,link,保留新生11人; 擋修數學系社福系心理系資工系電機系通訊系經濟學系財金系企管系會資系資管系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7300006,01,音樂文創與文案書寫Creative Writing of Music and Project Design,李映瑾,"2
+3,人文思維與生命探索,7300006,01,"音樂文創與文案書寫
+Creative Writing of Music and Project Design",李映瑾,"2
+
             2/0/0",2,通識,"二8,9",共同教室大樓202,60,link,"保留新生18人. ,列入本土語言與文化實踐學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,人文思維與生命探索,7300006,02,音樂文創與文案書寫Creative Writing of Music and Project Design,李映瑾,"2
+3,人文思維與生命探索,7300006,02,"音樂文創與文案書寫
+Creative Writing of Music and Project Design",李映瑾,"2
+
             2/0/0",2,通識,"四8,9",共同教室大樓202,60,link,"保留新生18人. ,列入本土語言與文化實踐學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,公民與社會參與,7300007,01,文化資產保存與法規Cultural Property and Regulations,蘇全正,"2
+3,公民與社會參與,7300007,01,"文化資產保存與法規
+Cultural Property and Regulations",蘇全正,"2
+
             2/0/0",2,通識,"二7,8",共同教室大樓321,62,link,"保留新生18人. ,列入本土語言與文化實踐學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,基礎概論課程,7301036,01,日文（一）Japanese (I),竹田理恵,"2
+3,基礎概論課程,7301036,01,"日文（一）
+Japanese (I)",竹田理恵,"2
+
             2/0/0",2,通識,"二4,5",共同教室大樓321,60,link,保留新生18人; 擋修外文系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,基礎概論課程,7301036,02,日文（一）Japanese (I),竹田理恵,"2
+3,基礎概論課程,7301036,02,"日文（一）
+Japanese (I)",竹田理恵,"2
+
             2/0/0",2,通識,"三4,5",共同教室大樓321,60,link,保留新生18人; 擋修外文系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,基礎概論課程,7301036,03,日文（一）Japanese (I),竹田理恵,"2
+3,基礎概論課程,7301036,03,"日文（一）
+Japanese (I)",竹田理恵,"2
+
             2/0/0",2,通識,"四4,5",共同教室大樓321,60,link,保留新生18人; 擋修外文系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,基礎概論課程,7301037,01,日文（二）Japanese (II),竹田理恵,"2
+3,基礎概論課程,7301037,01,"日文（二）
+Japanese (II)",竹田理恵,"2
+
             2/0/0",2,通識,"五4,5",共同教室大樓321,60,link,先修科目(7301036)日文（一）(及格) 擋修外文系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,基礎概論課程,7301037,02,日文（二）Japanese (II),竹田理恵,"2
+3,基礎概論課程,7301037,02,"日文（二）
+Japanese (II)",竹田理恵,"2
+
             2/0/0",2,通識,"五8,9",共同教室大樓321,60,link,先修科目(7301036)日文（一）(及格) 擋修外文系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,基礎概論課程,7301038,01,德文（一）German (I),楊美娟,"2
+3,基礎概論課程,7301038,01,"德文（一）
+German (I)",楊美娟,"2
+
             2/0/0",2,通識,"二4,5",共同教室大樓213,60,link,保留新生18人; 擋修外文系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,基礎概論課程,7301040,01,法文（一）French (I),陳泓光,"2
+3,基礎概論課程,7301040,01,"法文（一）
+French (I)",陳泓光,"2
+
             2/0/0",2,通識,"三8,9",文學院136,60,link,保留新生18人; 擋修外文系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,基礎概論課程,7301042,01,西班牙文（一）Spanish (I),李優俐,"2
+3,基礎概論課程,7301042,01,"西班牙文（一）
+Spanish (I)",李優俐,"2
+
             2/0/0",2,通識,"五2,3",文學院136,60,link,保留新生18人; 擋修外文系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,基礎概論課程,7301049,01,初級印尼語Beginning Indonesian (全英語授課/English-taught),何德華,"2
+3,基礎概論課程,7301049,01,"初級印尼語
+Beginning Indonesian
+ (全英語授課/English-taught)",何德華,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓121,40,link,"保留新生18人. ,列入東協與南亞法制學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,基礎概論課程,7301051,01,台語文會話（一）Taiwanese Conversation(I),陳瀅州,"2
+3,基礎概論課程,7301051,01,"台語文會話（一）
+Taiwanese Conversation(I)",陳瀅州,"2
+
             2/0/0",2,通識,"五7,8",共同教室大樓203,60,link,"保留新生18人. ,列入本土語言與文化實踐學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,基礎概論課程,7301052,01,台語文讀寫Taiwanese Reading and Writing,陳瀅州,"2
+3,基礎概論課程,7301052,01,"台語文讀寫
+Taiwanese Reading and Writing",陳瀅州,"2
+
             2/0/0",2,通識,"四7,8",共同教室大樓203,60,link,"保留新生18人. ,列入本土語言與文化實踐學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,基礎概論課程,7301058,01,越南語基礎會話Vietnamese Basic Conversation,胡秋莊,"2
+3,基礎概論課程,7301058,01,"越南語基礎會話
+Vietnamese Basic Conversation",胡秋莊,"2
+
             2/0/0",2,通識,"五2,3",共同教室大樓207,60,link,"保留新生11人. ,列入東協與南亞法制學分學程科目限越南語零基礎之學生修習；選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,基礎概論課程,7301060,01,基礎古希臘文Basic Ancient Greek,黃俊龍,"2
+3,基礎概論課程,7301060,01,"基礎古希臘文
+Basic Ancient Greek",黃俊龍,"2
+
             2/0/0",2,通識,"四7,8",共同教室大樓213,62,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7302019,01,世界史的視野The Perspective of World History,方志強,"2
+3,人文思維與生命探索,7302019,01,"世界史的視野
+The Perspective of World History",方志強,"2
+
             2/0/0",2,通識,"五2,3",文學院118,40,link,保留新生11人; 擋修歷史系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7302045,01,臺灣民間信仰與生命關懷Taiwan Folk Belief and Life Concern,蘇全正,"2
+3,人文思維與生命探索,7302045,01,"臺灣民間信仰與生命關懷
+Taiwan Folk Belief and Life Concern",蘇全正,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓321,62,link,"保留新生18人. ,列入本土語言與文化實踐學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,人文思維與生命探索,7302046,01,敦煌的文獻與石窟藝術Dunhuang Literature and Grotto Art,李映瑾,"2
+3,人文思維與生命探索,7302046,01,"敦煌的文獻與石窟藝術
+Dunhuang Literature and Grotto Art",李映瑾,"2
+
             2/0/0",2,通識,"二4,5",共同教室大樓202,60,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7302049,01,臺灣原住民族的社會與人文The Social and Humanistic Customs of Taiwan? Indigenous People,童信智,"2
+3,人文思維與生命探索,7302049,01,"臺灣原住民族的社會與人文
+The Social and Humanistic Customs of Taiwan? Indigenous People",童信智,"2
+
             2/0/0",2,通識,"三4,5",共同教室大樓213,62,link,"保留新生18人. ,列入本土語言與文化實踐學分學程科目 ,列入原住民族文化資產與創意應用學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,人文思維與生命探索,7302051,01,臺灣原住民族家庭文化Family culture of Taiwanese Indigenous Peoples,王怡婷,"2
+3,人文思維與生命探索,7302051,01,"臺灣原住民族家庭文化
+Family culture of Taiwanese Indigenous Peoples",王怡婷,"2
+
             2/0/0",2,通識,"四4,5",共同教室大樓213,62,link,"保留新生18人. ,列入原住民族文化資產與創意應用學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,經濟與國際脈動,7302053,01,永續與部落產業Sustainabiblity and Indigenous Industry,方慧臻,"2
+3,經濟與國際脈動,7302053,01,"永續與部落產業
+Sustainabiblity and Indigenous Industry",方慧臻,"2
+
             2/0/0",2,通識,"二8,9",共同教室大樓323,47,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7303014,01,生命倫理學Bioethics,陳俊明,"2
+3,人文思維與生命探索,7303014,01,"生命倫理學
+Bioethics",陳俊明,"2
+
             2/0/0",2,通識,"一8,9",共同教室大樓325,60,link,保留新生18人; 擋修哲學系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7303015,01,批判思考Critical Thinking,林慧旻,"2
+3,人文思維與生命探索,7303015,01,"批判思考
+Critical Thinking",林慧旻,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓422,90,link,保留新生25人; 擋修哲學系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7303015,02,批判思考Critical Thinking,歐陽敏,"2
+3,人文思維與生命探索,7303015,02,"批判思考
+Critical Thinking",歐陽敏,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓213,62,link,保留新生18人; 擋修哲學系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7303019,01,當代政治哲學議題Contemporary Issues of Political Philosophy,林耕漢,"2
+3,人文思維與生命探索,7303019,01,"當代政治哲學議題
+Contemporary Issues of Political Philosophy",林耕漢,"2
+
             2/0/0",2,通識,"五4,5",共同教室大樓201,60,link,保留新生18人; 擋修哲學系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7303020,01,從科幻學哲學Learning Philosophy via Science Fiction,陳俊明,"2
+3,人文思維與生命探索,7303020,01,"從科幻學哲學
+Learning Philosophy via Science Fiction",陳俊明,"2
+
             2/0/0",2,通識,"四4,5",共同教室大樓325,60,link,保留新生18人; 擋修哲學系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7303023,01,意識哲學與科學Philosophy and Science of Consciousness,陳今偉,"2
+3,人文思維與生命探索,7303023,01,"意識哲學與科學
+Philosophy and Science of Consciousness",陳今偉,"2
+
             2/0/0",2,通識,"一2,3",共同教室大樓402,60,link,保留新生25人; 擋修哲學系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7303024,01,理性與決策Rationality and Decision-making,陳俊明,"2
+3,人文思維與生命探索,7303024,01,"理性與決策
+Rationality and Decision-making",陳俊明,"2
+
             2/0/0",2,通識,"一4,5",共同教室大樓325,60,link,保留新生18人; 擋修哲學系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7303025,01,電影中的哲學議題The Philosophical Issues in Films,陳今偉,"2
+3,人文思維與生命探索,7303025,01,"電影中的哲學議題
+The Philosophical Issues in Films",陳今偉,"2
+
             2/0/0",2,通識,"一4,5",共同教室大樓402,80,link,保留新生25人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7303026,01,邏輯推理與謬誤Logical Reasoning and Fallacy,陳今偉,"2
+3,人文思維與生命探索,7303026,01,"邏輯推理與謬誤
+Logical Reasoning and Fallacy",陳今偉,"2
+
             2/0/0",2,通識,"一8,9",共同教室大樓402,80,link,保留新生25人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,藝術與美學,7304003,01,聽覺藝術欣賞Music Appreciation,黃富琴,"2
+3,藝術與美學,7304003,01,"聽覺藝術欣賞
+Music Appreciation",黃富琴,"2
+
             2/0/0",2,通識,"五2,3",共同教室大樓106階梯教室,90,link,"保留新生25人. ,列入「戲劇‧創意‧想像」學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304007,01,西洋音樂史A History of Western Music,謝馥年,"2
+3,藝術與美學,7304007,01,"西洋音樂史
+A History of Western Music",謝馥年,"2
+
             2/0/0",2,通識,"五4,5",共同教室大樓325,60,link,"保留新生18人. ,列入「戲劇‧創意‧想像」學分學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304011,01,藝術欣賞Art Appreciation,李淑卿,"2
+3,藝術與美學,7304011,01,"藝術欣賞
+Art Appreciation",李淑卿,"2
+
             2/0/0",2,通識,"五2,3",文學院106,55,link,"保留新生16人. ,列入藝術文物學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304012,01,漫遊聲樂的世界Introduction to Vocal Music,謝馥年,"2
+3,藝術與美學,7304012,01,"漫遊聲樂的世界
+Introduction to Vocal Music",謝馥年,"2
+
             2/0/0",2,通識,"五2,3",共同教室大樓325,60,link,"保留新生18人. ,列入「戲劇‧創意‧想像」學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304019,01,藝術基礎理論與賞析The Practice of Western Artists and Theories,黃承德,"2
+3,藝術與美學,7304019,01,"藝術基礎理論與賞析
+The Practice of Western Artists and Theories",黃承德,"2
+
             2/0/0",2,通識,"三4,5",共同教室大樓507,60,link,"保留新生18人. ,列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304020,01,當代藝術思潮Trends of Contemporary Art,黃承德,"2
+3,藝術與美學,7304020,01,"當代藝術思潮
+Trends of Contemporary Art",黃承德,"2
+
             2/0/0",2,通識,"二8,9",共同教室大樓507,60,link,"保留新生18人. ,列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304023,01,造形藝術與設計Plastic art and Design,黃承德,"2
+3,藝術與美學,7304023,01,"造形藝術與設計
+Plastic art and Design",黃承德,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓507,60,link,"保留新生18人. ,列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304024,01,版畫創作基礎Basic Printmaking,黃承德,"2
+3,藝術與美學,7304024,01,"版畫創作基礎
+Basic Printmaking",黃承德,"2
+
             2/0/0",2,通識,"一8,9",共同教室大樓507,30,link,"保留新生9人. ,列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304024,02,版畫創作基礎Basic Printmaking,黃承德,"2
+3,藝術與美學,7304024,02,"版畫創作基礎
+Basic Printmaking",黃承德,"2
+
             2/0/0",2,通識,"一10,11",共同教室大樓507,30,link,"保留新生9人. ,列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304029,01,表演與自我開發Acting and Self-development,周力德,"2
+3,藝術與美學,7304029,01,"表演與自我開發
+Acting and Self-development",周力德,"2
+
             2/0/0",2,通識,"五9,10",活動中心301舞蹈教室,16,link,". ,列入「戲劇‧創意‧想像」學分學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。限大三以上學生選修，若達選課人數上限，不予加簽。"
-3,藝術與美學,7304030,01,戲劇與人生Drama and Life,周力德,"2
+3,藝術與美學,7304030,01,"戲劇與人生
+Drama and Life",周力德,"2
+
             2/0/0",2,通識,"五4,5",共同教室大樓212,47,link,"保留新生15人. ,列入「戲劇‧創意‧想像」學分學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。若達選課人數上限，不予加簽。"
-3,藝術與美學,7304030,02,戲劇與人生Drama and Life,周力德,"2
+3,藝術與美學,7304030,02,"戲劇與人生
+Drama and Life",周力德,"2
+
             2/0/0",2,通識,"五7,8",共同教室大樓212,47,link,"保留新生15人. ,列入「戲劇‧創意‧想像」學分學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。若達選課人數上限，不予加簽。"
-3,藝術與美學,7304031,01,數位美學Digital Aesthetics,陸維元,"2
+3,藝術與美學,7304031,01,"數位美學
+Digital Aesthetics",陸維元,"2
+
             2/0/0",2,通識,"一4,5",電算中心217教室,40,link,". ,列入藝術文物學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。限大二以上學生選修。"
-3,藝術與美學,7304031,02,數位美學Digital Aesthetics,陸維元,"2
+3,藝術與美學,7304031,02,"數位美學
+Digital Aesthetics",陸維元,"2
+
             2/0/0",2,通識,"二4,5",電算中心217教室,40,link,". ,列入藝術文物學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。限大二以上學生選修。"
-3,能源、環境與生態,7304032,01,自然觀察與紀錄Observation and Preservation of Nature,陸維元,"2
+3,能源、環境與生態,7304032,01,"自然觀察與紀錄
+Observation and Preservation of Nature",陸維元,"2
+
             2/0/0",2,通識,"三4,5",共同教室大樓506,36,link,". ,列入循環科技與永續發展學分學程科目本課程為社會服務學習課程之「認證型課程」，修課學生需前往校外進行生態調查，建議備有交通工具或駕照者為佳；限大二以上學生選修；選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304033,01,藝術的故事The Story of Art,陸維元,"2
+3,藝術與美學,7304033,01,"藝術的故事
+The Story of Art",陸維元,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓325,50,link,"保留新生15人. ,列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304034,01,當代藝術與設計Modern Art and Design,鄭安利,"2
+3,藝術與美學,7304034,01,"當代藝術與設計
+Modern Art and Design",鄭安利,"2
+
             2/0/0",2,通識,"四4,5",共同教室大樓507,60,link,"保留新生18人. ,列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304034,02,當代藝術與設計Modern Art and Design,鄭安利,"2
+3,藝術與美學,7304034,02,"當代藝術與設計
+Modern Art and Design",鄭安利,"2
+
             2/0/0",2,通識,"四8,9",共同教室大樓507,60,link,"保留新生18人. ,列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304035,01,藝術形式及表現手法Art Form and Presentation,鄭安利,"2
+3,藝術與美學,7304035,01,"藝術形式及表現手法
+Art Form and Presentation",鄭安利,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓507,60,link,"保留新生18人. ,列入藝術文物學程科目 ,列入「戲劇‧創意‧想像」學分學程科目 ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304036,01,數位音樂創作Digital Music Design,張介凡,"2
+3,藝術與美學,7304036,01,"數位音樂創作
+Digital Music Design",張介凡,"2
+
             2/0/0",2,通識,"四4,5",電算中心214教室,38,link,"保留新生11人. ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304038,01,探索音樂治療Exploring Music Therapy,謝馥年,"2
+3,藝術與美學,7304038,01,"探索音樂治療
+Exploring Music Therapy",謝馥年,"2
+
             2/0/0",2,通識,"五7,8",共同教室大樓325,20,link,保留新生9人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,藝術與美學,7304041,01,影像美學Image Aesthetics,陸維元,"2
+3,藝術與美學,7304041,01,"影像美學
+Image Aesthetics",陸維元,"2
+
             2/0/0",2,通識,"三8,9",共同教室大樓506,30,link,". ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。限大二以上學生選修。"
-3,藝術與美學,7304042,01,世界音樂Introduction to the World Music,邱亭雅,"2
+3,藝術與美學,7304042,01,"世界音樂
+Introduction to the World Music",邱亭雅,"2
+
             2/0/0",2,通識,"一4,5",共同教室大樓321,62,link,"保留新生18人. ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304042,02,世界音樂Introduction to the World Music,邱亭雅,"2
+3,藝術與美學,7304042,02,"世界音樂
+Introduction to the World Music",邱亭雅,"2
+
             2/0/0",2,通識,"一8,9",共同教室大樓321,62,link,"保留新生18人. ,列入藝術微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,藝術與美學,7304043,01,電影配樂發展史與風格賞析The History of Film Scoring - Analysis and Development (全英語授課/English-taught),邱亭雅,"2
+3,藝術與美學,7304043,01,"電影配樂發展史與風格賞析
+The History of Film Scoring - Analysis and Development
+ (全英語授課/English-taught)",邱亭雅,"2
+
             2/0/0",2,通識,"一10,11",共同教室大樓321,62,link,保留新生18人.全英語授課；選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,藝術與美學,7304050,01,與黑白鍵共舞 - 鋼琴合作的實務與展現Dancing with the Black and White keys : The collaboration of piano performance and its practice,黃富琴,"2
+3,藝術與美學,7304050,01,"與黑白鍵共舞 - 鋼琴合作的實務與展現
+Dancing with the Black and White keys : The collaboration of piano performance and its practice",黃富琴,"2
+
             2/0/0",2,通識,"五4,5",共同教室大樓106階梯教室,40,link,保留新生11人.修課學生須俱備鋼琴彈奏基礎；選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7305002,01,基督信仰與西方近代科學Christian Belief and Modern Sciences in the Western World,許佳振,"2
+3,人文思維與生命探索,7305002,01,"基督信仰與西方近代科學
+Christian Belief and Modern Sciences in the Western World",許佳振,"2
+
             2/0/0",2,通識,"四10,11",物理館206,90,link,保留新生25人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-3,人文思維與生命探索,7305005,01,臺灣原住民的宗教與祭儀文化The Religion and Ritual Culture of Taiwan Aboriginal,卜袞 教師未定,"2
+3,人文思維與生命探索,7305005,01,"臺灣原住民的宗教與祭儀文化
+The Religion and Ritual Culture of Taiwan Aboriginal",卜袞 教師未定,"2
+
             2/0/0",2,通識,"五8,9",共同教室大樓206,60,link,"保留新生18人. ,列入本土語言與文化實踐學分學程科目 ,列入原住民族文化資產與創意應用學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-3,跨向度課程,7306054,01,中正講座－向典範學習(二十五)Chung Cheng Lectures-Learning from the Masters(XXV),黃俊儒,"2
+3,跨向度課程,7306054,01,"中正講座－向典範學習(二十五)
+Chung Cheng Lectures-Learning from the Masters(XXV)",黃俊儒,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓214,50,link,保留新生15人.
-3,跨向度課程,7306054,02,中正講座－向典範學習(二十五)Chung Cheng Lectures-Learning from the Masters(XXV),王秋玲,"2
+3,跨向度課程,7306054,02,"中正講座－向典範學習(二十五)
+Chung Cheng Lectures-Learning from the Masters(XXV)",王秋玲,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓321,50,link,保留新生15人.
-3,跨向度課程,7306054,03,中正講座－向典範學習(二十五)Chung Cheng Lectures-Learning from the Masters(XXV),楊家瑜,"2
+3,跨向度課程,7306054,03,"中正講座－向典範學習(二十五)
+Chung Cheng Lectures-Learning from the Masters(XXV)",楊家瑜,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓207,50,link,保留新生15人.
-4,經濟與國際脈動,7400001,01,全球化下的跨國人口流動International Migration,林平,"2
+4,經濟與國際脈動,7400001,01,"全球化下的跨國人口流動
+International Migration",林平,"2
+
             2/0/0",2,通識,"四10,11",社科院二館102,40,link,保留新生11人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,人文思維與生命探索,7400005,01,猶太民族的歷史文化與政經法制Historical Culture and Political-Economic Laws of the Jewish People,曾品傑,"2
+4,人文思維與生命探索,7400005,01,"猶太民族的歷史文化與政經法制
+Historical Culture and Political-Economic Laws of the Jewish People",曾品傑,"2
+
             2/0/0",2,通識,"一10,11",共同教室大樓213,62,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,人文思維與生命探索,7400016,01,友善性別關係Gender Relationship,蕭湘鳳,"2
+4,人文思維與生命探索,7400016,01,"友善性別關係
+Gender Relationship",蕭湘鳳,"2
+
             2/0/0",2,通識,"三8,9",共同教室大樓206,60,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,人文思維與生命探索,7400017,01,愛情與文學Love and Literature,蕭湘鳳,"2
+4,人文思維與生命探索,7400017,01,"愛情與文學
+Love and Literature",蕭湘鳳,"2
+
             2/0/0",2,通識,"四8,9",共同教室大樓206,60,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,公民與社會參與,7400022,01,部落經濟發展與臺灣社會Tribal Economic Developme,劉孝明,"2
+4,公民與社會參與,7400022,01,"部落經濟發展與臺灣社會
+Tribal Economic Developme",劉孝明,"2
+
             2/0/0",2,通識,"五8,9",共同教室大樓202,60,link,"保留新生18人. ,列入原住民族文化資產與創意應用學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-4,公民與社會參與,7400030,01,民主視角下的教育哲學Educational philosophy from a democratic perspective,林耕漢,"2
+4,公民與社會參與,7400030,01,"民主視角下的教育哲學
+Educational philosophy from a democratic perspective",林耕漢,"2
+
             2/0/0",2,通識,"五7,8",共同教室大樓201,60,link,保留新生18人.
-4,自然科學與技術,7400031,01,認識職場安全Introduction to Workplace Safety,陳俊益,"2
+4,自然科學與技術,7400031,01,"認識職場安全
+Introduction to Workplace Safety",陳俊益,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓420,62,link,保留新生18人.
-4,人文思維與生命探索,7401020,01,心理衛生與適應Mental Health and Adjustment,陳怡華,"2
+4,人文思維與生命探索,7401020,01,"心理衛生與適應
+Mental Health and Adjustment",陳怡華,"2
+
             2/0/0",2,通識,"二2,3",教育二館233,42,link,保留新生11人; 擋修犯防系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,公民與社會參與,7402014,01,全球化與當代社會Globalization and the Modern Society,蔡蕙如,"2
+4,公民與社會參與,7402014,01,"全球化與當代社會
+Globalization and the Modern Society",蔡蕙如,"2
+
             2/0/0",2,通識,"一8,9",共同教室大樓420,62,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,公民與社會參與,7402014,02,全球化與當代社會Globalization and the Modern Society,蔡蕙如,"2
+4,公民與社會參與,7402014,02,"全球化與當代社會
+Globalization and the Modern Society",蔡蕙如,"2
+
             2/0/0",2,通識,"一10,11",共同教室大樓420,62,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7402036,01,透視台商與台僑Overseas  Taiwanese  Immigrants and Businesses,朱柔若,"2
+4,經濟與國際脈動,7402036,01,"透視台商與台僑
+Overseas  Taiwanese  Immigrants and Businesses",朱柔若,"2
+
             2/0/0",2,通識,"三4,5",社科院328,20,link,保留新生7人; 擋修勞工系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,公民與社會參與,7402040,01,媒體素養Media Literacy,陳怡璇,"2
+4,公民與社會參與,7402040,01,"媒體素養
+Media Literacy",陳怡璇,"2
+
             2/0/0",2,通識,"二10,11",社科院119,90,link,保留新生25人; 擋修傳播系.
-4,經濟與國際脈動,7402049,01,"資本主義在經濟與社會中的兩面Everything You Want to Know about Capitalism, but Were Afraid to Ask (全英語授課/English-taught)",黃國治,"2
+4,經濟與國際脈動,7402049,01,"資本主義在經濟與社會中的兩面
+Everything You Want to Know about Capitalism, but Were Afraid to Ask
+ (全英語授課/English-taught)",黃國治,"2
+
             2/0/0",2,通識,"四10,11",共同教室大樓423,30,link,保留新生11人.全英語授課；選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,公民與社會參與,7402050,01,僑民社會學Sociology of Diaspora (全英語授課/English-taught),朱柔若,"2
+4,公民與社會參與,7402050,01,"僑民社會學
+Sociology of Diaspora
+ (全英語授課/English-taught)",朱柔若,"2
+
             2/0/0",2,通識,"三2,3",社科院328,20,link,保留新生7人; 擋修勞工系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7403003,01,當前國內外情勢分析Analysis of Domestic and International Situation,蔡榮祥,"2
+4,經濟與國際脈動,7403003,01,"當前國內外情勢分析
+Analysis of Domestic and International Situation",蔡榮祥,"2
+
             2/0/0",2,通識,"一4,5",共同教室大樓213,62,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7403006,01,文化與國際政治Cultural Forces in World Politics,邱昭憲,"2
+4,經濟與國際脈動,7403006,01,"文化與國際政治
+Cultural Forces in World Politics",邱昭憲,"2
+
             2/0/0",2,通識,"四8,9",共同教室大樓419,90,link,保留新生25人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7403007,01,國際關係與亞太安全概論An Introduction to International Relations and Asia-Pacific Security Situation,林泰和,"2
+4,經濟與國際脈動,7403007,01,"國際關係與亞太安全概論
+An Introduction to International Relations and Asia-Pacific Security Situation",林泰和,"2
+
             2/0/0",2,通識,"三8,9",共同教室大樓315,90,link,保留新生25人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,公民與社會參與,7404017,01,勞工法與企業經營Labor Law and Business Management,楊通軒,"2
+4,公民與社會參與,7404017,01,"勞工法與企業經營
+Labor Law and Business Management",楊通軒,"2
+
             2/0/0",2,通識,"三10,11",社科院326,60,link,保留新生18人; 擋修勞工系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,公民與社會參與,7404018,01,憲法－基本人權Constitution Law-Basic Human Rights,李仁淼,"2
+4,公民與社會參與,7404018,01,"憲法－基本人權
+Constitution Law-Basic Human Rights",李仁淼,"2
+
             2/0/0",2,通識,"三8,9",法學院101階梯教室,90,link,保留新生25人; 擋修法律系法學組法制組財法系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7404025,01,全球化的犯罪抗制Combating Global Crime,馬躍中,"2
+4,經濟與國際脈動,7404025,01,"全球化的犯罪抗制
+Combating Global Crime",馬躍中,"2
+
             2/0/0",2,通識,"三4,5",教育二館336,58,link,保留新生16人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,公民與社會參與,7404038,01,戰後我國憲法與憲政發展Post-war Taiwan Constitution and Constitutional Development,謝三榮,"2
+4,公民與社會參與,7404038,01,"戰後我國憲法與憲政發展
+Post-war Taiwan Constitution and Constitutional Development",謝三榮,"2
+
             2/0/0",2,通識,"一8,9",共同教室大樓422,60,link,保留新生25人; 擋修政治系法律系法學組法制組財法系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,公民與社會參與,7404038,02,戰後我國憲法與憲政發展Post-war Taiwan Constitution and Constitutional Development,謝三榮,"2
+4,公民與社會參與,7404038,02,"戰後我國憲法與憲政發展
+Post-war Taiwan Constitution and Constitutional Development",謝三榮,"2
+
             2/0/0",2,通識,"一10,11",共同教室大樓422,90,link,保留新生25人; 擋修政治系法律系法學組法制組財法系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7405006,01,生活經濟學Everyday Economics,蔡仰虔,"3
+4,經濟與國際脈動,7405006,01,"生活經濟學
+Everyday Economics",蔡仰虔,"3
+
             3/0/0",3,通識,"二7,8,9",共同教室大樓420,62,link,保留新生18人; 擋修社福系經濟學系財金系會資系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7405010,01,認識台灣經濟Understanding the Taiwanese Economy,蔡仰虔,"2
+4,經濟與國際脈動,7405010,01,"認識台灣經濟
+Understanding the Taiwanese Economy",蔡仰虔,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓420,62,link,"保留新生18人; 擋修經濟學系財金系會資系. ,列入本土語言與文化實踐學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-4,經濟與國際脈動,7405013,01,認識中國經濟Understanding the China Economy,翁世芳,"2
+4,經濟與國際脈動,7405013,01,"認識中國經濟
+Understanding the China Economy",翁世芳,"2
+
             2/0/0",2,通識,"二8,9",共同教室大樓401,60,link,保留新生20人; 擋修經濟學系財金系會資系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7405014,01,經濟與國家發展Economics and Country Development,翁世芳,"2
+4,經濟與國際脈動,7405014,01,"經濟與國家發展
+Economics and Country Development",翁世芳,"2
+
             2/0/0",2,通識,"二4,5",共同教室大樓401,60,link,保留新生20人; 擋修經濟學系財金所會資系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7405014,02,經濟與國家發展Economics and Country Development (全英語授課/English-taught),翁世芳,"2
+4,經濟與國際脈動,7405014,02,"經濟與國家發展
+Economics and Country Development
+ (全英語授課/English-taught)",翁世芳,"2
+
             2/0/0",2,通識,"三8,9",共同教室大樓401,60,link,保留新生20人; 擋修經濟學系財金系會資系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7405019,01,金融科技導論Introduction to Financial Technology,洪育忠,"2
+4,經濟與國際脈動,7405019,01,"金融科技導論
+Introduction to Financial Technology",洪育忠,"2
+
             2/0/0",2,通識,"二10,11",創新大樓163,60,link,保留新生18人; 擋修財金系企管系會資系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7406018,01,理財與生活Financial Management in Life,洪育忠,"2
+4,經濟與國際脈動,7406018,01,"理財與生活
+Financial Management in Life",洪育忠,"2
+
             2/0/0",2,通識,"一4,5",創新大樓163,60,link,保留新生18人; 擋修經濟學系財金系企管系會資系資管系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7406018,02,理財與生活Financial Management in Life,洪育忠,"2
+4,經濟與國際脈動,7406018,02,"理財與生活
+Financial Management in Life",洪育忠,"2
+
             2/0/0",2,通識,"一10,11",創新大樓163,60,link,保留新生18人; 擋修經濟學系財金系企管系會資系資管系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7406032,01,財務管理概論Introduction to Financial management,沈伯凡,"2
+4,經濟與國際脈動,7406032,01,"財務管理概論
+Introduction to Financial management",沈伯凡,"2
+
             2/0/0",2,通識,"三9,10",共同教室大樓204,62,link,保留新生18人; 擋修經濟學系財金系企管系會資系資管系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7406032,02,財務管理概論Introduction to Financial management,張宏州,"2
+4,經濟與國際脈動,7406032,02,"財務管理概論
+Introduction to Financial management",張宏州,"2
+
             2/0/0",2,通識,"三4,5",共同教室大樓420,62,link,保留新生18人; 擋修經濟學系財金系企管系會資系資管系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7406032,03,財務管理概論Introduction to Financial management,黃柏雄,"2
+4,經濟與國際脈動,7406032,03,"財務管理概論
+Introduction to Financial management",黃柏雄,"2
+
             2/0/0",2,通識,"一8,9",共同教室大樓204,62,link,保留新生18人; 擋修經濟學系財金系企管系會資系資管系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7406035,01,國際人力資源管理International Human Resource Management,王秋玲,"2
+4,經濟與國際脈動,7406035,01,"國際人力資源管理
+International Human Resource Management",王秋玲,"2
+
             2/0/0",2,通識,"二4,5",共同教室大樓322,62,link,保留新生18人; 擋修企管系資管系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,經濟與國際脈動,7406036,01,投資規劃與生活Investment Planning and Life,莊益源,"2
+4,經濟與國際脈動,7406036,01,"投資規劃與生活
+Investment Planning and Life",莊益源,"2
+
             2/0/0",2,通識,"一7,8",管理學院201,60,link,保留新生18人; 擋修經濟學系財金系企管系會資系資管系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,公民與社會參與,7406039,01,解碼職場習慣領域Decoding Habitual Domains in the Workplace (全英語授課/English-taught),朱柔若,"2
+4,公民與社會參與,7406039,01,"解碼職場習慣領域
+Decoding Habitual Domains in the Workplace
+ (全英語授課/English-taught)",朱柔若,"2
+
             2/0/0",2,通識,"二10,11",社科院328,20,link,保留新生7人; 擋修勞工系.全英授課；選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,人文思維與生命探索,7407012,01,生命教育Life Education,張菀珍,"2
+4,人文思維與生命探索,7407012,01,"生命教育
+Life Education",張菀珍,"2
+
             2/0/0",2,通識,"二10,11",教育二館135,60,link,保留新生25人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,人文思維與生命探索,7407013,01,職涯規劃Career Plan,王秋玲,"2
+4,人文思維與生命探索,7407013,01,"職涯規劃
+Career Plan",王秋玲,"2
+
             2/0/0",2,通識,"三4,5",共同教室大樓322,62,link,保留新生18人; 擋修紫荊不分系學士學位學程.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,人文思維與生命探索,7407014,01,人際關係與人際溝通Human Relations & Interpersonal Communication,王秋玲,"2
+4,人文思維與生命探索,7407014,01,"人際關係與人際溝通
+Human Relations & Interpersonal Communication",王秋玲,"2
+
             2/0/0",2,通識,"三10,11",共同教室大樓321,62,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-4,公民與社會參與,7407026,01,服務學習：高齡健康促進Service Leaning: Health Promotion for the Elderly,何璧如,"2
+4,公民與社會參與,7407026,01,"服務學習：高齡健康促進
+Service Leaning: Health Promotion for the Elderly",何璧如,"2
+
             2/0/0",2,通識,"二4,5",共同教室大樓205,50,link,"保留新生15人. ,列入長者人權門診跨域學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。"
-4,公民與社會參與,7407026,02,服務學習：高齡健康促進Service Leaning: Health Promotion for the Elderly,何璧如,"2
+4,公民與社會參與,7407026,02,"服務學習：高齡健康促進
+Service Leaning: Health Promotion for the Elderly",何璧如,"2
+
             2/0/0",2,通識,"二7,8",共同教室大樓205,50,link,"保留新生15人. ,列入長者人權門診跨域學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。"
-4,公民與社會參與,7407027,01,服務學習：課輔知能在補救教學的應用Service Learning: The Application of Knowledge and Skills in Remedial Teaching,林妙香,"2
+4,公民與社會參與,7407027,01,"服務學習：課輔知能在補救教學的應用
+Service Learning: The Application of Knowledge and Skills in Remedial Teaching",林妙香,"2
+
             2/0/0",2,通識,"四2,3",共同教室大樓214,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。
-4,公民與社會參與,7407027,02,服務學習：課輔知能在補救教學的應用Service Learning: The Application of Knowledge and Skills in Remedial Teaching,林妙香,"2
+4,公民與社會參與,7407027,02,"服務學習：課輔知能在補救教學的應用
+Service Learning: The Application of Knowledge and Skills in Remedial Teaching",林妙香,"2
+
             2/0/0",2,通識,"四4,5",共同教室大樓214,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。
-4,公民與社會參與,7407027,03,服務學習：課輔知能在補救教學的應用Service Learning: The Application of Knowledge and Skills in Remedial Teaching,林妙香,"2
+4,公民與社會參與,7407027,03,"服務學習：課輔知能在補救教學的應用
+Service Learning: The Application of Knowledge and Skills in Remedial Teaching",林妙香,"2
+
             2/0/0",2,通識,"五2,3",共同教室大樓214,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。
-4,公民與社會參與,7407027,04,服務學習：課輔知能在補救教學的應用Service Learning: The Application of Knowledge and Skills in Remedial Teaching,謝寧惠,"2
+4,公民與社會參與,7407027,04,"服務學習：課輔知能在補救教學的應用
+Service Learning: The Application of Knowledge and Skills in Remedial Teaching",謝寧惠,"2
+
             2/0/0",2,通識,"四4,5",共同教室大樓207,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。
-4,公民與社會參與,7407027,05,服務學習：課輔知能在補救教學的應用Service Learning: The Application of Knowledge and Skills in Remedial Teaching,何璧如,"2
+4,公民與社會參與,7407027,05,"服務學習：課輔知能在補救教學的應用
+Service Learning: The Application of Knowledge and Skills in Remedial Teaching",何璧如,"2
+
             2/0/0",2,通識,"三4,5",共同教室大樓205,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。
-4,公民與社會參與,7407027,06,服務學習：課輔知能在補救教學的應用Service Learning: The Application of Knowledge and Skills in Remedial Teaching,何璧如,"2
+4,公民與社會參與,7407027,06,"服務學習：課輔知能在補救教學的應用
+Service Learning: The Application of Knowledge and Skills in Remedial Teaching",何璧如,"2
+
             2/0/0",2,通識,"三7,8",共同教室大樓205,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。
-4,公民與社會參與,7407028,01,服務學習：友善校園宣導計畫Service Learning: The Propaganda of Friendly Campus,林妙香,"2
+4,公民與社會參與,7407028,01,"服務學習：友善校園宣導計畫
+Service Learning: The Propaganda of Friendly Campus",林妙香,"2
+
             2/0/0",2,通識,"五4,5",共同教室大樓214,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。
-4,公民與社會參與,7407030,01,服務學習：校內行政單位Service Learning: On-Campus Administrative Units,李洸楚,"2
+4,公民與社會參與,7407030,01,"服務學習：校內行政單位
+Service Learning: On-Campus Administrative Units",李洸楚,"2
+
             2/0/0",2,通識,"五8,9",共同教室大樓207,50,link,保留新生15人; 擋修經濟學系財金系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程。修課學生服務單位為本校衛保組及雲嘉青年志工中心，無交通工具者可選修此課程。
-4,公民與社會參與,7407031,01,服務學習：校內學生社團Service Learning: On-Campus Student Clubs,李洸楚,"2
+4,公民與社會參與,7407031,01,"服務學習：校內學生社團
+Service Learning: On-Campus Student Clubs",李洸楚,"2
+
             2/0/0",2,通識,"一4,5",共同教室大樓207,50,link,保留新生15人; 擋修經濟學系財金系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，提供對於社團經營及社團服務學習活動有興趣的學生之修課管道。選修這門課的同學需要分組自行規畫服務方案並執行。
-4,自然科學與技術,7407033,01,服務學習：當代健康議題Current Health Issues and Service Learning,謝寧惠,"2
+4,自然科學與技術,7407033,01,"服務學習：當代健康議題
+Current Health Issues and Service Learning",謝寧惠,"2
+
             2/0/0",2,通識,"四2,3",共同教室大樓207,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。請修課學生確認9/21可出席服務，若無法出席，請勿選課。
-4,公民與社會參與,7407034,01,服務學習：導覽故宮南院Service Learning: Docenting at Southern Branch of the National Palace Museum,蔡翔任,"2
+4,公民與社會參與,7407034,01,"服務學習：導覽故宮南院
+Service Learning: Docenting at Southern Branch of the National Palace Museum",蔡翔任,"2
+
             2/0/0",2,通識,"三4,5",共同教室大樓207,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。
-4,公民與社會參與,7407034,02,服務學習：導覽故宮南院Service Learning: Docenting at Southern Branch of the National Palace Museum,廖浿晴,"2
+4,公民與社會參與,7407034,02,"服務學習：導覽故宮南院
+Service Learning: Docenting at Southern Branch of the National Palace Museum",廖浿晴,"2
+
             2/0/0",2,通識,"五4,5",共同教室大樓208,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。
-4,公民與社會參與,7407035,01,服務學習：校外合作單位Service-Learning: Community Engagement,李洸楚,"2
+4,公民與社會參與,7407035,01,"服務學習：校外合作單位
+Service-Learning: Community Engagement",李洸楚,"2
+
             2/0/0",2,通識,"五4,5",共同教室大樓207,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。
-4,人文思維與生命探索,7407036,01,道德與溝通教育的實踐與推廣Practice and Promotion of Morality and Communication Education,林明傑,"2
+4,人文思維與生命探索,7407036,01,"道德與溝通教育的實踐與推廣
+Practice and Promotion of Morality and Communication Education",林明傑,"2
+
             2/0/0",2,通識,"四2,3",共同教室大樓202,50,link,保留新生15人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。本課程為社會服務學習課程之「認證型課程」，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳。
-2,自然科學與技術,7500004,01,電影中的科學Science in films,黃俊儒,"2
+2,自然科學與技術,7500004,01,"電影中的科學
+Science in films",黃俊儒,"2
+
             2/0/0",2,通識,"二8,9",共同教室大樓214,62,link,.限大二以上學生選修；選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,能源、環境與生態,7500010,01,永續綠生活Sustainable Green Life,黃佳盛,"2
+2,能源、環境與生態,7500010,01,"永續綠生活
+Sustainable Green Life",黃佳盛,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓206,60,link,"保留新生18人. ,列入循環科技與永續發展學分學程科目 ,列入淨零排放微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,能源、環境與生態,7500010,02,永續綠生活Sustainable Green Life,黃佳盛,"2
+2,能源、環境與生態,7500010,02,"永續綠生活
+Sustainable Green Life",黃佳盛,"2
+
             2/0/0",2,通識,"二4,5",共同教室大樓206,60,link,"保留新生18人. ,列入循環科技與永續發展學分學程科目 ,列入淨零排放微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,能源、環境與生態,7500014,01,永續都市規劃概論Introducation to Sustainable Urban Planning,蔡中暉,"2
+2,能源、環境與生態,7500014,01,"永續都市規劃概論
+Introducation to Sustainable Urban Planning",蔡中暉,"2
+
             2/0/0",2,通識,"二7,8",共同教室大樓201,60,link,"保留新生18人. ,列入循環科技與永續發展學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,能源、環境與生態,7500015,01,環境倫理－從綠色產業談起Environmental Ethics from the Viewpoint of Green Industry,李振卿,"2
+2,能源、環境與生態,7500015,01,"環境倫理－從綠色產業談起
+Environmental Ethics from the Viewpoint of Green Industry",李振卿,"2
+
             2/0/0",2,通識,"三7,8",共同教室大樓325,60,link,"保留新生18人. ,列入循環科技與永續發展學分學程科目 ,列入淨零排放微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,能源、環境與生態,7500016,01,永續發展Sustainable Development,李振卿,"2
+2,能源、環境與生態,7500016,01,"永續發展
+Sustainable Development",李振卿,"2
+
             2/0/0",2,通識,"三4,5",共同教室大樓325,60,link,"保留新生18人. ,列入電子商務學程科目 ,列入循環科技與永續發展學分學程科目 ,列入淨零排放微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,能源、環境與生態,7500017,01,氣候變遷調適與防災Climate Change Adaptation and Disasters Protection,李振卿,"2
+2,能源、環境與生態,7500017,01,"氣候變遷調適與防災
+Climate Change Adaptation and Disasters Protection",李振卿,"2
+
             2/0/0",2,通識,"四7,8",共同教室大樓420,62,link,"保留新生18人. ,列入循環科技與永續發展學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,能源、環境與生態,7500018,01,土壤與環境生態Soils and Environmental Ecology,黃文樹,"2
+2,能源、環境與生態,7500018,01,"土壤與環境生態
+Soils and Environmental Ecology",黃文樹,"2
+
             2/0/0",2,通識,"四11,12",共同教室大樓208,40,link,"保留新生11人. ,列入循環科技與永續發展學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,自然科學與技術,7500021,01,科學飲茶實務Practice on scientific tea drinking,許偉庭,"2
+2,自然科學與技術,7500021,01,"科學飲茶實務
+Practice on scientific tea drinking",許偉庭,"2
+
             2/0/0",2,通識,"二8,9",共同教室大樓207,40,link,保留新生11人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,自然科學與技術,7500021,02,科學飲茶實務Practice on scientific tea drinking,許偉庭,"2
+2,自然科學與技術,7500021,02,"科學飲茶實務
+Practice on scientific tea drinking",許偉庭,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓207,40,link,保留新生11人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,能源、環境與生態,7500028,01,永續綠能新契機Hope for Sustainable Green Energy,李振卿,"2
+2,能源、環境與生態,7500028,01,"永續綠能新契機
+Hope for Sustainable Green Energy",李振卿,"2
+
             2/0/0",2,通識,"四4,5",共同教室大樓420,62,link,"保留新生18人; 擋修電機系. ,列入循環科技與永續發展學分學程科目 ,列入淨零排放微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,能源、環境與生態,7500032,01,環境生態學Environmental Ecology,陳榮盛,"2
+2,能源、環境與生態,7500032,01,"環境生態學
+Environmental Ecology",陳榮盛,"2
+
             2/0/0",2,通識,"二10,11",共同教室大樓203,60,link,保留新生18人; 擋修地環系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,能源、環境與生態,7500035,01,淨零排放對企業的衝擊與因應Mitigating the impact of Net-Zero Emission Policy on Enterprise,陳永松,"2
+2,能源、環境與生態,7500035,01,"淨零排放對企業的衝擊與因應
+Mitigating the impact of Net-Zero Emission Policy on Enterprise",陳永松,"2
+
             2/0/0",2,通識,"三8,9",共同教室大樓422,90,link,"保留新生25人. ,列入淨零排放微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,自然科學與技術,7501019,01,近代物理史-從地心說到宇宙論History of Modern Physics: From Geocentric Model to Cosmology,李進榮,"2
+2,自然科學與技術,7501019,01,"近代物理史-從地心說到宇宙論
+History of Modern Physics: From Geocentric Model to Cosmology",李進榮,"2
+
             2/0/0",2,通識,"二10,11",物理館206,90,link,保留新生25人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,自然科學與技術,7502002,01,今日化工Today Chemical enginnering,傅友君,"2
+2,自然科學與技術,7502002,01,"今日化工
+Today Chemical enginnering",傅友君,"2
+
             2/0/0",2,通識,"一8,9",共同教室大樓213,62,link,保留新生18人; 擋修物理系化工系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,自然科學與技術,7503012,01,急救醫學Emergency Medicine,楊仁宗,"2
+2,自然科學與技術,7503012,01,"急救醫學
+Emergency Medicine",楊仁宗,"2
+
             2/0/0",2,通識,"一10,11",共同教室大樓401,70,link,保留新生20人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,資訊能力課程,7504019,01,電腦遊戲設計導論Introduction to Computer Game Programming,張漢呈,"2
+2,資訊能力課程,7504019,01,"電腦遊戲設計導論
+Introduction to Computer Game Programming",張漢呈,"2
+
             2/0/0",2,通識,"三9,10",電算中心215教室,70,link,"保留新生20人; 擋修資管系. ,列入數位科技跨領域微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,能源、環境與生態,7505009,01,臺灣的植物Plants in Taiwan,黃佳盛,"2
+2,能源、環境與生態,7505009,01,"臺灣的植物
+Plants in Taiwan",黃佳盛,"2
+
             2/0/0",2,通識,"二8,9",共同教室大樓206,60,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表，本課程為社會服務學習課程之「認證型課程」。
-2,能源、環境與生態,7506002,01,地震與防災Earthquakes、Disasters and Protection,温怡瑛,"2
+2,能源、環境與生態,7506002,01,"地震與防災
+Earthquakes、Disasters and Protection",温怡瑛,"2
+
             2/0/0",2,通識,"一4,5",地震館301,38,link,保留新生11人; 擋修地環系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,能源、環境與生態,7506007,01,地球與環境科學Earth and Environmental Sciences,張永孚,"2
+2,能源、環境與生態,7506007,01,"地球與環境科學
+Earth and Environmental Sciences",張永孚,"2
+
             2/0/0",2,通識,"五2,3",地震館302,85,link,"保留新生20人; 擋修地環系. ,列入循環科技與永續發展學分學程科目 ,列入淨零排放微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,能源、環境與生態,7506009,01,野外地質探索Introduction to Field Geology,謝孟龍,"2
+2,能源、環境與生態,7506009,01,"野外地質探索
+Introduction to Field Geology",謝孟龍,"2
+
             2/0/0",2,通識,"五10,11",地震館102,35,link,保留新生16人; 擋修地環系.擋修地環系.1.本課程為野外課，沒有加野外課的同學以不級格論。 2.野外行徑部分非觀光路線，歡迎愛好自然、對探險有興趣的同學參加。 3.有懼高症、心臟病的同學不宜參加。 4.野外食宿、交通、保險費等費用共約四千元（多退少補）。 5.因課程須至校外，為方便控管，故限制修課人數。
-2,自然科學與技術,7506011,01,漫遊宇宙101個天體Introduction to 101 Astronomical Objects,李昫岱,"2
+2,自然科學與技術,7506011,01,"漫遊宇宙101個天體
+Introduction to 101 Astronomical Objects",李昫岱,"2
+
             2/0/0",2,通識,"二4,5",共同教室大樓208,60,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,自然科學與技術,7506012,01,星空探索Exploring the Sky,李昫岱,"2
+2,自然科學與技術,7506012,01,"星空探索
+Exploring the Sky",李昫岱,"2
+
             2/0/0",2,通識,"二2,3",共同教室大樓208,60,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,自然科學與技術,7506012,02,星空探索Exploring the Sky,李昫岱,"2
+2,自然科學與技術,7506012,02,"星空探索
+Exploring the Sky",李昫岱,"2
+
             2/0/0",2,通識,"二7,8",共同教室大樓208,60,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,能源、環境與生態,7506013,01,台灣地質探索-恆春半島地質調查Introduction of Geological Survey in Taiwan - Case of Hengchun Peninsula,陳嘉俞,"2
+2,能源、環境與生態,7506013,01,"台灣地質探索-恆春半島地質調查
+Introduction of Geological Survey in Taiwan - Case of Hengchun Peninsula",陳嘉俞,"2
+
             2/0/0",2,通識,"二10,11",地震館302,36,link,保留新生20人; 擋修地環系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。1. 本課程有三天(五六日)為野外課程時間。 2. 本課程不提供公假，僅提供野外實習證明（上課證明），若野外時間與其他課程衝突，請先經過該課程老師同意後再進行簽選。 3. 請確認自己身體健康、四肢活動正常，未患心臟病、癌症、氣喘，且未有懷孕與其他不應參加劇烈野外活動的情形。若有上述情形，則不建議參加本課程。 4. 野外課程中須步入河谷、礫石灘及攀爬珊瑚礁，選課前請衡量自身身體狀況。 5. 野外定金用於繳納遊覽車、旅館及餐廳預訂，請務必確認行事曆公告之各時間是否可以出席，野外定金一旦繳交即不退費！ 6. 因課程須至校外，為方便控管，故限制修課人數。
-2,自然科學與技術,7506014,01,天文概論與觀測Introduction of Astronomy and Observation,謝立宜,"2
+2,自然科學與技術,7506014,01,"天文概論與觀測
+Introduction of Astronomy and Observation",謝立宜,"2
+
             2/0/0",2,通識,"二13,14",共同教室大樓506,30,link,保留新生9人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,自然科學與技術,7506014,02,天文概論與觀測Introduction of Astronomy and Observation,謝立宜,"2
+2,自然科學與技術,7506014,02,"天文概論與觀測
+Introduction of Astronomy and Observation",謝立宜,"2
+
             2/0/0",2,通識,"三13,14",共同教室大樓506,30,link,保留新生9人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,自然科學與技術,7507003,01,建築與防震Aseismic Concepts for Building Structures,蔡中暉,"2
+2,自然科學與技術,7507003,01,"建築與防震
+Aseismic Concepts for Building Structures",蔡中暉,"2
+
             2/0/0",2,通識,"三7,8",共同教室大樓201,60,link,保留新生18人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,自然科學與技術,7507004,01,今日汽車Modern Vehicle,劉政益,"2
+2,自然科學與技術,7507004,01,"今日汽車
+Modern Vehicle",劉政益,"2
+
             2/0/0",2,通識,"四4,5",工學院B館116,90,link,保留新生25人.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。
-2,資訊能力課程,7507009,01,資訊安全導論Introduction to Information Security,王俊堯 黃柏森,"2
+2,資訊能力課程,7507009,01,"資訊安全導論
+Introduction to Information Security",王俊堯 黃柏森,"2
+
             2/0/0",2,通識,"四11,12",電算中心215教室,60,link,"保留新生20人; 擋修資工系電機系化工系通訊系會資系資管系. ,列入資通安全學程(1091起停辦)科目 ,列入數位科技跨領域微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,資訊能力課程,7507013,01,資訊科技應用Applications of Information Technology,余泳儒,"2
+2,資訊能力課程,7507013,01,"資訊科技應用
+Applications of Information Technology",余泳儒,"2
+
             2/0/0",2,通識,"二11,12",電算中心216教室,40,link,"保留新生11人; 擋修資工系電機系通訊系資管系. ,列入數位科技跨領域微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,資訊能力課程,7507013,02,資訊科技應用Applications of Information Technology,余泳儒,"2
+2,資訊能力課程,7507013,02,"資訊科技應用
+Applications of Information Technology",余泳儒,"2
+
             2/0/0",2,通識,"三11,12",電算中心216教室,40,link,"保留新生11人; 擋修資工系電機系通訊系資管系. ,列入數位科技跨領域微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,能源、環境與生態,7507014,01,綠色建築概論An Introduction to Green Architecture,蔡中暉,"2
+2,能源、環境與生態,7507014,01,"綠色建築概論
+An Introduction to Green Architecture",蔡中暉,"2
+
             2/0/0",2,通識,"二4,5",共同教室大樓201,60,link,"保留新生15人. ,列入循環科技與永續發展學分學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,資訊能力課程,7507018,01,巨量資料分析與應用 Big Data Analytics and Applications,張漢呈,"2
+2,資訊能力課程,7507018,01,"巨量資料分析與應用
+ Big Data Analytics and Applications",張漢呈,"2
+
             2/0/0",2,通識,"三11,12",電算中心215教室,70,link,"保留新生20人; 擋修資工系資管系. ,列入人工智慧跨領域微學程科目 ,列入數位科技跨領域微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,資訊能力課程,7507019,01,資訊創意Information Innovation,范崇碩,"2
+2,資訊能力課程,7507019,01,"資訊創意
+Information Innovation",范崇碩,"2
+
             2/0/0",2,通識,"一8,9",電算中心215教室,40,link,"保留新生11人; 擋修資工系電機系通訊系資管系. ,列入人工智慧跨領域微學程科目 ,列入數位科技跨領域微學程科目擋修資工系電機系通訊系資管系；本課程為社會服務學習課程之「認證型課程」，修課學生需前往校外合作單位進行服務，建議備有交通工具或駕照者為佳；選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,資訊能力課程,7507019,02,資訊創意Information Innovation,李俊宏,"2
+2,資訊能力課程,7507019,02,"資訊創意
+Information Innovation",李俊宏,"2
+
             2/0/0",2,通識,"五4,5",電算中心214教室,38,link,"保留新生11人; 擋修資工系電機系通訊系資管系. ,列入人工智慧跨領域微學程科目 ,列入數位科技跨領域微學程科目擋修資工系電機系通訊系資管系；選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,資訊能力課程,7507020,01,計算思維與程式設計Computational Thinking and Programming,范崇碩,"2
+2,資訊能力課程,7507020,01,"計算思維與程式設計
+Computational Thinking and Programming",范崇碩,"2
+
             2/0/0",2,通識,"二4,5",電算中心215教室,40,link,"保留新生11人; 擋修資工系電機系機械系通訊系會資系資管系. ,列入人工智慧跨領域微學程科目 ,列入數位科技跨領域微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,資訊能力課程,7507022,01,機器人探索與應用Robotic Exploration and Applications,范崇碩,"2
+2,資訊能力課程,7507022,01,"機器人探索與應用
+Robotic Exploration and Applications",范崇碩,"2
+
             2/0/0",2,通識,"一4,5",共同教室大樓302TEAL教室,40,link,"保留新生11人; 擋修資工系電機系. ,列入人工智慧跨領域微學程科目 ,列入數位科技跨領域微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,自然科學與技術,7507026,01,生活中的資料科學Data Science in Real Life,鍾峰宜,"2
+2,自然科學與技術,7507026,01,"生活中的資料科學
+Data Science in Real Life",鍾峰宜,"2
+
             2/0/0",2,通識,"四8,9",電算中心216教室,40,link,"保留新生11人; 擋修資工系電機系通訊系會資系資管系. ,列入人工智慧跨領域微學程科目 ,列入數位科技跨領域微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,資訊能力課程,7507030,01,無人機探索與應用Drone Exploration and Application,范崇碩,"2
+2,資訊能力課程,7507030,01,"無人機探索與應用
+Drone Exploration and Application",范崇碩,"2
+
             2/0/0",2,通識,"四8,9",電算中心217教室,30,link,"保留新生16人; 擋修電機系通訊系. ,列入數位科技跨領域微學程科目受限於無人機飛行場地及備設因素，本課程不開放加簽及旁聽；選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,資訊能力課程,7507031,01,深度學習在人工智慧的應用Applications of Deep Learning in Artificial Intelligence,蘇淵源,"2
+2,資訊能力課程,7507031,01,"深度學習在人工智慧的應用
+Applications of Deep Learning in Artificial Intelligence",蘇淵源,"2
+
             2/0/0",2,通識,"二10,11",電算中心215教室,40,link,"保留新生11人; 擋修資工系電機系會資系資管系. ,列入人工智慧跨領域微學程科目選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。"
-2,資訊能力課程,7507032,01,生成式人工智慧應用實務The Generative AI Practical and Applications,簡廷軒,"2
+2,資訊能力課程,7507032,01,"生成式人工智慧應用實務
+The Generative AI Practical and Applications",簡廷軒,"2
+
             2/0/0",2,通識,"三8,9",電算中心216教室,40,link,保留新生11人; 擋修資工系電機系通訊系會資系資管系.選課前請至通識教育中心網頁瀏覽各學系不採計通識課程列表。

@@ -1,37 +1,75 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
-1,3201001,01,勞工關係Labor Relations,劉黃麗娟,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
+1,3201001,01,"勞工關係
+Labor Relations",劉黃麗娟,"3
+
             3/0/0",3,必修,"一7,8,9",社科院258,70,link,"保留新生50人 ,列入青銀共創跨域學分學程科目"
-1,3201002,01,社會學Sociology,馬財專,"3
+1,3201002,01,"社會學
+Sociology",馬財專,"3
+
             3/0/0",3,必修,"二7,8,9",社科院258,70,link,保留新生50人
-1,3201003,01,經濟學Economics,吳啓新,"4
+1,3201003,01,"經濟學
+Economics",吳啓新,"4
+
             3/1/0",3,必修,"一6 五4,5,6",社科院326,60,link,保留新生50人
-2,3202021,01,組織行為Organizational Behavior,林淑慧,"3
+2,3202021,01,"組織行為
+Organizational Behavior",林淑慧,"3
+
             3/0/0",3,必修,"三7,8,9",社科院258,70,link,",列入人力資源與組織心理學分學程科目"
-2,3202035,01,勞動法概論Introduction to Labor Law,楊通軒,"3
+2,3202035,01,"勞動法概論
+Introduction to Labor Law",楊通軒,"3
+
             3/0/0",3,必修,"五4,5,6",社科院258,70,link,
-2,3202038,01,人力資源發展Human Resource Development (全英語授課/English-taught),黃文柔,"3
+2,3202038,01,"人力資源發展
+Human Resource Development
+ (全英語授課/English-taught)",黃文柔,"3
+
             3/0/0",3,選修,"三4,5,6",社科院509,41,link,",列入人力資源與組織心理學分學程科目"
-2,3202041,01,企業倫理Business Ethics,陳勁初,"3
+2,3202041,01,"企業倫理
+Business Ethics",陳勁初,"3
+
             3/0/0",3,選修,"五7,8,9",社科院326,60,link,",列入青銀共創跨域學分學程科目"
-2,3202049,01,產業發展與工作Industrial development and work,李育憶,"3
+2,3202049,01,"產業發展與工作
+Industrial development and work",李育憶,"3
+
             3/0/0",3,選修,"三7,8,9",社科院329,30,link,
-2,3202050,01,勞工關係實用日語Practical Japanese in Labour Relations,李玉春,"3
+2,3202050,01,"勞工關係實用日語
+Practical Japanese in Labour Relations",李玉春,"3
+
             3/0/0",3,選修,"二4,5,6",社科院326,60,link,需有日文基礎
-3,3203001,01,集體協商Collective Bargaining,劉黃麗娟,"3
+3,3203001,01,"集體協商
+Collective Bargaining",劉黃麗娟,"3
+
             3/0/0",3,必修,"二4,5,6",社科院258,70,link,
-3,3203029,01,薪資福利管理Managing  Compensation  and  Benefits  Systems,黃良志,"3
+3,3203029,01,"薪資福利管理
+Managing  Compensation  and  Benefits  Systems",黃良志,"3
+
             3/0/0",3,選修,"三4,5,6",社科院326,60,link,",列入人力資源與組織心理學分學程科目"
-3,3203031,01,勞資爭議處理Labor  Dispute  Resolution,李玉春,"3
+3,3203031,01,"勞資爭議處理
+Labor  Dispute  Resolution",李玉春,"3
+
             3/0/0",3,必修,"四4,5,6",社科院258,70,link,先修科目(3202035)勞動法概論(曾經修習)
-3,3203032,01,勞資談判Labor-Management Negotiations,朱柔若,"3
+3,3203032,01,"勞資談判
+Labor-Management Negotiations",朱柔若,"3
+
             3/0/0",3,選修,"二E,F",社科院328,20,link,
-3,3203040,01,工會法Trade Union Law,楊通軒,"3
+3,3203040,01,"工會法
+Trade Union Law",楊通軒,"3
+
             3/0/0",3,選修,"四7,8,9",社科院258,70,link,
-3,3203041,01,社會科學統計應用Application of Social Staistics,王安祥,"3
+3,3203041,01,"社會科學統計應用
+Application of Social Staistics",王安祥,"3
+
             3/0/0",3,必修,"二7,8,9",社科院109,70,link,
-3,3203063,01,人力資源管理個案討論Human Resource Management Case Study,黃文柔,"3
+3,3203063,01,"人力資源管理個案討論
+Human Resource Management Case Study",黃文柔,"3
+
             3/0/0",3,選修,"二4,5,6",社科院329,30,link,
-4,3204001,01,論文撰寫Writing  of  Thesis,黃文柔,"3
+4,3204001,01,"論文撰寫
+Writing  of  Thesis",黃文柔,"3
+
             3/0/0",3,必修,"一7,8,9",社科院329,24,link,本課程限修24名
-4,3204001,02,論文撰寫Writing  of  Thesis,李育憶,"3
+4,3204001,02,"論文撰寫
+Writing  of  Thesis",李育憶,"3
+
             3/0/0",3,必修,"二7,8,9",社科院326,24,link,本課程限修24名

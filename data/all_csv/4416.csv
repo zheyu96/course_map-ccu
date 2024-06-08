@@ -1,17 +1,35 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,4415001,01,專題討論Seminar,林派臣,"2
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,4415001,01,"專題討論
+Seminar",林派臣,"2
+
             0/0/2",1,必修,"三8,9",創新大樓110大型會議室(銘珠講堂),0,碩士班課程,link,
-1,4415042,01,光電材料分析技術Analytic technologies of optoelectronic materials,丁初稷,"3
+1,4415042,01,"光電材料分析技術
+Analytic technologies of optoelectronic materials",丁初稷,"3
+
             3/0/0",3,選修,"三10,11,12",創新大樓222,0,碩士班課程,link,
-1,4415092,01,光機電材料Opto-mechatronic Materials Science,丁初稷,"3
+1,4415092,01,"光機電材料
+Opto-mechatronic Materials Science",丁初稷,"3
+
             3/0/0",3,選修,"二13,14,15",創新大樓222,0,碩士班課程,link,限本系生修.
-1,4415111,01,光機電整合工程學Optomechatronics (全英語授課/English-taught),王祥辰,"3
+1,4415111,01,"光機電整合工程學
+Optomechatronics
+ (全英語授課/English-taught)",王祥辰,"3
+
             3/0/0",3,必修,"五8,9,10",創新大樓105,0,碩士班課程,link,與前瞻合開
-1,4415124,01,新式節能材料科技與能源管理系統Novel Energy-Saving Material Technology and Energy Management System,王欽戊,"3
+1,4415124,01,"新式節能材料科技與能源管理系統
+Novel Energy-Saving Material Technology and Energy Management System",王欽戊,"3
+
             3/0/0",3,選修,"四4,5,6",創新大樓222,0,碩士班課程,link,
-1,4415126,01,顯示器光學與實務工程Display Optics and Practical Engineering,葉志庭,"3
+1,4415126,01,"顯示器光學與實務工程
+Display Optics and Practical Engineering",葉志庭,"3
+
             3/0/0",3,選修,"二4,5,6",創新大樓222,0,碩士班課程,link,先修科目(4208951)光學系統設計與實務工程(及格)
-1,4415128,01,專利檢索與撰寫實務Patent search and drafting practice,葉志庭,"3
+1,4415128,01,"專利檢索與撰寫實務
+Patent search and drafting practice",葉志庭,"3
+
             3/0/0",3,選修,"一4,5,6",創新大樓222,0,碩士班課程,link,與工學院合開
-1,4415129,01,3D IC 先進封裝技術導論Introduction to 3D IC Advanced Packaging Technology,賴臆升 李元堯,"3
+1,4415129,01,"3D IC 先進封裝技術導論
+Introduction to 3D IC Advanced Packaging Technology",賴臆升 李元堯,"3
+
             3/0/0",3,選修,"四8,9,10",工學院B館116,0,碩士班課程,link,限本系生修.與工學院合開

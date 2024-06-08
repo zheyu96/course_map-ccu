@@ -1,81 +1,173 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
-1,4100008,01,程式語言Programming Languages,蕭承諺,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
+1,4100008,01,"程式語言
+Programming Languages",蕭承諺,"3
+
             3/0/0",3,必修,"一F,G",創新大樓341,80,link,"保留新生50人; 支援數學系一年級. ,列入程式設計學程科目"
-1,4101002,01,程式語言Programming Languages,王俊堯,"3
+1,4101002,01,"程式語言
+Programming Languages",王俊堯,"3
+
             3/0/0",3,必修,二F 四F,電算中心215教室,70,link,"保留新生56人; 支援機械系光機電整合工程組機械系機械工程組一年級. ,列入大數據經濟分析學分學程科目"
-1,4101002,02,程式語言Programming Languages,蔡政宇,"3
+1,4101002,02,"程式語言
+Programming Languages",蔡政宇,"3
+
             3/0/0",3,必修,二B 四B,創新大樓201,42,link,"保留新生42人; 支援機械系光機電整合工程組機械系機械工程組一年級. ,列入大數據經濟分析學分學程科目"
-1,4101012,01,資訊概論Introduction to Information Science,林維暘,"2
+1,4101012,01,"資訊概論
+Introduction to Information Science",林維暘,"2
+
             2/0/0",2,必修,"一8,9",工學院A館001,120,link,"保留新生90人限本系生修. ,列入程式設計學程科目"
-1,4101021,01,單板機與深度學習應用入門Single-board Computer and Deep Learning,蔡政宇,"1
+1,4101021,01,"單板機與深度學習應用入門
+Single-board Computer and Deep Learning",蔡政宇,"1
+
             1/0/0",1,選修,三5,活動中心B1自造基地,80,link,",列入青銀共創跨域學分學程科目"
-1,4101022,01,物聯網與網頁應用程式開發IoT and Web Application Development,蔡政宇,"1
+1,4101022,01,"物聯網與網頁應用程式開發
+IoT and Web Application Development",蔡政宇,"1
+
             1/0/0",1,選修,三4,活動中心B1自造基地,80,link,",列入青銀共創跨域學分學程科目"
-1,4101031,01,程式設計（一）Program Design (I) (全英語授課/English-taught),程芙茵,"3
+1,4101031,01,"程式設計（一）
+Program Design (I)
+ (全英語授課/English-taught)",程芙茵,"3
+
             3/0/0",3,必修,二E 四E,工學院A館101,80,link,"保留新生50人限本系生修. ,列入電子商務學程科目 ,列入軟體工程學程科目 ,列入功能性基因體學程科目 ,列入程式設計學程科目 ,列入大數據經濟分析學分學程科目 ,列入金融科技學分學程科目 ,列入人工智慧與電腦審計學程科目限修80人"
-1,4101031,02,程式設計（一）Program Design (I),王銘宏,"3
+1,4101031,02,"程式設計（一）
+Program Design (I)",王銘宏,"3
+
             3/0/0",3,必修,二C 四C,創新大樓341,80,link,"保留新生50人限本系生修. ,列入電子商務學程科目 ,列入軟體工程學程科目 ,列入功能性基因體學程科目 ,列入程式設計學程科目 ,列入大數據經濟分析學分學程科目 ,列入金融科技學分學程科目 ,列入人工智慧與電腦審計學程科目限修80人"
-1,4101033,01,程式設計實習（一）Quiz Section for Program Design (I),程芙茵,"2
+1,4101033,01,"程式設計實習（一）
+Quiz Section for Program Design (I)",程芙茵,"2
+
             0/2/0",1,必修,"一13,14",創新大樓341,40,link,"保留新生25人限本系生修. ,列入電子商務學程科目限修40人"
-1,4101033,02,程式設計實習（一）Quiz Section for Program Design (I),程芙茵,"2
+1,4101033,02,"程式設計實習（一）
+Quiz Section for Program Design (I)",程芙茵,"2
+
             0/2/0",1,必修,"三13,14",創新大樓341,40,link,"保留新生25人限本系生修. ,列入電子商務學程科目限修40人"
-1,4101033,03,程式設計實習（一）Quiz Section for Program Design (I),王銘宏,"2
+1,4101033,03,"程式設計實習（一）
+Quiz Section for Program Design (I)",王銘宏,"2
+
             0/2/0",1,必修,"二13,14",創新大樓341,40,link,"保留新生25人限本系生修. ,列入電子商務學程科目限修40人"
-1,4101033,04,程式設計實習（一）Quiz Section for Program Design (I),王銘宏,"2
+1,4101033,04,"程式設計實習（一）
+Quiz Section for Program Design (I)",王銘宏,"2
+
             0/2/0",1,必修,"四13,14",創新大樓341,40,link,"保留新生25人限本系生修. ,列入電子商務學程科目限修40人"
-1,4101036,01,智慧計算系統Intelligent Computing System(遠距教學/Distant learning),游寶達,"1
+1,4101036,01,"智慧計算系統
+Intelligent Computing System
+(遠距教學/Distant learning)",游寶達,"1
+
             1/0/0",1,選修,三7,活動中心B1自造基地,80,link,https://ecourse2.ccu.edu.tw/
-1,4101037,01,量子基礎數學Quantum Fundamental Mathematics(遠距教學/Distant learning),游寶達,"1
+1,4101037,01,"量子基礎數學
+Quantum Fundamental Mathematics
+(遠距教學/Distant learning)",游寶達,"1
+
             1/0/0",1,選修,三8,活動中心B1自造基地,80,link,https://ecourse2.ccu.edu.tw/
-1,4101155,01,線性代數Linear Algebra,柳金章,"3
+1,4101155,01,"線性代數
+Linear Algebra",柳金章,"3
+
             3/0/0",3,必修,一B 三B,工學院A館104,63,link,"保留新生40人限本系生修. ,列入程式設計學程科目限修63人"
-1,4101155,02,線性代數Linear Algebra,柯仁松,"3
+1,4101155,02,"線性代數
+Linear Algebra",柯仁松,"3
+
             3/0/0",3,必修,一B 三B,工學院A館101,63,link,"保留新生50人限本系生修. ,列入程式設計學程科目限修63人"
-2,4102001,01,數位電子學Electronic Circuits and Electronics(遠距教學/Distant learning) (全英語授課/English-taught),鍾菁哲,"3
+2,4102001,01,"數位電子學
+Electronic Circuits and Electronics
+(遠距教學/Distant learning) (全英語授課/English-taught)",鍾菁哲,"3
+
             3/0/0",3,必修,"三E,F",工學院A館001,126,link,限本系生修.限修126人                    https://ecourse2.ccu.edu.tw/
-2,4102003,01,數位電子學實驗Electronic Circuits and Electronics Lab.,鍾菁哲,"2
+2,4102003,01,"數位電子學實驗
+Electronic Circuits and Electronics Lab.",鍾菁哲,"2
+
             0/2/0",1,必修,"一13,14",工學院A館206,48,link,限本系生修.限修48人
-2,4102003,02,數位電子學實驗Electronic Circuits and Electronics Lab.,鍾菁哲,"2
+2,4102003,02,"數位電子學實驗
+Electronic Circuits and Electronics Lab.",鍾菁哲,"2
+
             0/2/0",1,必修,"三13,14",工學院A館206,48,link,限本系生修.限修48人
-2,4102013,01,機率論Probability Theory,李新林,"3
+2,4102013,01,"機率論
+Probability Theory",李新林,"3
+
             3/0/0",3,必修,一B 三B,工學院A館205,63,link,"限本系生修. ,列入大數據經濟分析學分學程科目 ,列入精算經濟學分學程科目限修63人"
-2,4102013,02,機率論Probability Theory,黃啟富,"3
+2,4102013,02,"機率論
+Probability Theory",黃啟富,"3
+
             3/0/0",3,必修,一G 三G,創新大樓324,63,link,"限本系生修. ,列入大數據經濟分析學分學程科目 ,列入精算經濟學分學程科目限修63人"
-2,4102050,01,組合語言Assembly Language(遠距教學/Distant learning),陳鵬升,"3
+2,4102050,01,"組合語言
+Assembly Language
+(遠距教學/Distant learning)",陳鵬升,"3
+
             3/0/0",3,選修,一C 三C,工學院A館001,120,link,限本系生修.https://ecourse2.ccu.edu.tw/
-2,4102062,01,資料結構Data Structure,郭建志,"3
+2,4102062,01,"資料結構
+Data Structure",郭建志,"3
+
             3/0/0",3,必修,二F 四F,工學院A館101,63,link,"先修科目(4101005)計算機概論（一）(及格) (4101006)計算機概論（二）(及格) (4101031)程式設計（一）(及格) (4101032)程式設計（二）(及格) (只要符合任一先修條件)限本系生修. ,列入組織工程學程科目 ,列入軟體工程學程科目 ,列入功能性基因體學程科目 ,列入程式設計學程科目 ,列入大數據經濟分析學分學程科目 ,列入金融科技學分學程科目 ,列入人工智慧與電腦審計學程科目限修63人"
-2,4102062,02,資料結構Data Structure(遠距教學/Distant learning) (全英語授課/English-taught),薛幼苓,"3
+2,4102062,02,"資料結構
+Data Structure
+(遠距教學/Distant learning) (全英語授課/English-taught)",薛幼苓,"3
+
             3/0/0",3,必修,"四E,F",創新大樓322,63,link,"先修科目(4101005)計算機概論（一）(及格) (4101006)計算機概論（二）(及格) (4101031)程式設計（一）(及格) (4101032)程式設計（二）(及格) (只要符合任一先修條件)限本系生修. ,列入組織工程學程科目 ,列入軟體工程學程科目 ,列入功能性基因體學程科目 ,列入程式設計學程科目 ,列入大數據經濟分析學分學程科目 ,列入金融科技學分學程科目 ,列入人工智慧與電腦審計學程科目限修63人  https://ecourse2.ccu.edu.tw/"
-3,4103001,01,作業系統概論Introduction  to Operating System(遠距教學/Distant learning),羅習五,"3
+3,4103001,01,"作業系統概論
+Introduction  to Operating System
+(遠距教學/Distant learning)",羅習五,"3
+
             3/0/0",3,必修,"二E,F",創新大樓326,72,link,限本系生修.限修72人  https://ecourse2.ccu.edu.tw/
-3,4103001,02,作業系統概論Introduction  to Operating System,梁郁珮,"3
+3,4103001,02,"作業系統概論
+Introduction  to Operating System",梁郁珮,"3
+
             3/0/0",3,必修,二G 四G,工學院A館101,63,link,限本系生修.限修63人
-3,4103022,01,軟體工程Software Engineering(遠距教學/Distant learning),熊博安,"3
+3,4103022,01,"軟體工程
+Software Engineering
+(遠距教學/Distant learning)",熊博安,"3
+
             3/0/0",3,選修,"三E,F",工學院A館101,90,link,"限本系生修. ,列入軟體工程學程科目 ,列入程式設計學程科目https://ecourse2.ccu.edu.tw/"
-3,4103026,01,多媒體技術概論Introduction to Multimedia Technology (全英語授課/English-taught),江振國,"3
+3,4103026,01,"多媒體技術概論
+Introduction to Multimedia Technology
+ (全英語授課/English-taught)",江振國,"3
+
             3/0/0",3,選修,"四E,F",創新大樓324,70,link,
-3,4103055,01,計算機組織Computer Organization,林泰吉,"3
+3,4103055,01,"計算機組織
+Computer Organization",林泰吉,"3
+
             3/0/0",3,必修,一C 三C,工學院A館101,63,link,限本系生修.限修63人
-3,4103055,02,計算機組織Computer Organization(遠距教學/Distant learning),張榮貴,"3
+3,4103055,02,"計算機組織
+Computer Organization
+(遠距教學/Distant learning)",張榮貴,"3
+
             3/0/0",3,必修,二B 四B,工學院A館101,63,link,限本系生修.限修63人 https://ecourse2.ccu.edu.tw/
-3,4103061,01,數值分析Numerical Analysis,邱志義,"3
+3,4103061,01,"數值分析
+Numerical Analysis",邱志義,"3
+
             3/0/0",3,選修,一D 三D,創新大樓322,65,link,",列入程式設計學程科目 ,列入大數據經濟分析學分學程科目"
-3,4103800,01,資訊工程研討Computer Science Seminars,鍾菁哲,"2
+3,4103800,01,"資訊工程研討
+Computer Science Seminars",鍾菁哲,"2
+
             0/0/2",1,必修,"一8,9",工學院A館101,90,link,限本系生修.
-4,4104046,01,電信網路概論Introduction  to Telecommunication Network,江為國,"3
+4,4104046,01,"電信網路概論
+Introduction  to Telecommunication Network",江為國,"3
+
             3/0/0",3,選修,三C 五C,工學院A館205,65,link,限本系生修.
-4,4104051,01,個人軟體程序程式Personal  Software  Process,柯仁松,"3
+4,4104051,01,"個人軟體程序程式
+Personal  Software  Process",柯仁松,"3
+
             3/0/0",3,選修,一C 三C,工學院A館204,40,link,
-4,4104072,01,巨量資料運算導論Introduction to Big Data Computing(遠距教學/Distant learning),蘇育生,"3
+4,4104072,01,"巨量資料運算導論
+Introduction to Big Data Computing
+(遠距教學/Distant learning)",蘇育生,"3
+
             3/0/0",3,選修,"四C,D",創新大樓324,20,link,"限本系生修.限修20人，優先給資工系大三及大四選修, https://ecourse2.ccu.edu.tw/"
-4,4104801,01,專題實驗（二）Computer Project (II),羅習五,"4
+4,4104801,01,"專題實驗（二）
+Computer Project (II)",羅習五,"4
+
             0/4/0",2,必修,"五12,13,14,15",工學院A館101,90,link,"限本系生修. ,列入資通安全學程(1091起停辦)科目限多媒體訊號處理領域: 柳金章、林維暘、劉興民、劉偉名、江振國、程芙茵、邱志義、盧沛怡老師之指導專題生選修。"
-4,4104801,02,專題實驗（二）Computer Project (II),林泰吉,"4
+4,4104801,02,"專題實驗（二）
+Computer Project (II)",林泰吉,"4
+
             0/4/0",2,必修,"五12,13,14,15",工學院A館001,120,link,"限本系生修. ,列入資通安全學程(1091起停辦)科目限計算機理論領域: 李新林、黃耀廷、陳立軒老師之專題生選修。"
-4,4104801,03,專題實驗（二）Computer Project (II),林柏青,"4
+4,4104801,03,"專題實驗（二）
+Computer Project (II)",林柏青,"4
+
             0/4/0",2,必修,"五12,13,14,15",工學院A館104,65,link,"限本系生修. ,列入資通安全學程(1091起停辦)科目限網路與數位學習領域: 游寶達、林柏青、柯仁松、江為國、黃啟富、郭建志、蘇育生、阮文齡老師之專題生選修。"
-4,4104801,04,專題實驗（二）Computer Project (II),陳立軒,"4
+4,4104801,04,"專題實驗（二）
+Computer Project (II)",陳立軒,"4
+
             0/4/0",2,必修,"四12,13,14,15",工學院A館205,65,link,"限本系生修. ,列入資通安全學程(1091起停辦)科目限SOC領域: 張榮貴、鍾菁哲、陳鵬升、林泰吉、梁郁珮老師之專題生選修"
-4,4104801,05,專題實驗（二）Computer Project (II),游寶達,"4
+4,4104801,05,"專題實驗（二）
+Computer Project (II)",游寶達,"4
+
             0/4/0",2,必修,"五12,13,14,15",工學院A館103,20,link,"限本系生修. ,列入資通安全學程(1091起停辦)科目限系統軟體領域: 熊博安、林迺衛、羅習五、薛幼苓、王銘宏老師專題生選修。"

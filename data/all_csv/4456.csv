@@ -1,57 +1,140 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,4455012,01,視訊處理Video Processing (全英語授課/English-taught),江瑞秋,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,4455012,01,"視訊處理
+Video Processing
+ (全英語授課/English-taught)",江瑞秋,"3
+
             3/0/0",3,選修,"三8,9,10",工學院A館226,0,碩博合開,link,與電機所、智慧製造專班合開
-1,4456011,01,線性系統Linear Systems (全英語授課/English-taught),洪博雄,"3
+1,4456011,01,"線性系統
+Linear Systems
+ (全英語授課/English-taught)",洪博雄,"3
+
             3/0/0",3,選修,"四10,11,12",工學院B館214左,9,碩士班課程,link,限修10人，與機械所、智慧製造專班合開，開放大四修課
-1,4456015,01,電腦輔助機械製造Computer-Aided Manufacturing (全英語授課/English-taught),林榮信,"3
+1,4456015,01,"電腦輔助機械製造
+Computer-Aided Manufacturing
+ (全英語授課/English-taught)",林榮信,"3
+
             3/0/0",3,選修,二F 四F,工學院B館214左,0,碩士班課程,link,與機械所、智慧製造專班合開
-1,4456018,01,專題研討(一)Seminar I (全英語授課/English-taught),郭秉寰,"2
+1,4456018,01,"專題研討(一)
+Seminar I
+ (全英語授課/English-taught)",郭秉寰,"2
+
             0/0/2",1,必修,"五7,8",工學院B館214右,0,碩博合開,link,與智慧製造專班合開
-1,4456024,01,彈性力學Elasticity (全英語授課/English-taught),林派臣,"3
+1,4456024,01,"彈性力學
+Elasticity
+ (全英語授課/English-taught)",林派臣,"3
+
             3/0/0",3,選修,"一13,14,15",工學院B館215右,0,碩士班課程,link,與機械所、智慧製造專班合開，開放大三大四修課
-1,4456027,01,結構動力學Structural Dynamics (全英語授課/English-taught),鄭志鈞,"3
+1,4456027,01,"結構動力學
+Structural Dynamics
+ (全英語授課/English-taught)",鄭志鈞,"3
+
             3/0/0",3,選修,"二4,5,6",工學院B館214右,0,碩士班課程,link,與機械所、智慧製造專班合開
-1,4456032,01,作業系統Operating System (全英語授課/English-taught),柯仁松,"3
+1,4456032,01,"作業系統
+Operating System
+ (全英語授課/English-taught)",柯仁松,"3
+
             3/0/0",3,選修,"二B,C",創新大樓324,0,碩博合開,link,與資工所、智慧製造專班合開
-1,4456242,01,光機電整合工程學 Optomechatronics (全英語授課/English-taught),王祥辰,"3
+1,4456242,01,"光機電整合工程學
+ Optomechatronics
+ (全英語授課/English-taught)",王祥辰,"3
+
             3/0/0",3,選修,"五8,9,10",創新大樓105,0,碩士班課程,link,與光機電所、智慧製造專班合開
-1,4456265,01,毫米波積體電路Millimeter Wave Integrated Circuit (全英語授課/English-taught),吳建華,"3
+1,4456265,01,"毫米波積體電路
+Millimeter Wave Integrated Circuit
+ (全英語授課/English-taught)",吳建華,"3
+
             3/0/0",3,選修,"三3,4,5",工學院A館125,0,碩博合開,link,與電機所、智慧製造專班合開
-1,4456267,01,計算機幾何輔助暨分析之製造應用特論Special Topic on Computational Geometry Supported Analysis in Manufacturing Application (全英語授課/English-taught),高永洲,"3
+1,4456267,01,"計算機幾何輔助暨分析之製造應用特論
+Special Topic on Computational Geometry Supported Analysis in Manufacturing Application
+ (全英語授課/English-taught)",高永洲,"3
+
             3/0/0",3,選修,"一7,8,9",創新大樓202,0,碩士班課程,link,與機械所、智慧製造專班合開
-1,4456270,01,大氣電漿技術應用與檢測Applications and Characterization of Atmospheric-Pressure Plasma Technology (全英語授課/English-taught),林昆模,"3
+1,4456270,01,"大氣電漿技術應用與檢測
+Applications and Characterization of Atmospheric-Pressure Plasma Technology
+ (全英語授課/English-taught)",林昆模,"3
+
             3/0/0",3,選修,"三3,4,5",工學院B館214左,0,碩士班課程,link,與機械所、智慧製造專班合開，開放大三大四修課
-1,4456275,01,光學特論二Special topic on optics(II) (全英語授課/English-taught),張國恩,"3
+1,4456275,01,"光學特論二
+Special topic on optics(II)
+ (全英語授課/English-taught)",張國恩,"3
+
             3/0/0",3,選修,"二8,9,10",工學院B館214右,0,碩博合開,link,與機械所、智慧製造專班合開
-1,4456285,01,高等控制技術專論Special Topics on Advanced Control Technologies (全英語授課/English-taught),陳世樂,"3
+1,4456285,01,"高等控制技術專論
+Special Topics on Advanced Control Technologies
+ (全英語授課/English-taught)",陳世樂,"3
+
             3/0/0",3,選修,"四7,8,9",創新大樓222,0,碩士班課程,link,與機械所、智慧製造專班合開，開放大四修課
-1,4456286,01,有限元素分析Finite Element Analysis (全英語授課/English-taught),劉德騏,"3
+1,4456286,01,"有限元素分析
+Finite Element Analysis
+ (全英語授課/English-taught)",劉德騏,"3
+
             3/0/0",3,選修,"五6,7,8",創新大樓202,0,碩士班課程,link,與機械所、智慧製造專班合開
-1,4456287,01,二相流與沸騰熱傳Two-phase flow and boiling heat transfer (全英語授課/English-taught),林昱辰,"3
+1,4456287,01,"二相流與沸騰熱傳
+Two-phase flow and boiling heat transfer
+ (全英語授課/English-taught)",林昱辰,"3
+
             3/0/0",3,選修,"二3,4,5",工學院B館215右,0,碩士班課程,link,與機械所、智慧製造專班合開，開放大三大四修課
-1,4457001,01,太陽能發電系統Solar Power Generation System (全英語授課/English-taught),劉祐任,"3
+1,4457001,01,"太陽能發電系統
+Solar Power Generation System
+ (全英語授課/English-taught)",劉祐任,"3
+
             3/0/0",3,選修,"四E,F",工學院A館125,0,碩博合開,link,與電機所、智慧製造專班合開
-1,4457003,01,生化工程Biochemical Engineering (全英語授課/English-taught),黃光策,"3
+1,4457003,01,"生化工程
+Biochemical Engineering
+ (全英語授課/English-taught)",黃光策,"3
+
             3/0/0",3,選修,"四B,C",工學院B館201,0,碩博合開,link,與化工所合開
-1,4457005,01,電業自由化概論An Introduction to Electric Utility Deregulation (全英語授課/English-taught),吳元康,"3
+1,4457005,01,"電業自由化概論
+An Introduction to Electric Utility Deregulation
+ (全英語授課/English-taught)",吳元康,"3
+
             3/0/0",3,選修,"四G,H",工學院A館226,0,碩博合開,link,與電機所、智慧製造專班合開
-1,4457007,01,電腦視覺Computer Vision (全英語授課/English-taught),江振國,"3
+1,4457007,01,"電腦視覺
+Computer Vision
+ (全英語授課/English-taught)",江振國,"3
+
             3/0/0",3,選修,"三E,F",創新大樓324,0,碩博合開,link,與資工所、智慧製造專班合開，開放大三大四修課
-1,4457019,01,電力系統分析Power System Analysis (全英語授課/English-taught),張文恭,"3
+1,4457019,01,"電力系統分析
+Power System Analysis
+ (全英語授課/English-taught)",張文恭,"3
+
             3/0/0",3,選修,"三F,G",工學院A館126,0,碩博合開,link,與電機所、智慧製造專班合開
-1,4457024,01,電腦網路Computer Networks? (全英語授課/English-taught),阮文齡,"3
+1,4457024,01,"電腦網路
+Computer Networks?
+ (全英語授課/English-taught)",阮文齡,"3
+
             3/0/0",3,選修,"四E,F",創新大樓326,75,碩博合開,link,與資工所、智慧製造專班合開
-1,4457025,01,系統和軟體安全System and Software security (全英語授課/English-taught),阮文齡,"3
+1,4457025,01,"系統和軟體安全
+System and Software security
+ (全英語授課/English-taught)",阮文齡,"3
+
             3/0/0",3,選修,"二E,F",創新大樓339,60,碩博合開,link,與資工所、智慧製造專班合開，開放大三大四修課
-1,4457026,01,反應工程與反應器設計Reaction Engineering and Reactor Design (全英語授課/English-taught),傅友君,"3
+1,4457026,01,"反應工程與反應器設計
+Reaction Engineering and Reactor Design
+ (全英語授課/English-taught)",傅友君,"3
+
             3/0/0",3,選修,一C 三C,工學院B館201,0,碩博合開,link,與化工所合開
-1,4457027,01,電化學能源技術Electrochemical Energy Technology  (全英語授課/English-taught),傅友君,"3
+1,4457027,01,"電化學能源技術
+Electrochemical Energy Technology 
+ (全英語授課/English-taught)",傅友君,"3
+
             3/0/0",3,選修,二E 四E,工學院B館219,0,碩博合開,link,與化工所合開
-1,4457037,01,多媒體資訊壓縮與檢索Multimedia Information Compression and Retrieval (全英語授課/English-taught),邱志義,"3
+1,4457037,01,"多媒體資訊壓縮與檢索
+Multimedia Information Compression and Retrieval
+ (全英語授課/English-taught)",邱志義,"3
+
             3/0/0",3,選修,"二C,D",工學院A館104,0,碩博合開,link,與資工所、智慧製造專班合開
-1,4457038,01,中等流體力學Intermediate Fluid Dynamics (全英語授課/English-taught),林昱辰,"3
+1,4457038,01,"中等流體力學
+Intermediate Fluid Dynamics
+ (全英語授課/English-taught)",林昱辰,"3
+
             3/0/0",3,選修,"一8,9,10",工學院B館215右,0,碩博合開,link,與機械所、智慧製造專班合開，開放大三大四修課
-1,4458021,01,輕量化結構設計Design of Lightweight Structure Using Computer Aided Engineering,莊鎮瑋,"3
+1,4458021,01,"輕量化結構設計
+Design of Lightweight Structure Using Computer Aided Engineering",莊鎮瑋,"3
+
             3/0/0",3,選修,"二7,8,9",創新大樓202,0,博士班課程,link,支援機械系光機電整合工程組機械系機械工程組三年級四年級A班B班.與機械所合開，開放大三大四修課
-1,4458023,01,齒輪閉迴路系統高效製造實務Gear Close-Loop Manufacturing System for Efficient Manufacturing Practices,陳冠宏,"3
+1,4458023,01,"齒輪閉迴路系統高效製造實務
+Gear Close-Loop Manufacturing System for Efficient Manufacturing Practices",陳冠宏,"3
+
             3/0/0",3,選修,"二4,5,6",創新大樓105,5,博士班課程,link,限修5人，與機械所合開，開放大三大四修課

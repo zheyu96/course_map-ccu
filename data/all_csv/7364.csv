@@ -1,121 +1,249 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
-1,3901001,01,人體解剖生理學Human Anatomy and Physiology,王秀華,"2
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
+1,3901001,01,"人體解剖生理學
+Human Anatomy and Physiology",王秀華,"2
+
             2/0/0",2,必修,"三4,5",運技系104室,40,link,保留新生40人限本系生修.
-1,3901003,01,運動科學概論Foundations of Sports Science,何承訓,"2
+1,3901003,01,"運動科學概論
+Foundations of Sports Science",何承訓,"2
+
             2/0/0",2,必修,"五4,5",運技系104室,40,link,"保留新生40人限本系生修. ,列入運動心理科學學士學分學程科目"
-1,3901010,01,專長術科（一）—游泳Specialized Sport Training I - Swimming,江姿穎,"4
+1,3901010,01,"專長術科（一）—游泳
+Specialized Sport Training I - Swimming",江姿穎,"4
+
             4/0/0",4,必修,"一10,11 三10,11",游泳池1,40,link,保留新生40人限本系生修.限本系「游泳」專長學生修讀。
-1,3901011,01,專長術科（一）—網球Specialized Sport Training I - Tennis,李元宏,"4
+1,3901011,01,"專長術科（一）—網球
+Specialized Sport Training I - Tennis",李元宏,"4
+
             4/0/0",4,必修,"一10,11 三10,11",網球場1,45,link,保留新生45人限本系生修.限本系「網球」專長學生修讀。
-1,3901012,01,專長術科（一）—羽球Specialized Sport Training I - Badminton,程嘉彥,"4
+1,3901012,01,"專長術科（一）—羽球
+Specialized Sport Training I - Badminton",程嘉彥,"4
+
             4/0/0",4,必修,"一10,11 三10,11",羽球館1,45,link,保留新生45人限本系生修.限本系「羽球」專長學生修讀。
-1,3901014,01,專長術科（一）—跆拳道Specialized Sport Training I - Taekwondo,吳燕妮,"4
+1,3901014,01,"專長術科（一）—跆拳道
+Specialized Sport Training I - Taekwondo",吳燕妮,"4
+
             4/0/0",4,必修,"一10,11 三10,11",技擊室1,45,link,保留新生45人限本系生修.限本系「跆拳道」專長學生修讀。
-1,3901015,01,專長術科（一）—射箭Specialized Sport Training I - Archery,廖健男,"4
+1,3901015,01,"專長術科（一）—射箭
+Specialized Sport Training I - Archery",廖健男,"4
+
             4/0/0",4,必修,"一10,11 三10,11",射箭場,40,link,保留新生40人限本系生修.限本系「射箭」專長學生修讀。
-1,3901016,01,專長術科（一）—定向越野Specialized Sport Training I - Orienteering,陳俊民,"4
+1,3901016,01,"專長術科（一）—定向越野
+Specialized Sport Training I - Orienteering",陳俊民,"4
+
             4/0/0",4,必修,"一10,11 三10,11",田徑場1,60,link,保留新生60人限本系生修.限本系「定向越野」專長學生修讀。
-1,3901025,01,專長術科（一）—綜合Specialized Sport Training I - Comprehensiveness,陳虔倖,"4
+1,3901025,01,"專長術科（一）—綜合
+Specialized Sport Training I - Comprehensiveness",陳虔倖,"4
+
             4/0/0",4,必修,"一10,11 三10,11",田徑場2,60,link,保留新生60人限本系生修.限本系「綜合」專長學生修讀。
-1,3901027,01,專長術科（一）—排球Specialized Sport Training I - Volleyball,林明輝,"4
+1,3901027,01,"專長術科（一）—排球
+Specialized Sport Training I - Volleyball",林明輝,"4
+
             4/0/0",4,必修,"一10,11 三10,11",室內排球場,45,link,保留新生45人限本系生修.限本系「排球」專長學生修讀。
-1,3901029,01,英文運動文本選讀Literature and Sports in English (全英語授課/English-taught),蔡幸紋,"2
+1,3901029,01,"英文運動文本選讀
+Literature and Sports in English
+ (全英語授課/English-taught)",蔡幸紋,"2
+
             2/0/0",2,選修,"五2,3",運技系110室,40,link,
-1,3901110,01,體育行政Administration of Physical Education,陳永洲,"2
+1,3901110,01,"體育行政
+Administration of Physical Education",陳永洲,"2
+
             2/0/0",2,選修,"二4,5",運技系103室,40,link,
-2,3902001,01,運動訓練法Principles Sport Training,廖健男,"2
+2,3902001,01,"運動訓練法
+Principles Sport Training",廖健男,"2
+
             2/0/0",2,必修,"四4,5",運技系104室,40,link,限本系生修.
-2,3902008,01,英文運動賽事聽講English Listening and Speaking for Sports Events (全英語授課/English-taught),蔡幸紋,"2
+2,3902008,01,"英文運動賽事聽講
+English Listening and Speaking for Sports Events
+ (全英語授課/English-taught)",蔡幸紋,"2
+
             2/0/0",2,選修,"五4,5",運技系110室,40,link,
-2,3902009,01,運動英語聽講Sports English Listening and Speaking (全英語授課/English-taught),楊志和,"2
+2,3902009,01,"運動英語聽講
+Sports English Listening and Speaking
+ (全英語授課/English-taught)",楊志和,"2
+
             2/0/0",2,必修,"三4,5",教育二館233,42,link,限本系生修.
-3,3902011,01,運動專業實習（二）Internship: Sport Professional Management II,江姿穎,"2
+3,3902011,01,"運動專業實習（二）
+Internship: Sport Professional Management II",江姿穎,"2
+
             0/2/0",1,必修,一7 三7,運技系103室,40,link,限本系生修.限本系學生修課
-2,3902028,01,專長術科（三）—游泳Specialized Sport Training III - Swimming,江姿穎,"4
+2,3902028,01,"專長術科（三）—游泳
+Specialized Sport Training III - Swimming",江姿穎,"4
+
             4/0/0",4,必修,"一10,11 三10,11",游泳池1,40,link,限本系生修.限本系「游泳」專長學生修讀。
-2,3902029,01,專長術科（三）—網球Specialized Sport Training III - Tennis,李元宏,"4
+2,3902029,01,"專長術科（三）—網球
+Specialized Sport Training III - Tennis",李元宏,"4
+
             4/0/0",4,必修,"一10,11 三10,11",網球場1,45,link,限本系生修.限本系「網球」專長學生修讀。
-2,3902030,01,專長術科（三）—羽球Specialized Sport Training III - Badminton,程嘉彥,"4
+2,3902030,01,"專長術科（三）—羽球
+Specialized Sport Training III - Badminton",程嘉彥,"4
+
             4/0/0",4,必修,"一10,11 三10,11",羽球館1,45,link,限本系生修.限本系「羽球」專長學生修讀。
-2,3902032,01,專長術科（三）—跆拳道Specialized Sport Training III - Taekwondo,吳燕妮,"4
+2,3902032,01,"專長術科（三）—跆拳道
+Specialized Sport Training III - Taekwondo",吳燕妮,"4
+
             4/0/0",4,必修,"一10,11 三10,11",技擊室1,45,link,限本系生修.限本系「跆拳道」專長學生修讀。
-2,3902033,01,專長術科（三）—射箭Specialized Sport Training III - Archery,廖健男,"4
+2,3902033,01,"專長術科（三）—射箭
+Specialized Sport Training III - Archery",廖健男,"4
+
             4/0/0",4,必修,"一10,11 三10,11",射箭場,40,link,限本系生修.限本系「射箭」專長學生修讀。
-2,3902034,01,專長術科（三）—定向越野Specialized Sport Training III - Orienteering,陳俊民,"4
+2,3902034,01,"專長術科（三）—定向越野
+Specialized Sport Training III - Orienteering",陳俊民,"4
+
             4/0/0",4,必修,"一10,11 三10,11",田徑場1,60,link,限本系生修.限本系「定向越野」專長學生修讀。
-2,3902035,01,專長術科（三）—綜合Specialized Sport Training III - Comprehensiveness,陳虔倖,"4
+2,3902035,01,"專長術科（三）—綜合
+Specialized Sport Training III - Comprehensiveness",陳虔倖,"4
+
             4/0/0",4,必修,"一10,11 三10,11",田徑場2,60,link,限本系生修.限本系「綜合」專長學生修讀。
-2,3902036,01,專長術科（三）—排球Specialized Sport Training III - Volleyball,林明輝,"4
+2,3902036,01,"專長術科（三）—排球
+Specialized Sport Training III - Volleyball",林明輝,"4
+
             4/0/0",4,必修,"一10,11 三10,11",室內排球場,45,link,限本系生修.限本系「排球」專長學生修讀。
-2,3902103,01,運動生理學Exercise Physiology,王順正,"2
+2,3902103,01,"運動生理學
+Exercise Physiology",王順正,"2
+
             2/0/0",2,選修,"四2,3",運技系104室,40,link,",列入運動心理科學學士學分學程科目"
-2,3902105,01,運動社會學Sport Sociology,阮曉眉,"2
+2,3902105,01,"運動社會學
+Sport Sociology",阮曉眉,"2
+
             2/0/0",2,選修,"一4,5",運技系110室,40,link,限本系生修.
-2,3902108,01,運動賽會與管理Sport Event Management,陳俊民,"2
+2,3902108,01,"運動賽會與管理
+Sport Event Management",陳俊民,"2
+
             2/0/0",2,選修,"三2,3",運技系103室,40,link,限本系生修.
-3,3903007,01,運動資訊處理Sports Information Processing (全英語授課/English-taught),鍾峰宜,"2
+3,3903007,01,"運動資訊處理
+Sports Information Processing
+ (全英語授課/English-taught)",鍾峰宜,"2
+
             2/0/0",2,必修,"二2,3",電算中心217教室,47,link,"限本系生修. ,列入運動心理科學學士學分學程科目"
-3,3903009,01,專長術科（五）—游泳Specialized Sport Training V - Swimming,江姿穎,"4
+3,3903009,01,"專長術科（五）—游泳
+Specialized Sport Training V - Swimming",江姿穎,"4
+
             4/0/0",4,必修,"一10,11 三10,11",游泳池1,40,link,限本系生修.限本系「游泳」專長學生修讀。
-3,3903010,01,專長術科（五）—網球Specialized Sport Training V - Tennis,李元宏,"4
+3,3903010,01,"專長術科（五）—網球
+Specialized Sport Training V - Tennis",李元宏,"4
+
             4/0/0",4,必修,"一10,11 三10,11",網球場1,45,link,限本系生修.限本系「網球」專長學生修讀。
-3,3903011,01,專長術科（五）—羽球Specialized Sport Training V - Badminton,程嘉彥,"4
+3,3903011,01,"專長術科（五）—羽球
+Specialized Sport Training V - Badminton",程嘉彥,"4
+
             4/0/0",4,必修,"一10,11 三10,11",羽球館1,45,link,限本系生修.限本系「羽球」專長學生修讀。
-3,3903013,01,專長術科（五）—跆拳道Specialized Sport Training V - Taekwondo,吳燕妮,"4
+3,3903013,01,"專長術科（五）—跆拳道
+Specialized Sport Training V - Taekwondo",吳燕妮,"4
+
             4/0/0",4,必修,"一10,11 三10,11",技擊室1,45,link,限本系生修.限本系「跆拳道」專長學生修讀。
-3,3903014,01,專長術科（五）—射箭Specialized Sport Training V - Archery,廖健男,"4
+3,3903014,01,"專長術科（五）—射箭
+Specialized Sport Training V - Archery",廖健男,"4
+
             4/0/0",4,必修,"一10,11 三10,11",射箭場,40,link,限本系生修.限本系「射箭」專長學生修讀。
-3,3903015,01,專長術科（五）—定向越野Specialized Sport Training V - Orienteering,陳俊民,"4
+3,3903015,01,"專長術科（五）—定向越野
+Specialized Sport Training V - Orienteering",陳俊民,"4
+
             4/0/0",4,必修,"一10,11 三10,11",田徑場1,60,link,限本系生修.限本系「定向越野」專長學生修讀。
-3,3903024,01,專長術科（五）—綜合Specialized Sport Training V - Comprehensiveness,陳虔倖,"4
+3,3903024,01,"專長術科（五）—綜合
+Specialized Sport Training V - Comprehensiveness",陳虔倖,"4
+
             4/0/0",4,必修,"一10,11 三10,11",田徑場2,60,link,限本系生修.限本系「綜合」專長學生修讀。
-3,3903026,01,專長術科（五）—排球Specialized Sport Training V - Volleyball,林明輝,"4
+3,3903026,01,"專長術科（五）—排球
+Specialized Sport Training V - Volleyball",林明輝,"4
+
             4/0/0",4,必修,"一10,11 三10,11",室內排球場,45,link,限本系生修.限本系「排球」專長學生修讀。
-3,3903027,01,運動場地規劃與管理Planning and management of sport facilities,教師未定,"2
+3,3903027,01,"運動場地規劃與管理
+Planning and management of sport facilities",教師未定,"2
+
             2/0/0",2,選修,"一4,5",運技系104室,40,link,
-3,3903106,01,運動按摩學Sport Massage,蔡明倫,"2
+3,3903106,01,"運動按摩學
+Sport Massage",蔡明倫,"2
+
             2/0/0",2,選修,"二11,12",技擊室1,45,link,
-3,3903110,01,個人與團體運動指導訓練Individual and Group Training Program (全英語授課/English-taught),李淑芳,"2
+3,3903110,01,"個人與團體運動指導訓練
+Individual and Group Training Program
+ (全英語授課/English-taught)",李淑芳,"2
+
             2/0/0",2,選修,"三4,5",技擊室1,45,link,
-1,3903112,01,游泳Swimming,江姿穎,"2
+1,3903112,01,"游泳
+Swimming",江姿穎,"2
+
             2/0/0",2,選修,"四4,5",游泳池1,40,link,限本系生修.第一次上課於運110室。
-3,3903113,01,籃球Basketball,吳君毅,"2
+3,3903113,01,"籃球
+Basketball",吳君毅,"2
+
             2/0/0",2,選修,"四4,5",室內籃球場,45,link,第一次上課於運103室。
-3,3903115,01,桌球Table Tennis,陳虔倖,"2
+3,3903115,01,"桌球
+Table Tennis",陳虔倖,"2
+
             2/0/0",2,選修,"三4,5",桌球教室,40,link,
-4,3903117,01,有氧舞蹈Aerobic Dance,莊麗燕,"2
+4,3903117,01,"有氧舞蹈
+Aerobic Dance",莊麗燕,"2
+
             2/0/0",2,選修,"五2,3",韻律教室1,45,link,限本系生修.
-4,3903120,01,運動專業實習（四）Internship: Sport Professional Management IV,吳燕妮,"2
+4,3903120,01,"運動專業實習（四）
+Internship: Sport Professional Management IV",吳燕妮,"2
+
             0/2/0",1,必修,一6 三6,運技系104室,40,link,限本系生修.限本系學生修讀。
-4,3904005,01,運動專業英語術語English Terms for Sports (全英語授課/English-taught),劉淑燕,"2
+4,3904005,01,"運動專業英語術語
+English Terms for Sports
+ (全英語授課/English-taught)",劉淑燕,"2
+
             2/0/0",2,必修,"三4,5",運技系110室,40,link,限本系生修.
-4,3904010,01,專長術科（七）—游泳Specialized Sport Training VII - Swimming,江姿穎,"4
+4,3904010,01,"專長術科（七）—游泳
+Specialized Sport Training VII - Swimming",江姿穎,"4
+
             4/0/0",4,必修,"一10,11 三10,11",游泳池1,40,link,限本系生修.限本系「游泳」專長學生修讀。
-4,3904011,01,專長術科（七）—網球Specialized Sport Training VII - Tennis,李元宏,"4
+4,3904011,01,"專長術科（七）—網球
+Specialized Sport Training VII - Tennis",李元宏,"4
+
             4/0/0",4,必修,"一10,11 三10,11",網球場1,45,link,限本系生修.限本系「網球」專長學生修讀。
-4,3904012,01,專長術科（七）—羽球Specialized Sport Training VII - Badminton,程嘉彥,"4
+4,3904012,01,"專長術科（七）—羽球
+Specialized Sport Training VII - Badminton",程嘉彥,"4
+
             4/0/0",4,必修,"一10,11 三10,11",羽球館1,45,link,限本系生修.限本系「羽球」專長學生修讀。
-4,3904014,01,專長術科（七）—跆拳道Specialized Sport Training VII - Taekwondo,吳燕妮,"4
+4,3904014,01,"專長術科（七）—跆拳道
+Specialized Sport Training VII - Taekwondo",吳燕妮,"4
+
             4/0/0",4,必修,"一10,11 三10,11",技擊室1,45,link,限本系生修.限本系「跆拳道」專長學生修讀。
-4,3904015,01,專長術科（七）—射箭Specialized Sport Training VII - Archery,廖健男,"4
+4,3904015,01,"專長術科（七）—射箭
+Specialized Sport Training VII - Archery",廖健男,"4
+
             4/0/0",4,必修,"一10,11 三10,11",射箭場,40,link,限本系生修.限本系「射箭」專長學生修讀。
-4,3904016,01,專長術科（七）—定向越野Specialized Sport Training VII - Orienteering,陳俊民,"4
+4,3904016,01,"專長術科（七）—定向越野
+Specialized Sport Training VII - Orienteering",陳俊民,"4
+
             4/0/0",4,必修,"一10,11 三10,11",田徑場1,60,link,限本系生修.限本系「定向越野」專長學生修讀。
-4,3904025,01,專長術科（七）—綜合Specialized Sport Training VII- Comprehensiveness,陳虔倖,"4
+4,3904025,01,"專長術科（七）—綜合
+Specialized Sport Training VII- Comprehensiveness",陳虔倖,"4
+
             4/0/0",4,必修,"一10,11 三10,11",田徑場2,60,link,限本系生修.限本系「綜合」專長學生修讀。
-4,3904027,01,專長術科（七）—排球 Specialized Sport Training VII - Volleyball,林明輝,"4
+4,3904027,01,"專長術科（七）—排球
+ Specialized Sport Training VII - Volleyball",林明輝,"4
+
             4/0/0",4,必修,"一10,11 三10,11",室內排球場,45,link,限本系生修.限本系「排球」專長學生修讀。
-4,3904101,01,運動技能學習Motor Skill Learning,沈緯鈞,"2
+4,3904101,01,"運動技能學習
+Motor Skill Learning",沈緯鈞,"2
+
             2/0/0",2,選修,"一2,3",運技系103室,40,link,
-4,3904102,01,運動與休閒跨域專題實作(一)Special Topic on Sport and Leisure Practice(I),廖俊儒,"2
+4,3904102,01,"運動與休閒跨域專題實作(一)
+Special Topic on Sport and Leisure Practice(I)",廖俊儒,"2
+
             2/0/0",2,選修,"二4,5",運技系104室,40,link,
-4,3904103,01,體育統計學Statistics in Physical Education,陳永洲,"2
+4,3904103,01,"體育統計學
+Statistics in Physical Education",陳永洲,"2
+
             2/0/0",2,選修,"一4,5",運技系103室,40,link,
-4,3904105,01,體育教材教法Health and Physic,曾沈連魁,"2
+4,3904105,01,"體育教材教法
+Health and Physic",曾沈連魁,"2
+
             2/0/0",2,選修,"二8,9",運技系104室,40,link,
-1,3904108,01,運動裁判法Sport Officiating,林明輝,"2
+1,3904108,01,"運動裁判法
+Sport Officiating",林明輝,"2
+
             2/0/0",2,選修,"三2,3",運技系110室,40,link,
-4,3904113,01,跆拳道Taekwondo,吳燕妮,"2
+4,3904113,01,"跆拳道
+Taekwondo",吳燕妮,"2
+
             2/0/0",2,選修,"三2,3",技擊室1,45,link,
-4,3904118,01,體育課程設計Sports Curriculum Design (全英語授課/English-taught),李淑芳,"2
+4,3904118,01,"體育課程設計
+Sports Curriculum Design
+ (全英語授課/English-taught)",李淑芳,"2
+
             2/0/0",2,選修,"二2,3",運技系103室,40,link,

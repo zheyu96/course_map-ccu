@@ -1,29 +1,60 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
-1,3455001,01,行為科學研究法Research Methods in Behavioral Science (全英語授課/English-taught),鄭瑞隆,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,開課學制,課程大綱,備註
+1,3455001,01,"行為科學研究法
+Research Methods in Behavioral Science
+ (全英語授課/English-taught)",鄭瑞隆,"3
+
             3/0/0",3,必修,"二3,4,5",教育館601,0,碩士班課程,link,",列入司法心理碩士學分學程科目碩一必修課程"
-1,3455002,01,犯罪學專題研究（一）Seminar on Criminology (I),賴擁連 曾淑萍,"3
+1,3455002,01,"犯罪學專題研究（一）
+Seminar on Criminology (I)",賴擁連 曾淑萍,"3
+
             3/0/0",3,必修,"三3,4,5",教育館601,0,碩士班課程,link,碩一必修課程
-1,3455011,01,刑事法學專題研究Seminar on Criminal Law,陳慈幸,"3
+1,3455011,01,"刑事法學專題研究
+Seminar on Criminal Law",陳慈幸,"3
+
             3/0/0",3,必修,"三7,8,9",教育館601,0,碩士班課程,link,",列入司法心理學士學分學程科目 ,列入司法心理碩士學分學程科目碩一必修課程"
-1,3455090,01,白領犯罪與經濟犯罪專題研究White Collar and Economic Crime,馬躍中,"3
+1,3455090,01,"白領犯罪與經濟犯罪專題研究
+White Collar and Economic Crime",馬躍中,"3
+
             3/0/0",3,選修,"一7,8,9",教育館604,0,碩士班課程,link,",列入司法心理碩士學分學程科目碩班選修課程"
-1,3455091,01,犯罪社會學理論專題研究Issues on Socialogical Aspect of Criminology Theory,廖福村,"3
+1,3455091,01,"犯罪社會學理論專題研究
+Issues on Socialogical Aspect of Criminology Theory",廖福村,"3
+
             3/0/0",3,選修,"四11,12,13",教育館605,0,碩博合開,link,碩博合開課程
-1,3456013,01,犯罪研究統計（一）Statistics in Crime Research (I),曾淑萍,"3
+1,3456013,01,"犯罪研究統計（一）
+Statistics in Crime Research (I)",曾淑萍,"3
+
             3/0/0",3,選修,"四7,8,9",教育館601,0,碩士班課程,link,",列入司法心理碩士學分學程科目 碩班選修課程"
-1,3456059,01,犯罪與神經心理學專題研究Seminar on Crime and Neuropsychology,陳巧雲,"3
+1,3456059,01,"犯罪與神經心理學專題研究
+Seminar on Crime and Neuropsychology",陳巧雲,"3
+
             3/0/0",3,選修,"一8,9,10",教育館605,0,碩博合開,link,",列入司法心理碩士學分學程科目碩博合開課程"
-1,3456061,01,性侵者與親密暴力者處遇專題研究Seminar on Treatment of Sex Offenders and Intimate Abusers,林明傑,"3
+1,3456061,01,"性侵者與親密暴力者處遇專題研究
+Seminar on Treatment of Sex Offenders and Intimate Abusers",林明傑,"3
+
             3/0/0",3,選修,"三7,8,9",教育館604,0,碩博合開,link,",列入司法心理碩士學分學程科目碩博合開課程"
-1,3456071,01,獨立研究：批判犯罪學之視角Independent study: The perspective of critical criminology,許華孚,"2
+1,3456071,01,"獨立研究：批判犯罪學之視角
+Independent study: The perspective of critical criminology",許華孚,"2
+
             2/0/0",2,選修,"四7,8",教育二館653,0,碩士班課程,link,"碩班選修課程,限許華孚老師指導學生修習"
-1,3456078,01,當代批判犯罪學Contemporary Critical Criminology,許華孚,"3
+1,3456078,01,"當代批判犯罪學
+Contemporary Critical Criminology",許華孚,"3
+
             3/0/0",3,選修,"四11,12,13",教育二館653,0,碩博合開,link,碩博合開課程
-1,3456079,01,少年事件處理法專題研究Seminar on Juvenile Incident Handling Act,陳慈幸,"3
+1,3456079,01,"少年事件處理法專題研究
+Seminar on Juvenile Incident Handling Act",陳慈幸,"3
+
             3/0/0",3,選修,"二3,4,5",教育館605,0,碩博合開,link,碩博合開課程
-1,3457001,01,犯罪學理論專題研究Seminar on Criminological Theory,賴擁連 曾淑萍,"3
+1,3457001,01,"犯罪學理論專題研究
+Seminar on Criminological Theory",賴擁連 曾淑萍,"3
+
             3/0/0",3,必修,"四3,4,5",教育二館653,0,博士班課程,link,博一必修課程
-1,3457027,01,刑事程序法專題研究Seminar on Code of Criminal Procedure,陳慈幸,"3
+1,3457027,01,"刑事程序法專題研究
+Seminar on Code of Criminal Procedure",陳慈幸,"3
+
             3/0/0",3,選修,"四3,4,5",教育館605,0,博士班課程,link,博班選修課程
-1,3457038,01,"犯罪與神經科學之程式設計、資料處理和資料視覺化Programming, data processing and data visualization for crime and neuroscience (全英語授課/English-taught)",馬杰仁,"3
+1,3457038,01,"犯罪與神經科學之程式設計、資料處理和資料視覺化
+Programming, data processing and data visualization for crime and neuroscience
+ (全英語授課/English-taught)",馬杰仁,"3
+
             3/0/0",3,選修,"一8,9,10",教育二館653,0,碩博合開,link,碩博合開課程

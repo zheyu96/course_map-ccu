@@ -1,83 +1,169 @@
-﻿年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
-1,2201001,01,普通物理實驗（一）Experiments on General Physics (I),門福國,"3
+﻿年級,編號,班別,科目名稱,任課教授,"上課時數
+正課/實驗實習/書報討論",學分,選必,上課時間,上課地點,限修人數,課程大綱,備註
+1,2201001,01,"普通物理實驗（一）
+Experiments on General Physics (I)",門福國,"3
+
             0/3/0",1,必修,"一10,11 三5",物理館502TEAL教室,53,link,保留新生52人; 支援化暨生化系一年級.
-1,2201001,02,普通物理實驗（一）Experiments on General Physics (I),李宗翰,"3
+1,2201001,02,"普通物理實驗（一）
+Experiments on General Physics (I)",李宗翰,"3
+
             0/3/0",1,必修,"一10,11 三5",物理館101,46,link,保留新生45人; 支援地環系一年級.
-1,2201001,03,普通物理實驗（一）Experiments on General Physics (I),甘宏志,"3
+1,2201001,03,"普通物理實驗（一）
+Experiments on General Physics (I)",甘宏志,"3
+
             0/3/0",1,必修,"四9 五4,5",物理館502TEAL教室,44,link,保留新生44人; 支援化工系一年級A班.
-1,2201001,04,普通物理實驗（一）Experiments on General Physics (I),姚欣佑,"3
+1,2201001,04,"普通物理實驗（一）
+Experiments on General Physics (I)",姚欣佑,"3
+
             0/3/0",1,必修,"五1,2,3",物理館502TEAL教室,50,link,保留新生50人
-1,2201001,05,普通物理實驗（一）Experiments on General Physics (I),林財鈺,"3
+1,2201001,05,"普通物理實驗（一）
+Experiments on General Physics (I)",林財鈺,"3
+
             0/3/0",1,必修,"五1,2,3",物理館101,50,link,保留新生50人
-1,2201001,06,普通物理實驗（一）Experiments on General Physics (I),李宗翰,"3
+1,2201001,06,"普通物理實驗（一）
+Experiments on General Physics (I)",李宗翰,"3
+
             0/3/0",1,必修,"五3,4,5",物理館112,30,link,供重修生選課。
-1,2201003,01,基礎物理（一）Fundamental of Physics (I),梁贊全,"4
+1,2201003,01,"基礎物理（一）
+Fundamental of Physics (I)",梁贊全,"4
+
             4/0/0",4,必修,"三10,11 五4,5",物理館211,25,link,保留新生25人本課程僅供物理系大一B組學生修課。
-1,2201007,01,基礎物理演習（一）Recitation  on  Fundamental of Physics (I),梁贊全,"1
+1,2201007,01,"基礎物理演習（一）
+Recitation  on  Fundamental of Physics (I)",梁贊全,"1
+
             1/0/0",1,選修,四8,物理館211,25,link,保留新生25人限本系生修.
-1,2201008,01,基礎物理實驗學（一）A組Experiments on Fundamental Physics (I)A,段必輝,"4
+1,2201008,01,"基礎物理實驗學（一）A組
+Experiments on Fundamental Physics (I)A",段必輝,"4
+
             4/0/0",4,必修,"四7,8,9,10",物理館525,30,link,保留新生30人
-1,2201009,01,基礎物理實驗學（一）B組Experiments on Fundamental Physics (I)B,姚松偉,"4
+1,2201009,01,"基礎物理實驗學（一）B組
+Experiments on Fundamental Physics (I)B",姚松偉,"4
+
             4/0/0",4,必修,"二7,8,9,10",物理館525,30,link,保留新生30人
-1,2201011,01,普通物理（一）General Physics (I),李宗翰,"3
+1,2201011,01,"普通物理（一）
+General Physics (I)",李宗翰,"3
+
             3/0/0",3,必修,"一4,5 三4",物理館206,95,link,保留新生95人; 支援地環系化暨生化系一年級.
-1,2201011,02,普通物理（一）General Physics (I),張晃暐,"3
+1,2201011,02,"普通物理（一）
+General Physics (I)",張晃暐,"3
+
             3/0/0",3,必修,"二4,5 四4",理學院215演講廳,95,link,保留新生39人; 支援電機系一年級A班.
-1,2201011,03,普通物理（一）General Physics (I),温秉彝,"3
+1,2201011,03,"普通物理（一）
+General Physics (I)",温秉彝,"3
+
             3/0/0",3,必修,"二4,5 四4",物理館206,95,link,保留新生39人; 支援電機系一年級B班.
-1,2201011,04,普通物理（一）General Physics (I),陳偉家,"3
+1,2201011,04,"普通物理（一）
+General Physics (I)",陳偉家,"3
+
             3/0/0",3,必修,"二4,5 四4",物理館307,60,link,保留新生44人; 支援通訊系一年級.
-1,2201011,05,普通物理（一）General Physics (I),甘宏志,"3
+1,2201011,05,"普通物理（一）
+General Physics (I)",甘宏志,"3
+
             3/0/0",3,必修,"二8,9 四8",物理館206,95,link,保留新生49人; 支援化工系一年級.
-1,2201015,01,普通物理（一）AGeneral Physics (I)A(遠距教學/Distant learning),包健華,"1
+1,2201015,01,"普通物理（一）A
+General Physics (I)A
+(遠距教學/Distant learning)",包健華,"1
+
             1/0/0",1,必修,五12,物理館107,55,link,先修科目(2201011)普通物理（一）(曾經修習) (2201021)普通物理（一）(曾經修習) (只要符合任一先修條件)
-1,2201016,01,普通物理（一）BGeneral Physics (I)B(遠距教學/Distant learning),包健華,"1
+1,2201016,01,"普通物理（一）B
+General Physics (I)B
+(遠距教學/Distant learning)",包健華,"1
+
             1/0/0",1,必修,五13,物理館107,55,link,先修科目(2201011)普通物理（一）(曾經修習) (2201021)普通物理（一）(曾經修習) (只要符合任一先修條件)
-1,2201017,01,普通物理（一）CGeneral Physics (I)C(遠距教學/Distant learning),陳偉家,"1
+1,2201017,01,"普通物理（一）C
+General Physics (I)C
+(遠距教學/Distant learning)",陳偉家,"1
+
             1/0/0",1,必修,五14,物理館107,55,link,先修科目(2201011)普通物理（一）(曾經修習) (2201021)普通物理（一）(曾經修習) (只要符合任一先修條件)
-1,2201021,01,普通物理（一）General Physics (I),包健華,"4
+1,2201021,01,"普通物理（一）
+General Physics (I)",包健華,"4
+
             4/0/0",4,必修,"二4,5 三10 四4",物理館502TEAL教室,117,link,保留新生30人; 支援物理系一年級.
-1,2201023,01,觀念物理（一）Conceptual Physics (I),陳偉家,"2
+1,2201023,01,"觀念物理（一）
+Conceptual Physics (I)",陳偉家,"2
+
             2/0/0",2,必修,"五4,5",物理館107,55,link,保留新生50人; 支援生醫系一年級.
-1,2201028,01,普通物理(一)演習Recitation  on General Physics (I),包健華,"1
+1,2201028,01,"普通物理(一)演習
+Recitation  on General Physics (I)",包健華,"1
+
             1/0/0",1,選修,四5,物理館502TEAL教室,117,link,保留新生30人; 支援物理系一年級.
-1,2201028,02,普通物理(一)演習Recitation  on General Physics (I),張晃暐,"1
+1,2201028,02,"普通物理(一)演習
+Recitation  on General Physics (I)",張晃暐,"1
+
             1/0/0",1,選修,四5,理學院215演講廳,80,link,保留新生39人; 支援電機系一年級A班.
-1,2201028,03,普通物理(一)演習Recitation  on General Physics (I),温秉彝,"1
+1,2201028,03,"普通物理(一)演習
+Recitation  on General Physics (I)",温秉彝,"1
+
             1/0/0",1,選修,四5,物理館206,110,link,保留新生39人; 支援電機系一年級B班.
-1,2201028,04,普通物理(一)演習Recitation  on General Physics (I),陳偉家,"1
+1,2201028,04,"普通物理(一)演習
+Recitation  on General Physics (I)",陳偉家,"1
+
             1/0/0",1,選修,四5,物理館307,60,link,保留新生44人; 支援通訊系一年級.
-2,2202005,01,基礎物理（三）Fundamental of Physics (III),蘇旺昌,"4
+2,2202005,01,"基礎物理（三）
+Fundamental of Physics (III)",蘇旺昌,"4
+
             4/0/0",4,必修,"二4,5 四4,5",物理館105,30,link,先修科目(2101001)微積分（一）(40分以上) (2101002)微積分（二）(40分以上) (所有先修條件都必須符合)
-2,2202007,01,基礎物理演習（三）Recitation  on  Fundamental of Physics (III),蘇旺昌,"1
+2,2202007,01,"基礎物理演習（三）
+Recitation  on  Fundamental of Physics (III)",蘇旺昌,"1
+
             1/0/0",1,選修,四8,物理館105,30,link,先修科目(2101001)微積分（一）(40分以上) (2101002)微積分（二）(40分以上) (所有先修條件都必須符合)
-2,2202009,01,基礎物理實驗學（三）A組Experiments on Fundamental Physics (III)A,林俊元,"4
+2,2202009,01,"基礎物理實驗學（三）A組
+Experiments on Fundamental Physics (III)A",林俊元,"4
+
             4/0/0",4,必修,"一7,8,9,10",物理館506光學實驗室,24,link,
-2,2202010,01,基礎物理實驗學（三）B組Experiments on Fundamental Physics (III)B,曲宏宇,"4
+2,2202010,01,"基礎物理實驗學（三）B組
+Experiments on Fundamental Physics (III)B",曲宏宇,"4
+
             4/0/0",4,必修,"一7,8,9,10",物理館525,30,link,
-2,2202011,01,應用數學（一）Applied Mathematics (I),吳欣澤,"3
+2,2202011,01,"應用數學（一）
+Applied Mathematics (I)",吳欣澤,"3
+
             3/0/0",3,必修,二B 四B,物理館307,60,link,先修科目(2101001)微積分（一）(50分以上) (2101002)微積分（二）(50分以上) (所有先修條件都必須符合)
-2,2202020,01,理論力學Theoretical Mechanics,蘇旺昌,"4
+2,2202020,01,"理論力學
+Theoretical Mechanics",蘇旺昌,"4
+
             4/0/0",4,必修,"一4,5 三4,5",物理館107,55,link,先修科目(2201021)普通物理（一）(50分以上) (2101001)微積分（一）(50分以上) (2101002)微積分（二）(50分以上) (所有先修條件都必須符合)
-2,2202030,01,電磁學Electricity and Magnetism,杜明憲,"4
+2,2202030,01,"電磁學
+Electricity and Magnetism",杜明憲,"4
+
             4/0/0",4,必修,"二4,5 四4,5",物理館106,55,link,先修科目(2101001)微積分（一）(50分以上) (2101002)微積分（二）(50分以上) (2201022)普通物理（二）(50分以上) (所有先修條件都必須符合)
-3,2203006,01,近代物理實驗學Experiments in Modern Physics,秦伊瑩,"4
+3,2203006,01,"近代物理實驗學
+Experiments in Modern Physics",秦伊瑩,"4
+
             4/0/0",4,選修,"一7,8,9,10",物理館522,18,link,
-3,2203022,01,量子物理（二）Quantum Physics (II),包健華,"4
+3,2203022,01,"量子物理（二）
+Quantum Physics (II)",包健華,"4
+
             4/0/0",4,必修,"二8,9 四8,9",物理館107,55,link,先修科目(2203021)量子物理（一）(及格)
-3,2203041,01,熱統計物理學Thermal and Statistical Physics,蔡炎熾,"4
+3,2203041,01,"熱統計物理學
+Thermal and Statistical Physics",蔡炎熾,"4
+
             4/0/0",4,必修,"三4,5 五4,5",物理館525,30,link,先修科目(2201011)普通物理（一）(50分以上) (2201021)普通物理（一）(50分以上) (2201003)基礎物理（一）(50分以上) (只要符合任一先修條件)實際上課地點物理館106
-3,2203050,01,光學Optics,段必輝,"3
+3,2203050,01,"光學
+Optics",段必輝,"3
+
             3/0/0",3,選修,二C 四C,物理館304,35,link,
-3,2203111,01,物理專題（一）Special Topic in Physics(I),蘇旺昌,"2
+3,2203111,01,"物理專題（一）
+Special Topic in Physics(I)",蘇旺昌,"2
+
             2/0/0",2,必修,"三8,9",物理館303,36,link,專題指導教授僅限本系專任教師
-3,2203115,01,論文研習與撰寫（一）Literatures study and thesis writing(I),姚欣佑,"4
+3,2203115,01,"論文研習與撰寫（一）
+Literatures study and thesis writing(I)",姚欣佑,"4
+
             4/0/0",4,必修,"二10,11 四10,11",物理館303,36,link,
-4,2204003,01,物理專題（三）Special Topic in Physics (III),秦伊瑩,"2
+4,2204003,01,"物理專題（三）
+Special Topic in Physics (III)",秦伊瑩,"2
+
             2/0/0",2,必修,"三8,9",物理館304,35,link,專題指導教授僅限本系專任教師
-4,2204005,01,論文研習與撰寫(三)Literatures study and thesis writing (III),姚松偉 杜明憲,"4
+4,2204005,01,"論文研習與撰寫(三)
+Literatures study and thesis writing (III)",姚松偉 杜明憲,"4
+
             4/0/0",4,必修,"二13,14 四13,14",物理館303,36,link,
-4,2204010,01,基本粒子物理導論Introduction to Elementary Particle Physics,杜明憲,"3
+4,2204010,01,"基本粒子物理導論
+Introduction to Elementary Particle Physics",杜明憲,"3
+
             3/0/0",3,選修,二G 四G,物理館106,55,link,先修科目(2203021)量子物理（一）(曾經修習)
-4,2204021,01,進階光學Advanced Optics,許佳振,"3
+4,2204021,01,"進階光學
+Advanced Optics",許佳振,"3
+
             3/0/0",3,選修,三G 五G,物理館303,36,link,
