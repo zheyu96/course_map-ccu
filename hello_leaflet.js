@@ -54,7 +54,7 @@ for(let i = 0; i < 5; i++){
     }
 }
 var dayOfWeekCh = {'一': 0, '二': 1, '三': 2, '四': 3, '五': 4, '六': 5, '日': 6};
-var dayOfWeekEn = ['Mon', 'Tue', 'Wen', 'Thu', 'Fri'];
+var dayOfWeekEn = ['Mon', 'Tue', 'Wen', 'Thu', 'Fri', 'Sat'];
 var numtoday="一二三四五六日";
 
 //check cookie
