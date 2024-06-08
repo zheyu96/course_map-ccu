@@ -365,12 +365,20 @@ function closeRouting(){
 }
 
 function addcourse(courseID, input, mode){
-    let txtValue=course[courseID]['上課地點'];
+    let txtValue="";
+    var buildingname=course[courseID]['上課地點'];
+    for (var i=0;i<buildingname.length;i++){
+        if(buildingname[i]>='0'&&buildingname[i]<='9')
+            break;
+        else
+            txtValue+=buildingname[i];
+    }
+    //alert(txtValue);
     let flag = 1;
     //alert(txtValue);
     var used=0;
     for(var i=0;i<building.length;i++){
-        if(txtValue.indexOf(building[i].name)>-1){
+        if(txtValue===building[i].name){
             for(let j = 0; j < addedCourse.length; j++){
                 if(course[courseID].index == addedCourse[j].index){
                     alert("加入失敗 (已在課程表內)");
