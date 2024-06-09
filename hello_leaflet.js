@@ -463,11 +463,23 @@ function timeFromStrToChar(obj){
 function getTimeRoutePos(preTxtValue, nowTxtValue){
     closeRouting();
     for(var i=0;i<building.length;i++){
-        if(preTxtValue['上課地點'].indexOf(building[i].name)>-1){
+        var preBuliding="";
+        for(var j=0;j<preTxtValue['上課地點'].length;j++)
+            if('0'<=preTxtValue['上課地點'][j]&&preTxtValue['上課地點'][j]<='9')
+                break;
+            else 
+                preBuliding+=preTxtValue['上課地點'][j];
+        var nowBuilding="";
+        for(var j=0;j<nowTxtValue['上課地點'].length;j++)
+            if('0'<=nowTxtValue['上課地點'][j]&&nowTxtValue['上課地點'][j]<='9')
+                break;
+            else 
+                nowBuilding+=nowTxtValue['上課地點'][j];
+        if(preBuliding===building[i].name){
             routeStart.LatLng = {lat: building[i].latitude, lng: building[i].longitude};
             routeStart.index = preTxtValue.index;
         }
-        if(nowTxtValue['上課地點'].indexOf(building[i].name)>-1){
+        if(nowBuilding===building[i].name){
             routeEnd.LatLng = {lat: building[i].latitude, lng: building[i].longitude};
             routeEnd.index = nowTxtValue.index;
         }
