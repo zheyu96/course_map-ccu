@@ -202,6 +202,7 @@ function createClassRow(obj, marker){
     let addTimeBtn = document.createElement('button');
     addTimeBtn.innerText = "加入時間表";
     addTimeBtn.setAttribute('class', 'classTableIdxBtn');
+    addTimeBtn.setAttribute('display','none');
     cell5.appendChild(addTimeBtn);
     addTimeBtn.onclick = function(){appendTimeTable(obj, row)};
     //6
