@@ -45,9 +45,9 @@ let iconGreen = L.icon({
 
 
 var credit = 0;
-var isSpare = new Array(7); //三維陣列 天-小時-15分鐘
+var isSpare = new Array(6); //三維陣列 天-小時-15分鐘
 var addedTimeClass = [];
-for(let i = 0; i < 5; i++){
+for(let i = 0; i < 6; i++){
     isSpare[i] = new Array(15);
     for(let j = 0; j < 15; j++){
         isSpare[i][j] = new Array(4).fill(1);
@@ -496,7 +496,7 @@ function getTimeRoutePos(preTxtValue, nowTxtValue){
 }
 
 function sortShowTimeTable(){
-    for(let i = 0; i < 5; i++){
+    for(let i = 0; i < 6; i++){
         while (document.getElementById(dayOfWeekEn[i]).children[1]) {
             document.getElementById(dayOfWeekEn[i]).removeChild(document.getElementById(dayOfWeekEn[i]).children[1]);
         }
