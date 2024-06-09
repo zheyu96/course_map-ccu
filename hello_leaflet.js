@@ -45,7 +45,7 @@ let iconGreen = L.icon({
 
 
 var credit = 0;
-var isSpare = new Array(5); //三維陣列 天-小時-15分鐘
+var isSpare = new Array(7); //三維陣列 天-小時-15分鐘
 var addedTimeClass = [];
 for(let i = 0; i < 5; i++){
     isSpare[i] = new Array(15);
