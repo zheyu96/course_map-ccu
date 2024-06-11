@@ -20,20 +20,15 @@
 <body>
     <!--搜尋欄那一橫條-->
         <!--輸入框-->
-        <div class="dropdown">
-            <input type="text" placeholder="Search.." id="myInput">
-            <div class="height_max">
-                <div class="dropdown-content" id="dropdowndata">
-                </div>
+    <div class="dropdown">
+        <input type="text" placeholder="Search.." id="myInput">
+        <div class="height_max">
+            <div class="dropdown-content" id="dropdowndata">
             </div>
         </div>
-    <div class="searchBar">
-        <!--靠右-->
-        <div style="display: flex; justify-content: flex-end; flex: auto">
-            <!--選單按鈕-->
-            <button id="menuBtn" aria-label="menu"><i class="fa fa-bars" aria-hidden="true"></i></button>
-        </div>
     </div>
+    <!--選單按鈕-->
+    <button id="menuBtn" aria-label="menu"><i class="fa fa-bars" aria-hidden="true"></i></button>
     <ul id="menu" style="display: none">
         <!--選單內的按鈕-->
         <li><button class="submenuBtn" id="openCloseClass">顯示課程</button></li>
@@ -92,4 +87,3 @@
 
 <script type="module" src="hello_leaflet.js"></script>
 <script type="module" src="dragable.js"></script>
-<!-- <script type="module" src="searchbox.js"></script> -->
