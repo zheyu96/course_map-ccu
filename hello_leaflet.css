@@ -67,6 +67,10 @@ html,body{
     z-index: 1000;
 }
 #menuBtn{
+    position: absolute;
+    z-index: 1000;
+    top: 20px;
+    right: 0%;
     width: 60px;
     font-size: 20px;
     padding: 6px 20px;
